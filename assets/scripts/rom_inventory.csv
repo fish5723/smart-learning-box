@@ -1,0 +1,2198 @@
+﻿id,path,filename,extension,size
+1,ROM/0001/Donkey Kong (J) [!].nes,Donkey Kong (J) [!].nes,nes,24592
+2,ROM/0001/Donkey Kong (J).fds,Donkey Kong (J).fds,fds,65516
+3,ROM/0001/Donkey Kong (W) [!].nes,Donkey Kong (W) [!].nes,nes,24592
+4,ROM/0002/Donkey Kong Jr. (J) [!].nes,Donkey Kong Jr. (J) [!].nes,nes,24592
+5,ROM/0002/Donkey Kong Jr. (J).fds,Donkey Kong Jr. (J).fds,fds,65516
+6,ROM/0002/Donkey Kong Jr. (W) [!].nes,Donkey Kong Jr. (W) [!].nes,nes,24592
+7,ROM/0003/Popeye (J) [!].nes,Popeye (J) [!].nes,nes,24592
+8,ROM/0003/Popeye (W) [!].nes,Popeye (W) [!].nes,nes,24592
+9,ROM/0004/Gomoku Narabe (J) (Proto).fds,Gomoku Narabe (J) (Proto).fds,fds,65516
+10,ROM/0004/Gomoku Narabe (J) [!].nes,Gomoku Narabe (J) [!].nes,nes,24592
+11,ROM/0005/Mahjong (J) (REVA) [!].nes,Mahjong (J) (REVA) [!].nes,nes,24592
+12,ROM/0005/Mahjong (J) (REVB) [!].nes,Mahjong (J) (REVB) [!].nes,nes,24592
+13,ROM/0005/Mahjong (J).fds,Mahjong (J).fds,fds,65516
+14,ROM/0006/Mario Bros. (E) (PRG0) [!].nes,Mario Bros. (E) (PRG0) [!].nes,nes,40976
+15,ROM/0006/Mario Bros. (E) (PRG1) [!].nes,Mario Bros. (E) (PRG1) [!].nes,nes,24592
+16,ROM/0006/Mario Bros. (W) [!].nes,Mario Bros. (W) [!].nes,nes,24592
+17,ROM/0006/Mario Bros. (W) [HL].nes,Mario Bros. (W) [HL].nes,nes,24576
+18,ROM/0007/Popeye no Eigo Asobi (J) [!].nes,Popeye no Eigo Asobi (J) [!].nes,nes,24592
+19,ROM/0008/Baseball (J) [!].nes,Baseball (J) [!].nes,nes,24592
+20,ROM/0008/Baseball (J).fds,Baseball (J).fds,fds,65516
+21,ROM/0008/Baseball (U) [!].nes,Baseball (U) [!].nes,nes,24592
+22,ROM/0009/Donkey Kong Jr. Math (UE) [!].nes,Donkey Kong Jr. Math (UE) [!].nes,nes,24592
+23,ROM/0009/Donkey Kong Jr. no Sansuu Asobi (J) [!].nes,Donkey Kong Jr. no Sansuu Asobi (J) [!].nes,nes,24592
+24,ROM/0010/Tennis (E) [!].nes,Tennis (E) [!].nes,nes,24592
+25,ROM/0010/Tennis (J).fds,Tennis (J).fds,fds,65516
+26,ROM/0010/Tennis (JU) [!].nes,Tennis (JU) [!].nes,nes,24592
+27,ROM/0011/Pinball (E) [!].nes,Pinball (E) [!].nes,nes,24592
+28,ROM/0011/Pinball (J).fds,Pinball (J).fds,fds,65516
+29,ROM/0011/Pinball (JU) [!].nes,Pinball (JU) [!].nes,nes,24592
+30,ROM/0012/Wild Gunman (W) (PRG0) [!].nes,Wild Gunman (W) (PRG0) [!].nes,nes,24592
+31,ROM/0012/Wild Gunman (W) (PRG1) [!].nes,Wild Gunman (W) (PRG1) [!].nes,nes,24592
+32,ROM/0013/Duck Hunt (W) [!].nes,Duck Hunt (W) [!].nes,nes,24592
+33,ROM/0014/Golf (E) [!].nes,Golf (E) [!].nes,nes,24592
+34,ROM/0014/Golf (J) (PRG0).fds,Golf (J) (PRG0).fds,fds,65516
+35,ROM/0014/Golf (J) (PRG1).fds,Golf (J) (PRG1).fds,fds,65516
+36,ROM/0014/Golf (J) (PRG2) (Possible Proto).fds,Golf (J) (PRG2) (Possible Proto).fds,fds,65516
+37,ROM/0014/Golf (J) [!].nes,Golf (J) [!].nes,nes,24592
+38,ROM/0014/Golf (U) [!].nes,Golf (U) [!].nes,nes,24592
+39,ROM/0015/Hogan's Alley (W) [!].nes,Hogan's Alley (W) [!].nes,nes,24592
+40,ROM/0016/Family Basic (J) (v2.1a) [!].nes,Family Basic (J) (v2.1a) [!].nes,nes,40976
+41,ROM/0016/Playbox Basic (J).nes,Playbox Basic (J).nes,nes,40976
+42,ROM/0017/Donkey Kong 3 (W) [!].nes,Donkey Kong 3 (W) [!].nes,nes,24592
+43,ROM/0018/Nuts & Milk (J) [!].nes,Nuts & Milk (J) [!].nes,nes,24592
+44,ROM/0019/Lode Runner (J) [!].nes,Lode Runner (J) [!].nes,nes,24592
+45,ROM/0019/Lode Runner (U) [!].nes,Lode Runner (U) [!].nes,nes,24592
+46,ROM/0020/Galaxian (J) (Evercade) [b1].nes,Galaxian (J) (Evercade) [b1].nes,nes,40976
+47,ROM/0020/Galaxian (J) (PRG0) [!].nes,Galaxian (J) (PRG0) [!].nes,nes,16400
+48,ROM/0020/Galaxian (J) (PRG1) [!].nes,Galaxian (J) (PRG1) [!].nes,nes,16400
+49,ROM/0020/Galaxian (J).fds,Galaxian (J).fds,fds,65516
+50,ROM/0020/Galaxian (W) (NC).nes,Galaxian (W) (NC).nes,nes,24592
+51,ROM/0021/Devil World (E) [!].nes,Devil World (E) [!].nes,nes,24592
+52,ROM/0021/Devil World (J) (PRG0) [!].nes,Devil World (J) (PRG0) [!].nes,nes,24592
+53,ROM/0021/Devil World (J) (PRG1) [!].nes,Devil World (J) (PRG1) [!].nes,nes,24592
+54,ROM/0022/4 Nin Uchi Mahjong (J) (PRG0) [!].nes,4 Nin Uchi Mahjong (J) (PRG0) [!].nes,nes,24592
+55,ROM/0022/4 Nin Uchi Mahjong (J) (PRG1) [!].nes,4 Nin Uchi Mahjong (J) (PRG1) [!].nes,nes,24592
+56,ROM/0023/F-1 Race (J) [!].nes,F-1 Race (J) [!].nes,nes,24592
+57,ROM/0024/Pac-Man (Namco) (E) [!].nes,Pac-Man (Namco) (E) [!].nes,nes,24592
+58,ROM/0024/Pac-Man (Namco) (J) (PRG0) [!].nes,Pac-Man (Namco) (J) (PRG0) [!].nes,nes,24592
+59,ROM/0024/Pac-Man (Namco) (J) (PRG1) [!].nes,Pac-Man (Namco) (J) (PRG1) [!].nes,nes,24592
+60,ROM/0024/Pac-Man (Namco) (J) (PRG2).nes,Pac-Man (Namco) (J) (PRG2).nes,nes,24592
+61,ROM/0024/Pac-Man (Namco) (J).fds,Pac-Man (Namco) (J).fds,fds,65516
+62,ROM/0024/Pac-Man (Namco) (U) [!].nes,Pac-Man (Namco) (U) [!].nes,nes,24592
+63,ROM/0024/Pac-Man (Namco) (W) (Evercade).nes,Pac-Man (Namco) (W) (Evercade).nes,nes,24592
+64,ROM/0024/Pac-Man (Namco) (W) (NC).nes,Pac-Man (Namco) (W) (NC).nes,nes,24592
+65,ROM/0025/Xevious (E) [!].nes,Xevious (E) [!].nes,nes,40976
+66,ROM/0025/Xevious (J) (PRG0) [!].nes,Xevious (J) (PRG0) [!].nes,nes,40976
+67,ROM/0025/Xevious (J) (PRG1) [!].nes,Xevious (J) (PRG1) [!].nes,nes,40976
+68,ROM/0025/Xevious (J).fds,Xevious (J).fds,fds,65516
+69,ROM/0025/Xevious (U) (Evercade).nes,Xevious (U) (Evercade).nes,nes,40976
+70,ROM/0025/Xevious (U) [!].nes,Xevious (U) [!].nes,nes,40976
+71,ROM/0026/Urban Champion (W) [!].nes,Urban Champion (W) [!].nes,nes,24592
+72,ROM/0027/Mappy (J) (Evercade).nes,Mappy (J) (Evercade).nes,nes,24592
+73,ROM/0027/Mappy (J) [!].nes,Mappy (J) [!].nes,nes,24592
+74,ROM/0027/Mappy (W) (NC).nes,Mappy (W) (NC).nes,nes,24592
+75,ROM/0028/Clu Clu Land (J) [!].fds,Clu Clu Land (J) [!].fds,fds,65516
+76,ROM/0028/Clu Clu Land (W) [!].nes,Clu Clu Land (W) [!].nes,nes,24592
+77,ROM/0029/Excitebike (E) [!].nes,Excitebike (E) [!].nes,nes,24592
+78,ROM/0029/Excitebike (JU) [!].nes,Excitebike (JU) [!].nes,nes,24592
+79,ROM/0029/Excitebike (W) (SO).nes,Excitebike (W) (SO).nes,nes,40976
+80,ROM/0030/Balloon Fight (E) [!].nes,Balloon Fight (E) [!].nes,nes,24592
+81,ROM/0030/Balloon Fight (J) [!].nes,Balloon Fight (J) [!].nes,nes,24592
+82,ROM/0030/Balloon Fight (U) [!].nes,Balloon Fight (U) [!].nes,nes,24592
+83,ROM/0031/Ice Climber (J) [!].nes,Ice Climber (J) [!].nes,nes,24592
+84,ROM/0031/Ice Climber (J).fds,Ice Climber (J).fds,fds,65516
+85,ROM/0031/Ice Climber (UE) [!].nes,Ice Climber (UE) [!].nes,nes,24592
+86,ROM/0032/Exerion (J) [!].nes,Exerion (J) [!].nes,nes,24592
+87,ROM/0033/Galaga (E) [!].nes,Galaga (E) [!].nes,nes,40976
+88,ROM/0033/Galaga (J) [!].nes,Galaga (J) [!].nes,nes,24592
+89,ROM/0033/Galaga (J).fds,Galaga (J).fds,fds,65516
+90,ROM/0033/Galaga (U) (Evercade).nes,Galaga (U) (Evercade).nes,nes,40976
+91,ROM/0033/Galaga (U) [!].nes,Galaga (U) [!].nes,nes,40976
+92,ROM/0033/Galaga (W) (NC).nes,Galaga (W) (NC).nes,nes,24592
+93,ROM/0034/NS-Hu Basic (v3.0) (J) [!].nes,NS-Hu Basic (v3.0) (J) [!].nes,nes,40976
+94,ROM/0035/Raid on Bungeling Bay (J) (PRG0) [!].nes,Raid on Bungeling Bay (J) (PRG0) [!].nes,nes,24592
+95,ROM/0035/Raid on Bungeling Bay (J) (PRG1).nes,Raid on Bungeling Bay (J) (PRG1).nes,nes,24592
+96,ROM/0035/Raid on Bungeling Bay (U) [!].nes,Raid on Bungeling Bay (U) [!].nes,nes,24592
+97,ROM/0036/Formation Z (J) (PRG0) [!].nes,Formation Z (J) (PRG0) [!].nes,nes,24592
+98,ROM/0036/Formation Z (J) (PRG1) [!].nes,Formation Z (J) (PRG1) [!].nes,nes,24592
+99,ROM/0037/Soccer (E) [!].nes,Soccer (E) [!].nes,nes,40976
+100,ROM/0037/Soccer (J).fds,Soccer (J).fds,fds,65516
+101,ROM/0037/Soccer (JU) [!].nes,Soccer (JU) [!].nes,nes,40976
+102,ROM/0038/Space Invaders (J) [!].nes,Space Invaders (J) [!].nes,nes,24592
+103,ROM/0039/Championship Lode Runner (J) [!].nes,Championship Lode Runner (J) [!].nes,nes,24592
+104,ROM/0040/Yie Ar Kung-Fu (J) (V1.2) [!].nes,Yie Ar Kung-Fu (J) (V1.2) [!].nes,nes,24592
+105,ROM/0040/Yie Ar Kung-Fu (J) (V1.4) [!].nes,Yie Ar Kung-Fu (J) (V1.4) [!].nes,nes,24592
+106,ROM/0041/Antarctic Adventure (J) (PRG0) [!].nes,Antarctic Adventure (J) (PRG0) [!].nes,nes,24592
+107,ROM/0041/Antarctic Adventure (J) (PRG1) [!].nes,Antarctic Adventure (J) (PRG1) [!].nes,nes,24592
+108,ROM/0042/Ninja-kun (J) (PRG0) [!].nes,Ninja-kun (J) (PRG0) [!].nes,nes,24592
+109,ROM/0042/Ninja-kun (J) (PRG1).nes,Ninja-kun (J) (PRG1).nes,nes,24592
+110,ROM/0042/Ninja-kun (J).fds,Ninja-kun (J).fds,fds,65516
+111,ROM/0043/Chack'n Pop (J) [!].nes,Chack'n Pop (J) [!].nes,nes,24592
+112,ROM/0044/Dig Dug (J) (Evercade).nes,Dig Dug (J) (Evercade).nes,nes,24592
+113,ROM/0044/Dig Dug (J) [!].nes,Dig Dug (J) [!].nes,nes,24592
+114,ROM/0044/Dig Dug (J).fds,Dig Dug (J).fds,fds,65516
+115,ROM/0044/Dig Dug (W) (NC).nes,Dig Dug (W) (NC).nes,nes,24592
+116,ROM/0045/Flappy (J) [!].nes,Flappy (J) [!].nes,nes,40976
+117,ROM/0046/Wrecking Crew (J).fds,Wrecking Crew (J).fds,fds,65516
+118,ROM/0046/Wrecking Crew (W) [!].nes,Wrecking Crew (W) [!].nes,nes,40976
+119,ROM/0047/Kung Fu (E) [!].nes,Kung Fu (E) [!].nes,nes,40976
+120,ROM/0047/Kung Fu (U) [!].nes,Kung Fu (U) [!].nes,nes,40976
+121,ROM/0047/Spartan X (J) [!].nes,Spartan X (J) [!].nes,nes,40976
+122,ROM/0047/Spartan X (J).fds,Spartan X (J).fds,fds,65516
+123,ROM/0048/Hyper Olympic (J) (Genteiban!) [!].nes,Hyper Olympic (J) (Genteiban!) [!].nes,nes,49168
+124,ROM/0048/Hyper Olympic (J) [!].nes,Hyper Olympic (J) [!].nes,nes,24592
+125,ROM/0048/Track & Field (U) [!].nes,Track & Field (U) [!].nes,nes,65552
+126,ROM/0048/Track & Field in Barcelona (E) [!].nes,Track & Field in Barcelona (E) [!].nes,nes,65552
+127,ROM/0049/Star Force (E) [!].nes,Star Force (E) [!].nes,nes,65552
+128,ROM/0049/Star Force (J) [!].nes,Star Force (J) [!].nes,nes,24592
+129,ROM/0049/Star Force (U) [!].nes,Star Force (U) [!].nes,nes,65552
+130,ROM/0050/Elevator Action (J) (PRG0) [!].nes,Elevator Action (J) (PRG0) [!].nes,nes,40976
+131,ROM/0050/Elevator Action (J) (PRG1).nes,Elevator Action (J) (PRG1).nes,nes,40976
+132,ROM/0050/Elevator Action (U) [!].nes,Elevator Action (U) [!].nes,nes,40976
+133,ROM/0051/Field Combat (J) [!].nes,Field Combat (J) [!].nes,nes,24592
+134,ROM/0052/Road Fighter (E) [!].nes,Road Fighter (E) [!].nes,nes,24592
+135,ROM/0052/Road Fighter (J) [!].nes,Road Fighter (J) [!].nes,nes,24592
+136,ROM/0053/Warpman (J) (Evercade).nes,Warpman (J) (Evercade).nes,nes,24592
+137,ROM/0053/Warpman (J) [!].nes,Warpman (J) [!].nes,nes,24592
+138,ROM/0054/Zippy Race (J) [!].nes,Zippy Race (J) [!].nes,nes,24592
+139,ROM/0055/Door Door (J) [!].nes,Door Door (J) [!].nes,nes,24592
+140,ROM/0056/Super Arabian (J) [!].nes,Super Arabian (J) [!].nes,nes,24592
+141,ROM/0057/Robot Block (W) [!].nes,Robot Block (W) [!].nes,nes,40976
+142,ROM/0058/Front Line (J) [!].nes,Front Line (J) [!].nes,nes,24592
+143,ROM/0059/The Tower of Druaga (J) [!].nes,The Tower of Druaga (J) [!].nes,nes,40976
+144,ROM/0059/The Tower of Druaga (U) (Evercade).nes,The Tower of Druaga (U) (Evercade).nes,nes,40976
+145,ROM/0059/The Tower of Druaga (W) (NC).nes,The Tower of Druaga (W) (NC).nes,nes,40976
+146,ROM/0060/Astro Robo Sasa (J) [!].nes,Astro Robo Sasa (J) [!].nes,nes,40976
+147,ROM/0061/Naitou Kudan - Shougi Hiden (J) [!].nes,Naitou Kudan - Shougi Hiden (J) [!].nes,nes,24592
+148,ROM/0062/Robot Gyro (W) [!].nes,Robot Gyro (W) [!].nes,nes,40976
+149,ROM/0063/Geimos (J) [!].nes,Geimos (J) [!].nes,nes,40976
+150,ROM/0064/10-Yard Fight (J) (PRG0) [!].nes,10-Yard Fight (J) (PRG0) [!].nes,nes,24592
+151,ROM/0064/10-Yard Fight (J) (PRG1) [!].nes,10-Yard Fight (J) (PRG1) [!].nes,nes,24592
+152,ROM/0064/10-Yard Fight (U) (AM).nes,10-Yard Fight (U) (AM).nes,nes,40976
+153,ROM/0064/10-Yard Fight (UE) [!].nes,10-Yard Fight (UE) [!].nes,nes,40976
+154,ROM/0065/Battle City (J) [!].nes,Battle City (J) [!].nes,nes,24592
+155,ROM/0065/Battle City (W) (NMA).nes,Battle City (W) (NMA).nes,nes,24592
+156,ROM/0066/Super Mario Bros. (E) (PRG0) [!].nes,Super Mario Bros. (E) (PRG0) [!].nes,nes,40976
+157,ROM/0066/Super Mario Bros. (E) (PRG1) [!].nes,Super Mario Bros. (E) (PRG1) [!].nes,nes,40976
+158,ROM/0066/Super Mario Bros. (J).fds,Super Mario Bros. (J).fds,fds,65516
+159,ROM/0066/Super Mario Bros. (W) [!].nes,Super Mario Bros. (W) [!].nes,nes,40976
+160,ROM/0067/Pooyan (J) [!].nes,Pooyan (J) [!].nes,nes,24592
+161,ROM/0068/Hyper Sports (J) (PRG0) [!].nes,Hyper Sports (J) (PRG0) [!].nes,nes,24592
+162,ROM/0068/Hyper Sports (J) (PRG1) [!].nes,Hyper Sports (J) (PRG1) [!].nes,nes,24592
+163,ROM/0069/City Connection (E) [!].nes,City Connection (E) [!].nes,nes,65552
+164,ROM/0069/City Connection (J) [!].nes,City Connection (J) [!].nes,nes,32784
+165,ROM/0069/City Connection (U) (Evercade).nes,City Connection (U) (Evercade).nes,nes,65552
+166,ROM/0069/City Connection (U) [!].nes,City Connection (U) [!].nes,nes,65552
+167,ROM/0070/Route-16 Turbo (J) [!].nes,Route-16 Turbo (J) [!].nes,nes,40976
+168,ROM/0071/Challenger (J) [!].nes,Challenger (J) [!].nes,nes,40976
+169,ROM/0072/Kinnikuman - Muscle Tag Match (J) (PRG0) [!].nes,Kinnikuman - Muscle Tag Match (J) (PRG0) [!].nes,nes,24592
+170,ROM/0072/Kinnikuman - Muscle Tag Match (J) (PRG1) [!].nes,Kinnikuman - Muscle Tag Match (J) (PRG1) [!].nes,nes,24592
+171,ROM/0072/M.U.S.C.L.E. (U) [!].nes,M.U.S.C.L.E. (U) [!].nes,nes,24592
+172,ROM/0073/Sky Destroyer (J) [!].nes,Sky Destroyer (J) [!].nes,nes,24592
+173,ROM/0074/Ninja Jajamaru-kun (J) [!].nes,Ninja Jajamaru-kun (J) [!].nes,nes,32784
+174,ROM/0074/Ninja Jajamaru-kun (UE) (VC).nes,Ninja Jajamaru-kun (UE) (VC).nes,nes,49168
+175,ROM/0074/Ninja Jajamaru-kun (VS).nes,Ninja Jajamaru-kun (VS).nes,nes,49168
+176,ROM/0075/Pac-Land (J) [!].nes,Pac-Land (J) [!].nes,nes,40976
+177,ROM/0075/Pac-Land (W) (NC).nes,Pac-Land (W) (NC).nes,nes,40976
+178,ROM/0076/Onyanko Town (J) [!].nes,Onyanko Town (J) [!].nes,nes,40976
+179,ROM/0077/Pachicom (J) [!].nes,Pachicom (J) [!].nes,nes,40976
+180,ROM/0077/Pachicom (J).fds,Pachicom (J).fds,fds,65516
+181,ROM/0078/Mach Rider (E) [!].nes,Mach Rider (E) [!].nes,nes,40976
+182,ROM/0078/Mach Rider (JU) (PRG0) [!].nes,Mach Rider (JU) (PRG0) [!].nes,nes,40976
+183,ROM/0078/Mach Rider (JU) (PRG1) [!].nes,Mach Rider (JU) (PRG1) [!].nes,nes,40976
+184,ROM/0079/BurgerTime (J) [!].nes,BurgerTime (J) [!].nes,nes,24592
+185,ROM/0079/BurgerTime (J).fds,BurgerTime (J).fds,fds,65516
+186,ROM/0079/BurgerTime (U) (Evercade).nes,BurgerTime (U) (Evercade).nes,nes,24592
+187,ROM/0079/BurgerTime (U) [!].nes,BurgerTime (U) [!].nes,nes,24592
+188,ROM/0080/Ikki (J) [!].nes,Ikki (J) [!].nes,nes,24592
+189,ROM/0081/Portopia Renzoku Satsujin Jiken (J) [!].nes,Portopia Renzoku Satsujin Jiken (J) [!].nes,nes,40976
+190,ROM/0082/Karateka (J) [!].nes,Karateka (J) [!].nes,nes,24592
+191,ROM/0083/Lunar Ball (J) [!].nes,Lunar Ball (J) [!].nes,nes,24592
+192,ROM/0083/Lunar Pool (E) [!].nes,Lunar Pool (E) [!].nes,nes,40976
+193,ROM/0083/Lunar Pool (U) [!].nes,Lunar Pool (U) [!].nes,nes,24592
+194,ROM/0084/Star Luster (J) (Evercade).nes,Star Luster (J) (Evercade).nes,nes,40976
+195,ROM/0084/Star Luster (J) [!].nes,Star Luster (J) [!].nes,nes,40976
+196,ROM/0084/Star Luster (VS).nes,Star Luster (VS).nes,nes,49168
+197,ROM/0085/Volguard II (J) [!].nes,Volguard II (J) [!].nes,nes,40976
+198,ROM/0086/Spelunker (J) [!].nes,Spelunker (J) [!].nes,nes,40976
+199,ROM/0086/Spelunker (U) [!].nes,Spelunker (U) [!].nes,nes,40976
+200,ROM/0087/Macross (J) [!].nes,Macross (J) [!].nes,nes,24592
+201,ROM/0088/1942 (JU) [!].nes,1942 (JU) [!].nes,nes,40976
+202,ROM/0089/Dough Boy (J) [!].nes,Dough Boy (J) [!].nes,nes,40976
+203,ROM/0090/Galg (J) [!].nes,Galg (J) [!].nes,nes,40976
+204,ROM/0091/Bokosuka Wars (J) [!].nes,Bokosuka Wars (J) [!].nes,nes,40976
+205,ROM/0092/Chubby Cherub (U) [!].nes,Chubby Cherub (U) [!].nes,nes,40976
+206,ROM/0092/Obake no Q Tarou (J) [!].nes,Obake no Q Tarou (J) [!].nes,nes,40976
+207,ROM/0093/Binary Land (J) [!].nes,Binary Land (J) [!].nes,nes,24592
+208,ROM/0094/Bomberman (J) [!].nes,Bomberman (J) [!].nes,nes,24592
+209,ROM/0094/Bomberman (J).fds,Bomberman (J).fds,fds,65516
+210,ROM/0094/Bomberman (U) [!].nes,Bomberman (U) [!].nes,nes,24592
+211,ROM/0095/Thexder (J) [!].nes,Thexder (J) [!].nes,nes,40976
+212,ROM/0096/Exed Exes (J) [!].nes,Exed Exes (J) [!].nes,nes,40976
+213,ROM/0097/Lot Lot (J) [!].nes,Lot Lot (J) [!].nes,nes,40976
+214,ROM/0098/Penguin-kun Wars (J).nes,Penguin-kun Wars (J).nes,nes,40976
+215,ROM/0099/TwinBee (J) [!].nes,TwinBee (J) [!].nes,nes,49168
+216,ROM/0099/TwinBee (J).fds,TwinBee (J).fds,fds,65516
+217,ROM/0100/Son Son (J) [!].nes,Son Son (J) [!].nes,nes,40976
+218,ROM/0101/The Legend of Zelda (E) (PRG0) [!].nes,The Legend of Zelda (E) (PRG0) [!].nes,nes,131088
+219,ROM/0101/The Legend of Zelda (E) (PRG1) [!].nes,The Legend of Zelda (E) (PRG1) [!].nes,nes,131088
+220,ROM/0101/The Legend of Zelda (U) (PRG0) [!].nes,The Legend of Zelda (U) (PRG0) [!].nes,nes,131088
+221,ROM/0101/The Legend of Zelda (U) (PRG1) [!].nes,The Legend of Zelda (U) (PRG1) [!].nes,nes,131088
+222,ROM/0101/Zelda no Densetsu (J) (PRG0).fds,Zelda no Densetsu (J) (PRG0).fds,fds,131016
+223,ROM/0101/Zelda no Densetsu (J) (RPG1).fds,Zelda no Densetsu (J) (RPG1).fds,fds,131016
+224,ROM/0101/Zelda no Densetsu 1 (J) [!].nes,Zelda no Densetsu 1 (J) [!].nes,nes,131088
+225,ROM/0102/Golf (E) [!].nes,Golf (E) [!].nes,nes,24592
+226,ROM/0102/Golf (J) (PRG0).fds,Golf (J) (PRG0).fds,fds,65516
+227,ROM/0102/Golf (J) (PRG1).fds,Golf (J) (PRG1).fds,fds,65516
+228,ROM/0102/Golf (J) (PRG2) (Possible Proto).fds,Golf (J) (PRG2) (Possible Proto).fds,fds,65516
+229,ROM/0102/Golf (J) [!].nes,Golf (J) [!].nes,nes,24592
+230,ROM/0102/Golf (U) [!].nes,Golf (U) [!].nes,nes,24592
+231,ROM/0103/Soccer (E) [!].nes,Soccer (E) [!].nes,nes,40976
+232,ROM/0103/Soccer (J).fds,Soccer (J).fds,fds,65516
+233,ROM/0103/Soccer (JU) [!].nes,Soccer (JU) [!].nes,nes,40976
+234,ROM/0104/Super Mario Bros. (E) (PRG0) [!].nes,Super Mario Bros. (E) (PRG0) [!].nes,nes,40976
+235,ROM/0104/Super Mario Bros. (E) (PRG1) [!].nes,Super Mario Bros. (E) (PRG1) [!].nes,nes,40976
+236,ROM/0104/Super Mario Bros. (J).fds,Super Mario Bros. (J).fds,fds,65516
+237,ROM/0104/Super Mario Bros. (W) [!].nes,Super Mario Bros. (W) [!].nes,nes,40976
+238,ROM/0105/Tennis (E) [!].nes,Tennis (E) [!].nes,nes,24592
+239,ROM/0105/Tennis (J).fds,Tennis (J).fds,fds,65516
+240,ROM/0105/Tennis (JU) [!].nes,Tennis (JU) [!].nes,nes,24592
+241,ROM/0106/Baseball (J) [!].nes,Baseball (J) [!].nes,nes,24592
+242,ROM/0106/Baseball (J).fds,Baseball (J).fds,fds,65516
+243,ROM/0106/Baseball (U) [!].nes,Baseball (U) [!].nes,nes,24592
+244,ROM/0107/Mahjong (J) (REVA) [!].nes,Mahjong (J) (REVA) [!].nes,nes,24592
+245,ROM/0107/Mahjong (J) (REVB) [!].nes,Mahjong (J) (REVB) [!].nes,nes,24592
+246,ROM/0107/Mahjong (J).fds,Mahjong (J).fds,fds,65516
+247,ROM/0108/The Goonies (J) [!].nes,The Goonies (J) [!].nes,nes,49168
+248,ROM/0108/The Goonies (J).fds,The Goonies (J).fds,fds,65516
+249,ROM/0109/Circus Charlie (J) [!].nes,Circus Charlie (J) [!].nes,nes,24592
+250,ROM/0110/Ninja Hattori-kun (J) [!].nes,Ninja Hattori-kun (J) [!].nes,nes,40976
+251,ROM/0111/Gyrodine (J) [!].nes,Gyrodine (J) [!].nes,nes,40976
+252,ROM/0112/Hydlide (U) [!].nes,Hydlide (U) [!].nes,nes,40976
+253,ROM/0112/Hydlide Special (J) [!].nes,Hydlide Special (J) [!].nes,nes,40976
+254,ROM/0113/Baltron (J) [!].nes,Baltron (J) [!].nes,nes,40976
+255,ROM/0113/Baltron (J).fds,Baltron (J).fds,fds,65516
+256,ROM/0114/Magmax (J) [!].nes,Magmax (J) [!].nes,nes,40976
+257,ROM/0114/Magmax (U) [!].nes,Magmax (U) [!].nes,nes,40976
+258,ROM/0115/Tag Team Pro-Wrestling (J) [!].nes,Tag Team Pro-Wrestling (J) [!].nes,nes,40976
+259,ROM/0115/Tag Team Wrestling (U) [!].nes,Tag Team Wrestling (U) [!].nes,nes,40976
+260,ROM/0116/Nazo no Murasamejou (J).fds,Nazo no Murasamejou (J).fds,fds,131016
+261,ROM/0117/Argus (J) [!].nes,Argus (J) [!].nes,nes,49168
+262,ROM/0118/Atlantis no Nazo (J) [!].nes,Atlantis no Nazo (J) [!].nes,nes,49168
+263,ROM/0118/Super Pitfall II (U) (Proto).nes,Super Pitfall II (U) (Proto).nes,nes,65552
+264,ROM/0119/Gegege no Kitarou (J) [!].nes,Gegege no Kitarou (J) [!].nes,nes,65552
+265,ROM/0119/Ninja Kid (U) [!].nes,Ninja Kid (U) [!].nes,nes,65552
+266,ROM/0120/Dig Dug II (J) [!].nes,Dig Dug II (J) [!].nes,nes,40976
+267,ROM/0120/Dig Dug II (J).fds,Dig Dug II (J).fds,fds,65516
+268,ROM/0120/Dig Dug II (U) (Evercade).nes,Dig Dug II (U) (Evercade).nes,nes,40976
+269,ROM/0120/Dig Dug II (U) [!].nes,Dig Dug II (U) [!].nes,nes,40976
+270,ROM/0121/Kage no Densetsu (J) [!].nes,Kage no Densetsu (J) [!].nes,nes,49168
+271,ROM/0121/The Legend of Kage (U) [!].nes,The Legend of Kage (U) [!].nes,nes,49168
+272,ROM/0122/Mighty Bomb Jack (E) [!].nes,Mighty Bomb Jack (E) [!].nes,nes,65552
+273,ROM/0122/Mighty Bomb Jack (J) (PRG0) [!].nes,Mighty Bomb Jack (J) (PRG0) [!].nes,nes,40976
+274,ROM/0122/Mighty Bomb Jack (J) (PRG1).nes,Mighty Bomb Jack (J) (PRG1).nes,nes,40976
+275,ROM/0122/Mighty Bomb Jack (U) [!].nes,Mighty Bomb Jack (U) [!].nes,nes,65552
+276,ROM/0123/Gradius (E) [!].nes,Gradius (E) [!].nes,nes,65552
+277,ROM/0123/Gradius (J) [!].nes,Gradius (J) [!].nes,nes,65552
+278,ROM/0123/Gradius (U) [!].nes,Gradius (U) [!].nes,nes,65552
+279,ROM/0124/Sansuu 1 Nen (J).nes,Sansuu 1 Nen (J).nes,nes,40976
+280,ROM/0125/Sansuu 2 Nen (J) [!].nes,Sansuu 2 Nen (J) [!].nes,nes,40976
+281,ROM/0126/Sansuu 3 Nen (J) [!].nes,Sansuu 3 Nen (J) [!].nes,nes,40976
+282,ROM/0127/Spy vs Spy (E) [!].nes,Spy vs Spy (E) [!].nes,nes,40976
+283,ROM/0127/Spy vs Spy (J) [!].nes,Spy vs Spy (J) [!].nes,nes,40976
+284,ROM/0127/Spy vs Spy (U) [!].nes,Spy vs Spy (U) [!].nes,nes,40976
+285,ROM/0128/Seicross (J) (PRG0) [!].nes,Seicross (J) (PRG0) [!].nes,nes,40976
+286,ROM/0128/Seicross (J) (PRG1) [!].nes,Seicross (J) (PRG1) [!].nes,nes,40976
+287,ROM/0128/Seicross (U) [!].nes,Seicross (U) [!].nes,nes,40976
+288,ROM/0129/Dragon Quest (J) [!].nes,Dragon Quest (J) [!].nes,nes,65552
+289,ROM/0129/Dragon Warrior (U) (PRG0) [!].nes,Dragon Warrior (U) (PRG0) [!].nes,nes,81936
+290,ROM/0129/Dragon Warrior (U) (PRG1) [!].nes,Dragon Warrior (U) (PRG1) [!].nes,nes,81936
+291,ROM/0130/Super Mario Bros. 2J (J).fds,Super Mario Bros. 2J (J).fds,fds,65516
+292,ROM/0131/B-Wings (J) [!].nes,B-Wings (J) [!].nes,nes,40976
+293,ROM/0132/Bird Week (J) [!].nes,Bird Week (J) [!].nes,nes,24592
+294,ROM/0133/Star Soldier (J) [!].nes,Star Soldier (J) [!].nes,nes,65552
+295,ROM/0133/Star Soldier (U) [!].nes,Star Soldier (U) [!].nes,nes,65552
+296,ROM/0133/Star Soldier Special Version (J).nes,Star Soldier Special Version (J).nes,nes,65552
+297,ROM/0134/Ghosts 'n Goblins (E) [!].nes,Ghosts 'n Goblins (E) [!].nes,nes,131088
+298,ROM/0134/Ghosts 'n Goblins (U) [!].nes,Ghosts 'n Goblins (U) [!].nes,nes,131088
+299,ROM/0134/Makaimura (J) [!].nes,Makaimura (J) [!].nes,nes,131088
+300,ROM/0135/Kung-Fu Heroes (U) [!].nes,Kung-Fu Heroes (U) [!].nes,nes,65552
+301,ROM/0135/Super Chinese (J) [!].nes,Super Chinese (J) [!].nes,nes,49168
+302,ROM/0136/Sqoon (J) (PRG0) [!].nes,Sqoon (J) (PRG0) [!].nes,nes,40976
+303,ROM/0136/Sqoon (J) (PRG1).nes,Sqoon (J) (PRG1).nes,nes,40976
+304,ROM/0136/Sqoon (U) [!].nes,Sqoon (U) [!].nes,nes,40976
+305,ROM/0137/Choplifter (J) (PRG0) [!].nes,Choplifter (J) (PRG0) [!].nes,nes,49168
+306,ROM/0137/Choplifter (J) (PRG1).nes,Choplifter (J) (PRG1).nes,nes,49168
+307,ROM/0138/Toukaidou Gojuusan Tsugi (J) [!].nes,Toukaidou Gojuusan Tsugi (J) [!].nes,nes,49168
+308,ROM/0139/Babel (J) [!].nes,Babel (J) [!].nes,nes,65552
+309,ROM/0139/The Tower of Babel (J) (NC).nes,The Tower of Babel (J) (NC).nes,nes,98320
+310,ROM/0140/Volleyball (J).fds,Volleyball (J).fds,fds,65516
+311,ROM/0140/Volleyball (UE) [!].nes,Volleyball (UE) [!].nes,nes,40976
+312,ROM/0141/Namida no Soukoban Special (J).fds,Namida no Soukoban Special (J).fds,fds,131016
+313,ROM/0142/Solomon no Kagi (J) [!].nes,Solomon no Kagi (J) [!].nes,nes,65552
+314,ROM/0142/Solomon no Kagi (J).fds,Solomon no Kagi (J).fds,fds,65516
+315,ROM/0142/Solomon's Key (E) [!].nes,Solomon's Key (E) [!].nes,nes,65552
+316,ROM/0142/Solomon's Key (U) [!].nes,Solomon's Key (U) [!].nes,nes,65552
+317,ROM/0143/Ganbare Goemon! (J) [!].nes,Ganbare Goemon! (J) [!].nes,nes,262160
+318,ROM/0144/Valkyrie no Bouken (J) [!].nes,Valkyrie no Bouken (J) [!].nes,nes,65552
+319,ROM/0145/Metroid (E) [!].nes,Metroid (E) [!].nes,nes,131088
+320,ROM/0145/Metroid (J) (PRG1) [!].fds,Metroid (J) (PRG1) [!].fds,fds,131016
+321,ROM/0145/Metroid (J) (PRG2) [!].fds,Metroid (J) (PRG2) [!].fds,fds,131016
+322,ROM/0145/Metroid (J) (PRG3).fds,Metroid (J) (PRG3).fds,fds,131016
+323,ROM/0145/Metroid (U) [!].nes,Metroid (U) [!].nes,nes,131088
+324,ROM/0146/Musashi no Ken (J) [!].nes,Musashi no Ken (J) [!].nes,nes,65552
+325,ROM/0147/Hokuto no Ken (J) [!].nes,Hokuto no Ken (J) [!].nes,nes,65552
+326,ROM/0148/Sky Kid (J) [!].nes,Sky Kid (J) [!].nes,nes,65552
+327,ROM/0148/Sky Kid (U) [!].nes,Sky Kid (U) [!].nes,nes,163856
+328,ROM/0149/Jajamaru no Daibouken (J) [!].nes,Jajamaru no Daibouken (J) [!].nes,nes,65552
+329,ROM/0149/Ninja Jajamaru's Big Adventure (UE) (NJRC) (Switch).nes,Ninja Jajamaru's Big Adventure (UE) (NJRC) (Switch).nes,nes,65552
+330,ROM/0150/I am a Teacher - Super Mario no Sweater (J).fds,I am a Teacher - Super Mario no Sweater (J).fds,fds,131016
+331,ROM/0151/Mobile Suit Z Gundam - Hot Scramble (J) [!].nes,Mobile Suit Z Gundam - Hot Scramble (J) [!].nes,nes,163856
+332,ROM/0152/ASO - Armored Scrum Object (J) [!].nes,ASO - Armored Scrum Object (J) [!].nes,nes,65552
+333,ROM/0152/Alpha Mission (E) [!].nes,Alpha Mission (E) [!].nes,nes,65552
+334,ROM/0152/Alpha Mission (U) [!].nes,Alpha Mission (U) [!].nes,nes,65552
+335,ROM/0153/Super Pitfall (J) [!].nes,Super Pitfall (J) [!].nes,nes,131088
+336,ROM/0153/Super Pitfall (U) [!].nes,Super Pitfall (U) [!].nes,nes,131088
+337,ROM/0154/Banana (J) [!].nes,Banana (J) [!].nes,nes,49168
+338,ROM/0155/Adventure Island (E) [!].nes,Adventure Island (E) [!].nes,nes,65552
+339,ROM/0155/Adventure Island (U) [!].nes,Adventure Island (U) [!].nes,nes,65552
+340,ROM/0155/Takahashi Meijin no Boukenjima (J) [!].nes,Takahashi Meijin no Boukenjima (J) [!].nes,nes,65552
+341,ROM/0156/King's Knight (J) [!].nes,King's Knight (J) [!].nes,nes,65552
+342,ROM/0156/King's Knight (U) [!].nes,King's Knight (U) [!].nes,nes,65552
+343,ROM/0157/Koneko Monogatari (J).fds,Koneko Monogatari (J).fds,fds,131016
+344,ROM/0158/Super Xevious (J) [!].nes,Super Xevious (J) [!].nes,nes,163856
+345,ROM/0159/Ghostbusters (J) [!].nes,Ghostbusters (J) [!].nes,nes,65552
+346,ROM/0159/Ghostbusters (U) [!].nes,Ghostbusters (U) [!].nes,nes,65552
+347,ROM/0160/Space Hunter (J) [!].nes,Space Hunter (J) [!].nes,nes,65552
+348,ROM/0161/I am a Teacher - Teami no Kiso (J).fds,I am a Teacher - Teami no Kiso (J).fds,fds,131016
+349,ROM/0162/Akumajou Dracula (J) (PRG0) [!].fds,Akumajou Dracula (J) (PRG0) [!].fds,fds,131016
+350,ROM/0162/Akumajou Dracula (J) (PRG1).fds,Akumajou Dracula (J) (PRG1).fds,fds,131016
+351,ROM/0162/Akumajou Dracula (J) (PRG2) [!].fds,Akumajou Dracula (J) (PRG2) [!].fds,fds,131016
+352,ROM/0162/Akumajou Dracula (J) [!].nes,Akumajou Dracula (J) [!].nes,nes,131088
+353,ROM/0162/Castlevania (E) [!].nes,Castlevania (E) [!].nes,nes,131088
+354,ROM/0162/Castlevania (U) (PRG0) [!].nes,Castlevania (U) (PRG0) [!].nes,nes,131088
+355,ROM/0162/Castlevania (U) (PRG1) [!].nes,Castlevania (U) (PRG1) [!].nes,nes,131088
+356,ROM/0163/Terra Cresta (J) [!].nes,Terra Cresta (J) [!].nes,nes,131088
+357,ROM/0163/Terra Cresta (U) [!].nes,Terra Cresta (U) [!].nes,nes,131088
+358,ROM/0164/Commando (U) [!].nes,Commando (U) [!].nes,nes,131088
+359,ROM/0164/Senjou no Ookami (J) [!].nes,Senjou no Ookami (J) [!].nes,nes,131088
+360,ROM/0165/Buggy Popper (J) [!].nes,Buggy Popper (J) [!].nes,nes,65552
+361,ROM/0165/Bump 'n' Jump (U) [!].nes,Bump 'n' Jump (U) [!].nes,nes,65552
+362,ROM/0166/Family Computer Othello (J) (PRG0) [!].nes,Family Computer Othello (J) (PRG0) [!].nes,nes,40976
+363,ROM/0166/Family Computer Othello (J) (PRG1).nes,Family Computer Othello (J) (PRG1).nes,nes,40976
+364,ROM/0166/Family Computer Othello (J).fds,Family Computer Othello (J).fds,fds,65516
+365,ROM/0166/Othello (U) [!].nes,Othello (U) [!].nes,nes,40976
+366,ROM/0167/Pro Wrestling (E) [!].nes,Pro Wrestling (E) [!].nes,nes,131088
+367,ROM/0167/Pro Wrestling (U) (PRG0) [!].nes,Pro Wrestling (U) (PRG0) [!].nes,nes,131088
+368,ROM/0167/Pro Wrestling (U) (PRG1) [!].nes,Pro Wrestling (U) (PRG1) [!].nes,nes,131088
+369,ROM/0167/Puroresu (J).fds,Puroresu (J).fds,fds,65516
+370,ROM/0168/Urusei Yatsura (J) [!].nes,Urusei Yatsura (J) [!].nes,nes,65552
+371,ROM/0169/Sansuu 4 Nen (J) [!].nes,Sansuu 4 Nen (J) [!].nes,nes,65552
+372,ROM/0170/Sansuu 5 & 6 Nen (J).nes,Sansuu 5 & 6 Nen (J).nes,nes,65552
+373,ROM/0171/Mississippi Satsujin Jiken (J) (PRG0) [!].nes,Mississippi Satsujin Jiken (J) (PRG0) [!].nes,nes,163856
+374,ROM/0171/Mississippi Satsujin Jiken (J) (PRG1).nes,Mississippi Satsujin Jiken (J) (PRG1).nes,nes,163856
+375,ROM/0172/Ginga Denshou - Galaxy Odyssey (J) [!].fds,Ginga Denshou - Galaxy Odyssey (J) [!].fds,fds,131016
+376,ROM/0173/Super Star Force (J) [!].nes,Super Star Force (J) [!].nes,nes,131088
+377,ROM/0174/Athletic World (E) [!].nes,Athletic World (E) [!].nes,nes,65552
+378,ROM/0174/Athletic World (U) [!].nes,Athletic World (U) [!].nes,nes,65552
+379,ROM/0174/Family Trainer 1 - Athletic World (J) (PRG0) [!].nes,Family Trainer 1 - Athletic World (J) (PRG0) [!].nes,nes,65552
+380,ROM/0174/Family Trainer 1 - Athletic World (J) (PRG1) [!].nes,Family Trainer 1 - Athletic World (J) (PRG1) [!].nes,nes,65552
+381,ROM/0175/Family Computer Othello (J) (PRG0) [!].nes,Family Computer Othello (J) (PRG0) [!].nes,nes,40976
+382,ROM/0175/Family Computer Othello (J) (PRG1).nes,Family Computer Othello (J) (PRG1).nes,nes,40976
+383,ROM/0175/Family Computer Othello (J).fds,Family Computer Othello (J).fds,fds,65516
+384,ROM/0175/Othello (U) [!].nes,Othello (U) [!].nes,nes,40976
+385,ROM/0176/Meikyuu Kumikyoku (J) [!].nes,Meikyuu Kumikyoku (J) [!].nes,nes,65552
+386,ROM/0176/Milon's Secret Castle (U) [!].nes,Milon's Secret Castle (U) [!].nes,nes,65552
+387,ROM/0177/Dead Zone (J).fds,Dead Zone (J).fds,fds,131016
+388,ROM/0178/Moero TwinBee (J) (PRG0).fds,Moero TwinBee (J) (PRG0).fds,fds,131016
+389,ROM/0178/Moero TwinBee (J) (PRG1).fds,Moero TwinBee (J) (PRG1).fds,fds,131016
+390,ROM/0178/Moero TwinBee (J).nes,Moero TwinBee (J).nes,nes,131088
+391,ROM/0178/Stinger (U) [!].nes,Stinger (U) [!].nes,nes,131088
+392,ROM/0179/Ganso Saiyuuki (J) [!].nes,Ganso Saiyuuki (J) [!].nes,nes,65552
+393,ROM/0180/Nagagutsu wo Haita Neko (J) [!].nes,Nagagutsu wo Haita Neko (J) [!].nes,nes,65552
+394,ROM/0181/Aigina no Yogen (J) [!].nes,Aigina no Yogen (J) [!].nes,nes,131088
+395,ROM/0182/Mappy-Land (J) [!].nes,Mappy-Land (J) [!].nes,nes,163856
+396,ROM/0182/Mappy-Land (U) [!].nes,Mappy-Land (U) [!].nes,nes,163856
+397,ROM/0183/Ikari (J) [!].nes,Ikari (J) [!].nes,nes,131088
+398,ROM/0183/Ikari Warriors (E) [!].nes,Ikari Warriors (E) [!].nes,nes,131088
+399,ROM/0183/Ikari Warriors (U) (PRG0) [!].nes,Ikari Warriors (U) (PRG0) [!].nes,nes,131088
+400,ROM/0183/Ikari Warriors (U) (PRG1) [!].nes,Ikari Warriors (U) (PRG1) [!].nes,nes,131088
+401,ROM/0184/Dragon Ball - Le Secret Du Dragon (F) (PRG0) [!].nes,Dragon Ball - Le Secret Du Dragon (F) (PRG0) [!].nes,nes,163856
+402,ROM/0184/Dragon Ball - Le Secret Du Dragon (F) (PRG1) [!].nes,Dragon Ball - Le Secret Du Dragon (F) (PRG1) [!].nes,nes,163856
+403,ROM/0184/Dragon Ball - Shinryuu no Nazo (J) [!].nes,Dragon Ball - Shinryuu no Nazo (J) [!].nes,nes,163856
+404,ROM/0184/Dragon Power (U) [!].nes,Dragon Power (U) [!].nes,nes,163856
+405,ROM/0185/Zanac (J).fds,Zanac (J).fds,fds,65516
+406,ROM/0185/Zanac (U) [!].nes,Zanac (U) [!].nes,nes,131088
+407,ROM/0186/Kineko Vol. I (J).fds,Kineko Vol. I (J).fds,fds,131016
+408,ROM/0187/Castle Excellent (J) [!].nes,Castle Excellent (J) [!].nes,nes,65552
+409,ROM/0187/Castlequest (U) [!].nes,Castlequest (U) [!].nes,nes,65552
+410,ROM/0188/Tiger-Heli (E) (PRG0) [!].nes,Tiger-Heli (E) (PRG0) [!].nes,nes,65552
+411,ROM/0188/Tiger-Heli (E) (PRG1).nes,Tiger-Heli (E) (PRG1).nes,nes,65552
+412,ROM/0188/Tiger-Heli (J) [!].nes,Tiger-Heli (J) [!].nes,nes,65552
+413,ROM/0188/Tiger-Heli (U) [!].nes,Tiger-Heli (U) [!].nes,nes,65552
+414,ROM/0189/Transformers - Convoy no Nazo (J) [!].nes,Transformers - Convoy no Nazo (J) [!].nes,nes,65552
+415,ROM/0190/Daiva (J) [!].nes,Daiva (J) [!].nes,nes,131088
+416,ROM/0191/Hottaman no Chitei Tanken (J) [!].nes,Hottaman no Chitei Tanken (J) [!].nes,nes,65552
+417,ROM/0192/Gall Force (J).fds,Gall Force (J).fds,fds,131016
+418,ROM/0193/Pro Yakyuu - Family Stadium (J) [!].nes,Pro Yakyuu - Family Stadium (J) [!].nes,nes,98320
+419,ROM/0193/R.B.I. Baseball (Tengen) [!].nes,R.B.I. Baseball (Tengen) [!].nes,nes,98320
+420,ROM/0193/R.B.I. Baseball (U) [!].nes,R.B.I. Baseball (U) [!].nes,nes,98320
+421,ROM/0194/Takeshi no Chousenjou (J) [!].nes,Takeshi no Chousenjou (J) [!].nes,nes,131088
+422,ROM/0195/Sherlock Holmes - Hakushaku Reijou Yuukai Jiken (J) [!].nes,Sherlock Holmes - Hakushaku Reijou Yuukai Jiken (J) [!].nes,nes,131088
+423,ROM/0196/2-in-1 (Adian no Tsue + Chinou Game Series 1) (J).fds,2-in-1 (Adian no Tsue + Chinou Game Series 1) (J).fds,fds,131016
+424,ROM/0197/Doraemon (J) (PRG0) [!].nes,Doraemon (J) (PRG0) [!].nes,nes,163856
+425,ROM/0197/Doraemon (J) (PRG1) [!].nes,Doraemon (J) (PRG1) [!].nes,nes,163856
+426,ROM/0198/Nazo no Kabe (J).fds,Nazo no Kabe (J).fds,fds,131016
+427,ROM/0199/Breeder (J).fds,Breeder (J).fds,fds,131016
+428,ROM/0200/Suishou no Dragon (J).fds,Suishou no Dragon (J).fds,fds,131016
+429,ROM/0201/Deadly Towers (U) [!].nes,Deadly Towers (U) [!].nes,nes,131088
+430,ROM/0201/Mashou (J) [!].nes,Mashou (J) [!].nes,nes,131088
+431,ROM/0202/Metro-Cross (J) [!].nes,Metro-Cross (J) [!].nes,nes,65552
+432,ROM/0203/The Wing of Madoola (J) [!].nes,The Wing of Madoola (J) [!].nes,nes,65552
+433,ROM/0204/King Kong 2 (J) [!].nes,King Kong 2 (J) [!].nes,nes,262160
+434,ROM/0205/Hikari Shinwa (J) (PRG0) [!].fds,Hikari Shinwa (J) (PRG0) [!].fds,fds,131016
+435,ROM/0205/Hikari Shinwa (J) (PRG1).fds,Hikari Shinwa (J) (PRG1).fds,fds,131016
+436,ROM/0205/Kid Icarus (UE) (PRG0) [!].nes,Kid Icarus (UE) (PRG0) [!].nes,nes,131088
+437,ROM/0205/Kid Icarus (UE) (PRG1) [!].nes,Kid Icarus (UE) (PRG1) [!].nes,nes,131088
+438,ROM/0206/Knight Lore (J).fds,Knight Lore (J).fds,fds,131016
+439,ROM/0207/Deep Dungeon - Madou Senki (J) (PRG0) [!].fds,Deep Dungeon - Madou Senki (J) (PRG0) [!].fds,fds,131016
+440,ROM/0207/Deep Dungeon - Madou Senki (J) (PRG1).fds,Deep Dungeon - Madou Senki (J) (PRG1).fds,fds,131016
+441,ROM/0208/Kieta Princess (J) [!].fds,Kieta Princess (J) [!].fds,fds,131016
+442,ROM/0209/Layla (J) [!].nes,Layla (J) [!].nes,nes,131088
+443,ROM/0210/Family Trainer 2 - Running Stadium (J) [!].nes,Family Trainer 2 - Running Stadium (J) [!].nes,nes,65552
+444,ROM/0210/Stadium Events (E) [!].nes,Stadium Events (E) [!].nes,nes,65552
+445,ROM/0210/Stadium Events (U) [!].nes,Stadium Events (U) [!].nes,nes,65552
+446,ROM/0210/World Class Track Meet (U) (PRG0) [!].nes,World Class Track Meet (U) (PRG0) [!].nes,nes,65552
+447,ROM/0210/World Class Track Meet (U) (PRG1) [!].nes,World Class Track Meet (U) (PRG1) [!].nes,nes,65552
+448,ROM/0211/Cosmo Genesis (J) [!].nes,Cosmo Genesis (J) [!].nes,nes,65552
+449,ROM/0211/Star Voyager (U) [!].nes,Star Voyager (U) [!].nes,nes,65552
+450,ROM/0212/Tatakai no Banka (J) (PRG0).nes,Tatakai no Banka (J) (PRG0).nes,nes,131088
+451,ROM/0212/Tatakai no Banka (J) (PRG1) [!].nes,Tatakai no Banka (J) (PRG1) [!].nes,nes,131088
+452,ROM/0212/Trojan (E) [!].nes,Trojan (E) [!].nes,nes,131088
+453,ROM/0212/Trojan (U) [!].nes,Trojan (U) [!].nes,nes,131088
+454,ROM/0213/Seikima II (J) [!].nes,Seikima II (J) [!].nes,nes,65552
+455,ROM/0214/Professional Mahjong Gokuu (J).fds,Professional Mahjong Gokuu (J).fds,fds,131016
+456,ROM/0215/Electrician (J) [!].fds,Electrician (J) [!].fds,fds,131016
+457,ROM/0216/Toki no Tabibito (J) [!].nes,Toki no Tabibito (J) [!].nes,nes,131088
+458,ROM/0217/Crazy Climber (J) [!].nes,Crazy Climber (J) [!].nes,nes,131088
+459,ROM/0218/Arkanoid (J) [!].nes,Arkanoid (J) [!].nes,nes,49168
+460,ROM/0218/Arkanoid (U) [!].nes,Arkanoid (U) [!].nes,nes,49168
+461,ROM/0219/Hi no Tori Hououhen (J) [!].nes,Hi no Tori Hououhen (J) [!].nes,nes,131088
+462,ROM/0220/Dragon Buster (J) [!].nes,Dragon Buster (J) [!].nes,nes,163856
+463,ROM/0220/Dragon Buster (W) (NC).nes,Dragon Buster (W) (NC).nes,nes,163856
+464,ROM/0221/Labyrinth (J) [!].nes,Labyrinth (J) [!].nes,nes,131088
+465,ROM/0222/The Legend of Zelda 2 - Link no Bouken (J) (PRG0).fds,The Legend of Zelda 2 - Link no Bouken (J) (PRG0).fds,fds,131016
+466,ROM/0222/The Legend of Zelda 2 - Link no Bouken (J) (RPG1).fds,The Legend of Zelda 2 - Link no Bouken (J) (RPG1).fds,fds,131016
+467,ROM/0222/Zelda II - The Adventure of Link (E) (PRG0) [!].nes,Zelda II - The Adventure of Link (E) (PRG0) [!].nes,nes,262160
+468,ROM/0222/Zelda II - The Adventure of Link (E) (PRG1) [!].nes,Zelda II - The Adventure of Link (E) (PRG1) [!].nes,nes,262160
+469,ROM/0222/Zelda II - The Adventure of Link (E) (PRG2) [!].nes,Zelda II - The Adventure of Link (E) (PRG2) [!].nes,nes,262160
+470,ROM/0222/Zelda II - The Adventure of Link (U) [!].nes,Zelda II - The Adventure of Link (U) [!].nes,nes,262160
+471,ROM/0223/Dragon Quest II (J) [!].nes,Dragon Quest II (J) [!].nes,nes,131088
+472,ROM/0223/Dragon Warrior II (U) [!].nes,Dragon Warrior II (U) [!].nes,nes,262160
+473,ROM/0224/Eggerland (J) (PRG0).fds,Eggerland (J) (PRG0).fds,fds,131016
+474,ROM/0224/Eggerland (J) (PRG1).fds,Eggerland (J) (PRG1).fds,fds,131016
+475,ROM/0225/Ultraman - Kaijuu Teikoku no Gyakushuu (J) [!].fds,Ultraman - Kaijuu Teikoku no Gyakushuu (J) [!].fds,fds,131016
+476,ROM/0226/Nazoler Land Soukan Gou (J).fds,Nazoler Land Soukan Gou (J).fds,fds,131016
+477,ROM/0227/The Black Bass (J) [!].nes,The Black Bass (J) [!].nes,nes,131088
+478,ROM/0228/Adventures of Dino Riki (U) [!].nes,Adventures of Dino Riki (U) [!].nes,nes,65552
+479,ROM/0228/Shin Jinrui (J) [!].nes,Shin Jinrui (J) [!].nes,nes,65552
+480,ROM/0229/Flying Dragon (U) [!].nes,Flying Dragon (U) [!].nes,nes,131088
+481,ROM/0229/Hiryuu no Ken (J) [!].nes,Hiryuu no Ken (J) [!].nes,nes,131088
+482,ROM/0230/Esper Dream (J) (PRG0).fds,Esper Dream (J) (PRG0).fds,fds,131016
+483,ROM/0230/Esper Dream (J) (PRG1).fds,Esper Dream (J) (PRG1).fds,fds,131016
+484,ROM/0231/Family Computer Golf - Japan Course (J).fds,Family Computer Golf - Japan Course (J).fds,fds,131016
+485,ROM/0231/Golf Japan Course - Nyuushou (J).fds,Golf Japan Course - Nyuushou (J).fds,fds,131016
+486,ROM/0232/Dance Aerobics (U) [!].nes,Dance Aerobics (U) [!].nes,nes,98320
+487,ROM/0232/Family Trainer 3 - Aerobics Studio (J) [!].nes,Family Trainer 3 - Aerobics Studio (J) [!].nes,nes,65552
+488,ROM/0233/Juu Ouken no Nazo (J) [!].nes,Juu Ouken no Nazo (J) [!].nes,nes,262160
+489,ROM/0234/Marchen Veil (J).fds,Marchen Veil (J).fds,fds,131016
+490,ROM/0235/Super Lode Runner (J).fds,Super Lode Runner (J).fds,fds,131016
+491,ROM/0236/Ikinari Musician (J) [!].nes,Ikinari Musician (J) [!].nes,nes,49168
+492,ROM/0237/Mickey Mouse (J) [!].nes,Mickey Mouse (J) [!].nes,nes,65552
+493,ROM/0237/Mickey Mouse (U) [!].nes,Mickey Mouse (U) [!].nes,nes,65552
+494,ROM/0238/Law of the West (J) [!].nes,Law of the West (J) [!].nes,nes,131088
+495,ROM/0239/The 3-D Battles of World Runner (U) [!].nes,The 3-D Battles of World Runner (U) [!].nes,nes,131088
+496,ROM/0239/Tobidase Daisakusen (J).fds,Tobidase Daisakusen (J).fds,fds,131016
+497,ROM/0240/City Adventure Touch (J) [!].nes,City Adventure Touch (J) [!].nes,nes,131088
+498,ROM/0241/Hana no Star Kaidou (J) [!].nes,Hana no Star Kaidou (J) [!].nes,nes,131088
+499,ROM/0242/The Goonies II (E) [!].nes,The Goonies II (E) [!].nes,nes,131088
+500,ROM/0242/The Goonies II (J) [!].nes,The Goonies II (J) [!].nes,nes,131088
+501,ROM/0242/The Goonies II (U) [!].nes,The Goonies II (U) [!].nes,nes,131088
+502,ROM/0243/Lost Word of Jenny (J) [!].nes,Lost Word of Jenny (J) [!].nes,nes,131088
+503,ROM/0244/Winter Games (J).fds,Winter Games (J).fds,fds,131016
+504,ROM/0244/Winter Games (U) (PRG0) [!].nes,Winter Games (U) (PRG0) [!].nes,nes,131088
+505,ROM/0244/Winter Games (U) (PRG1) [!].nes,Winter Games (U) (PRG1) [!].nes,nes,131088
+506,ROM/0245/Otocky (J).fds,Otocky (J).fds,fds,131016
+507,ROM/0246/2-in-1 (Super Boy Allan + Chinou Game Series 2) (J).fds,2-in-1 (Super Boy Allan + Chinou Game Series 2) (J).fds,fds,131016
+508,ROM/0247/2-in-1 (Chitei Tairiku Orudoora + Chinou Game Series 3) (J).fds,2-in-1 (Chitei Tairiku Orudoora + Chinou Game Series 3) (J).fds,fds,131016
+509,ROM/0248/Nangoku Shirei!! - Spy vs Spy (J) [!].nes,Nangoku Shirei!! - Spy vs Spy (J) [!].nes,nes,131088
+510,ROM/0248/Spy vs Spy - The Island Caper (U) (Proto).nes,Spy vs Spy - The Island Caper (U) (Proto).nes,nes,131088
+511,ROM/0249/Dirty Pair - Project Eden (J) [!].fds,Dirty Pair - Project Eden (J) [!].fds,fds,131016
+512,ROM/0250/Sanma no Meitantei (J) [!].nes,Sanma no Meitantei (J) [!].nes,nes,196624
+513,ROM/0251/Apple Town Story (J) [!].fds,Apple Town Story (J) [!].fds,fds,131016
+514,ROM/0252/Green Beret (J).fds,Green Beret (J).fds,fds,131016
+515,ROM/0252/Rush'n Attack (E) [!].nes,Rush'n Attack (E) [!].nes,nes,131088
+516,ROM/0252/Rush'n Attack (U) [!].nes,Rush'n Attack (U) [!].nes,nes,131088
+517,ROM/0253/Cocona World (J) [!].fds,Cocona World (J) [!].fds,fds,131016
+518,ROM/0254/Relics - Ankoku Yousai (J).fds,Relics - Ankoku Yousai (J).fds,fds,131016
+519,ROM/0255/Igo - Kyuuroban Taikyoku (J) [!].nes,Igo - Kyuuroban Taikyoku (J) [!].nes,nes,49168
+520,ROM/0255/Igo - Kyuuroban Taikyoku (J).fds,Igo - Kyuuroban Taikyoku (J).fds,fds,131016
+521,ROM/0256/Higemaru Makaijima (J) [!].nes,Higemaru Makaijima (J) [!].nes,nes,131088
+522,ROM/0256/Makai Island (U) (Proto).nes,Makai Island (U) (Proto).nes,nes,131088
+523,ROM/0257/Morita Kazuro no Shougi (J) [!].nes,Morita Kazuro no Shougi (J) [!].nes,nes,139280
+524,ROM/0258/Fuuun Shourinken (J) [!].fds,Fuuun Shourinken (J) [!].fds,fds,131016
+525,ROM/0259/Argos no Senshi (J) [!].nes,Argos no Senshi (J) [!].nes,nes,131088
+526,ROM/0259/Rygar (E) [!].nes,Rygar (E) [!].nes,nes,131088
+527,ROM/0259/Rygar (U) (PRG0) [!].nes,Rygar (U) (PRG0) [!].nes,nes,131088
+528,ROM/0259/Rygar (U) (PRG1) [!].nes,Rygar (U) (PRG1) [!].nes,nes,131088
+529,ROM/0260/Nekketsu Kouha Kunio-kun (J) [!].nes,Nekketsu Kouha Kunio-kun (J) [!].nes,nes,131088
+530,ROM/0260/Renegade (U) (Evercade).nes,Renegade (U) (Evercade).nes,nes,131088
+531,ROM/0260/Renegade (U) [!].nes,Renegade (U) [!].nes,nes,131088
+532,ROM/0261/Fist of the North Star (U) [!].nes,Fist of the North Star (U) [!].nes,nes,131088
+533,ROM/0261/Hokuto no Ken 2 (J) [!].nes,Hokuto no Ken 2 (J) [!].nes,nes,131088
+534,ROM/0262/Ai Senshi Nicol (J).fds,Ai Senshi Nicol (J).fds,fds,131016
+535,ROM/0263/Tantei Jinguuji Saburou - Shinjuku Chuuou Kouen Satsujin Jiken (J) (PRG0).fds,Tantei Jinguuji Saburou - Shinjuku Chuuou Kouen Satsujin Jiken (J) (PRG0).fds,fds,131016
+536,ROM/0263/Tantei Jinguuji Saburou - Shinjuku Chuuou Kouen Satsujin Jiken (J) (PRG1).fds,Tantei Jinguuji Saburou - Shinjuku Chuuou Kouen Satsujin Jiken (J) (PRG1).fds,fds,131016
+537,ROM/0264/Family Jockey (J) [!].nes,Family Jockey (J) [!].nes,nes,65552
+538,ROM/0265/Kineko Vol. II (J).fds,Kineko Vol. II (J).fds,fds,131016
+539,ROM/0266/Kinnikuman - Kinnikusei Oui Soudatsusen (J) (RPG0).fds,Kinnikuman - Kinnikusei Oui Soudatsusen (J) (RPG0).fds,fds,131016
+540,ROM/0266/Kinnikuman - Kinnikusei Oui Soudatsusen (J) (RPG1).fds,Kinnikuman - Kinnikusei Oui Soudatsusen (J) (RPG1).fds,fds,131016
+541,ROM/0267/Hao-kun no Fushigi na Tabi (J).fds,Hao-kun no Fushigi na Tabi (J).fds,fds,131016
+542,ROM/0268/Seiken Psycho Caliber (J).fds,Seiken Psycho Caliber (J).fds,fds,131016
+543,ROM/0269/Youkai Club (J) [!].nes,Youkai Club (J) [!].nes,nes,163856
+544,ROM/0270/Dynamite Bowl (J) (PRG0).nes,Dynamite Bowl (J) (PRG0).nes,nes,65552
+545,ROM/0270/Dynamite Bowl (J) (PRG1) [!].nes,Dynamite Bowl (J) (PRG1) [!].nes,nes,65552
+546,ROM/0271/Section-Z (E) [!].nes,Section-Z (E) [!].nes,nes,131088
+547,ROM/0271/Section-Z (J).fds,Section-Z (J).fds,fds,131016
+548,ROM/0271/Section-Z (U) [!].nes,Section-Z (U) [!].nes,nes,131088
+549,ROM/0272/Pro Golfer Saru (J).fds,Pro Golfer Saru (J).fds,fds,131016
+550,ROM/0273/Family Trainer 4 - Jogging Race (J) [!].nes,Family Trainer 4 - Jogging Race (J) [!].nes,nes,163856
+551,ROM/0274/Meikyuu Jiin Dababa (J) [!].fds,Meikyuu Jiin Dababa (J) [!].fds,fds,131016
+552,ROM/0275/Smash Ping Pong (J).fds,Smash Ping Pong (J).fds,fds,65516
+553,ROM/0276/Deep Dungeon II - Yuushi no Monshou (J) (PRG0).fds,Deep Dungeon II - Yuushi no Monshou (J) (PRG0).fds,fds,131016
+554,ROM/0276/Deep Dungeon II - Yuushi no Monshou (J) (PRG1).fds,Deep Dungeon II - Yuushi no Monshou (J) (PRG1).fds,fds,131016
+555,ROM/0277/Reflect World (J).fds,Reflect World (J).fds,fds,131016
+556,ROM/0278/Athena (J) [!].nes,Athena (J) [!].nes,nes,131088
+557,ROM/0278/Athena (U) [!].nes,Athena (U) [!].nes,nes,131088
+558,ROM/0279/Takahashi Meijin no Bugutte Honey (J) [!].nes,Takahashi Meijin no Bugutte Honey (J) [!].nes,nes,163856
+559,ROM/0280/Nazoler Land Dai 2 Gou (J).fds,Nazoler Land Dai 2 Gou (J).fds,fds,131016
+560,ROM/0281/Heracles no Eikou (J) [!].nes,Heracles no Eikou (J) [!].nes,nes,131088
+561,ROM/0282/Family Computer Golf - Prize Card (J).fds,Family Computer Golf - Prize Card (J).fds,fds,131016
+562,ROM/0282/Family Computer Golf - U.S. Course (J).fds,Family Computer Golf - U.S. Course (J).fds,fds,131016
+563,ROM/0283/Dr. Chaos (J).fds,Dr. Chaos (J).fds,fds,131016
+564,ROM/0283/Dr. Chaos (U) [!].nes,Dr. Chaos (U) [!].nes,nes,131088
+565,ROM/0284/Michael English Daibouken (J).fds,Michael English Daibouken (J).fds,fds,131016
+566,ROM/0285/Family Boxing (J) [!].nes,Family Boxing (J) [!].nes,nes,131088
+567,ROM/0285/Ring King (U) [!].nes,Ring King (U) [!].nes,nes,131088
+568,ROM/0285/VS. TKO Boxing (VS) [!].nes,VS. TKO Boxing (VS) [!].nes,nes,131088
+569,ROM/0286/Woody Poko (J) [!].nes,Woody Poko (J) [!].nes,nes,131088
+570,ROM/0287/Exciting Billiard (J).fds,Exciting Billiard (J).fds,fds,131016
+571,ROM/0288/Bases Loaded (U) (Evercade).nes,Bases Loaded (U) (Evercade).nes,nes,327696
+572,ROM/0288/Bases Loaded (U) (PRG0) [!].nes,Bases Loaded (U) (PRG0) [!].nes,nes,327696
+573,ROM/0288/Bases Loaded (U) (PRG1) [!].nes,Bases Loaded (U) (PRG1) [!].nes,nes,327696
+574,ROM/0288/Bases Loaded (U) (PRG2) [!].nes,Bases Loaded (U) (PRG2) [!].nes,nes,327696
+575,ROM/0288/Moero!! Pro Yakyuu (J) (PRG0) [!].nes,Moero!! Pro Yakyuu (J) (PRG0) [!].nes,nes,196624
+576,ROM/0288/Moero!! Pro Yakyuu (J) (PRG1) [!].nes,Moero!! Pro Yakyuu (J) (PRG1) [!].nes,nes,196624
+577,ROM/0288/Moero!! Pro Yakyuu (J) (PRG2) [!].nes,Moero!! Pro Yakyuu (J) (PRG2) [!].nes,nes,196624
+578,ROM/0288/Moero!! Pro Yakyuu (J) (PRG3) [!].nes,Moero!! Pro Yakyuu (J) (PRG3) [!].nes,nes,196624
+579,ROM/0289/Tokoro-san no Mamoru mo Semeru mo (J) [!].nes,Tokoro-san no Mamoru mo Semeru mo (J) [!].nes,nes,65552
+580,ROM/0290/Hokkaidou Rensa Satsujin - Ohotsuku ni Kiyu (J) [!].nes,Hokkaidou Rensa Satsujin - Ohotsuku ni Kiyu (J) [!].nes,nes,262160
+581,ROM/0291/Mirai Shinwa Jarvas (J) [!].nes,Mirai Shinwa Jarvas (J) [!].nes,nes,262160
+582,ROM/0292/Jikai Shounen Met Mag (J).fds,Jikai Shounen Met Mag (J).fds,fds,131016
+583,ROM/0293/Zombie Hunter (J) [!].nes,Zombie Hunter (J) [!].nes,nes,163856
+584,ROM/0294/Getsufuu Maden (J) [!].nes,Getsufuu Maden (J) [!].nes,nes,262160
+585,ROM/0295/Yume Koujou Doki Doki Panic (J).fds,Yume Koujou Doki Doki Panic (J).fds,fds,131016
+586,ROM/0296/Booby Kids (J) [!].nes,Booby Kids (J) [!].nes,nes,131088
+587,ROM/0297/Hector 87 (J) [!].nes,Hector 87 (J) [!].nes,nes,131088
+588,ROM/0297/Starship Hector (U) [!].nes,Starship Hector (U) [!].nes,nes,131088
+589,ROM/0298/Dragon Slayer IV (J) [!].nes,Dragon Slayer IV (J) [!].nes,nes,196624
+590,ROM/0298/Legacy of the Wizard (U) [!].nes,Legacy of the Wizard (U) [!].nes,nes,196624
+591,ROM/0298/Legacy of the Wizard (UE) (NMA).nes,Legacy of the Wizard (UE) (NMA).nes,nes,196624
+592,ROM/0299/Jongbou (J) [!].nes,Jongbou (J) [!].nes,nes,131088
+593,ROM/0300/Fantasy Zone (J) [!].nes,Fantasy Zone (J) [!].nes,nes,131088
+594,ROM/0300/Fantasy Zone (U) [!].nes,Fantasy Zone (U) [!].nes,nes,131088
+595,ROM/0301/Batsu & Terry (J) [!].nes,Batsu & Terry (J) [!].nes,nes,131088
+596,ROM/0302/Double Dribble (E) [!].nes,Double Dribble (E) [!].nes,nes,131088
+597,ROM/0302/Double Dribble (U) (PRG0) [!].nes,Double Dribble (U) (PRG0) [!].nes,nes,131088
+598,ROM/0302/Double Dribble (U) (PRG1) [!].nes,Double Dribble (U) (PRG1) [!].nes,nes,131088
+599,ROM/0302/Exciting Basket (J).fds,Exciting Basket (J).fds,fds,131016
+600,ROM/0303/Titanic Mystery - Ao no Senritsu (J).fds,Titanic Mystery - Ao no Senritsu (J).fds,fds,131016
+601,ROM/0304/Cleopatra no Mahou (J).fds,Cleopatra no Mahou (J).fds,fds,131016
+602,ROM/0305/Chester Field (J) [!].nes,Chester Field (J) [!].nes,nes,131088
+603,ROM/0306/Karaoke Studio (J).nes,Karaoke Studio (J).nes,nes,131088
+604,ROM/0307/Monty no Doki Doki Daidassou (J).fds,Monty no Doki Doki Daidassou (J).fds,fds,131016
+605,ROM/0308/Family Trainer 5 - Meiro Daisakusen (J) [!].nes,Family Trainer 5 - Meiro Daisakusen (J) [!].nes,nes,262160
+606,ROM/0309/Mahjong Kazoku (J).fds,Mahjong Kazoku (J).fds,fds,131016
+607,ROM/0310/Highway Star (J) [!].nes,Highway Star (J) [!].nes,nes,131088
+608,ROM/0310/Rad Racer (E) [!].nes,Rad Racer (E) [!].nes,nes,131088
+609,ROM/0310/Rad Racer (U) [!].nes,Rad Racer (U) [!].nes,nes,131088
+610,ROM/0311/Miracle Ropit's Adventure in 2100 (J) [!].nes,Miracle Ropit's Adventure in 2100 (J) [!].nes,nes,131088
+611,ROM/0312/Bomber King (J) [!].nes,Bomber King (J) [!].nes,nes,131088
+612,ROM/0312/Robo Warrior (E).nes,Robo Warrior (E).nes,nes,131088
+613,ROM/0312/Robo Warrior (U) [!].nes,Robo Warrior (U) [!].nes,nes,131088
+614,ROM/0313/Elnark no Zaihou (J) [!].nes,Elnark no Zaihou (J) [!].nes,nes,131088
+615,ROM/0314/Les Chevaliers du Zodiaque - La Legende d'Or (F) [!].nes,Les Chevaliers du Zodiaque - La Legende d'Or (F) [!].nes,nes,262160
+616,ROM/0314/Saint Seiya - Ougon Densetsu (J) [!].nes,Saint Seiya - Ougon Densetsu (J) [!].nes,nes,262160
+617,ROM/0315/Arumana no Kiseki (J).fds,Arumana no Kiseki (J).fds,fds,131016
+618,ROM/0316/Family Mahjong (J) (PRG0) [!].nes,Family Mahjong (J) (PRG0) [!].nes,nes,196624
+619,ROM/0316/Family Mahjong (J) (PRG1) [!].nes,Family Mahjong (J) (PRG1) [!].nes,nes,196624
+620,ROM/0317/Majou Densetsu II (J) [!].nes,Majou Densetsu II (J) [!].nes,nes,131088
+621,ROM/0318/Mito Koumon (J) [!].nes,Mito Koumon (J) [!].nes,nes,262160
+622,ROM/0319/Igo - Kyuuroban Taikyoku (J) [!].nes,Igo - Kyuuroban Taikyoku (J) [!].nes,nes,49168
+623,ROM/0319/Igo - Kyuuroban Taikyoku (J).fds,Igo - Kyuuroban Taikyoku (J).fds,fds,131016
+624,ROM/0320/Air Fortress (E) [!].nes,Air Fortress (E) [!].nes,nes,163856
+625,ROM/0320/Air Fortress (J) [!].nes,Air Fortress (J) [!].nes,nes,262160
+626,ROM/0320/Air Fortress (U) [!].nes,Air Fortress (U) [!].nes,nes,163856
+627,ROM/0321/Valis (J) [!].nes,Valis (J) [!].nes,nes,131088
+628,ROM/0322/Super Lode Runner II (J).fds,Super Lode Runner II (J).fds,fds,131016
+629,ROM/0323/Castlevania II (E) [!].nes,Castlevania II (E) [!].nes,nes,262160
+630,ROM/0323/Castlevania II (U) [!].nes,Castlevania II (U) [!].nes,nes,262160
+631,ROM/0323/Dracula II (J).fds,Dracula II (J).fds,fds,131016
+632,ROM/0324/Transformers - The Headmasters (J).fds,Transformers - The Headmasters (J).fds,fds,131016
+633,ROM/0325/Kiki Kaikai - Dotou Hen (J) (PRG0).fds,Kiki Kaikai - Dotou Hen (J) (PRG0).fds,fds,131016
+634,ROM/0325/Kiki Kaikai - Dotou Hen (J) (PRG1).fds,Kiki Kaikai - Dotou Hen (J) (PRG1).fds,fds,131016
+635,ROM/0326/Photon (J) [!].nes,Photon (J) [!].nes,nes,131088
+636,ROM/0327/Family Trainer 6 - Manhattan Police (J).nes,Family Trainer 6 - Manhattan Police (J).nes,nes,262160
+637,ROM/0327/Street Cop (U) [!].nes,Street Cop (U) [!].nes,nes,262160
+638,ROM/0328/Arabian Dream Scheherazade (J) [!].nes,Arabian Dream Scheherazade (J) [!].nes,nes,262160
+639,ROM/0328/The Magic of Scheherazade (U) [!].nes,The Magic of Scheherazade (U) [!].nes,nes,262160
+640,ROM/0329/Famicom Mukashi Banashi - Shin Onigashima (J).fds,Famicom Mukashi Banashi - Shin Onigashima (J).fds,fds,262016
+641,ROM/0330/Zoids (J) (PRG0) [!].nes,Zoids (J) (PRG0) [!].nes,nes,131088
+642,ROM/0330/Zoids (J) (PRG1) [!].nes,Zoids (J) (PRG1) [!].nes,nes,131088
+643,ROM/0331/Megami Tensei (J) [!].nes,Megami Tensei (J) [!].nes,nes,262160
+644,ROM/0332/SWAT (J) [!].nes,SWAT (J) [!].nes,nes,131088
+645,ROM/0333/Tsuppari Oozumou (J) [!].nes,Tsuppari Oozumou (J) [!].nes,nes,65552
+646,ROM/0334/Spelunker II (J) [!].nes,Spelunker II (J) [!].nes,nes,131088
+647,ROM/0335/Bashi Bazook (U) (Proto) [!].nes,Bashi Bazook (U) (Proto) [!].nes,nes,262160
+648,ROM/0335/Bio Senshi Dan (J) [!].nes,Bio Senshi Dan (J) [!].nes,nes,262160
+649,ROM/0336/Defender II (U) [!].nes,Defender II (U) [!].nes,nes,24592
+650,ROM/0336/Star Gate (J) [!].nes,Star Gate (J) [!].nes,nes,24592
+651,ROM/0337/Ide Yousuke Meijin no Jissen Mahjong (J) (PRG0).nes,Ide Yousuke Meijin no Jissen Mahjong (J) (PRG0).nes,nes,131088
+652,ROM/0337/Ide Yousuke Meijin no Jissen Mahjong (J) (PRG1) [!].nes,Ide Yousuke Meijin no Jissen Mahjong (J) (PRG1) [!].nes,nes,131088
+653,ROM/0338/Life Force (E) [!].nes,Life Force (E) [!].nes,nes,131088
+654,ROM/0338/Life Force (U) [!].nes,Life Force (U) [!].nes,nes,131088
+655,ROM/0338/Salamander (J) [!].nes,Salamander (J) [!].nes,nes,131088
+656,ROM/0339/Kyonshiizu 2 (J).nes,Kyonshiizu 2 (J).nes,nes,262160
+657,ROM/0340/Famicom Mukashi Banashi - Shin Onigashima (J).fds,Famicom Mukashi Banashi - Shin Onigashima (J).fds,fds,262016
+658,ROM/0341/Millipede (J).nes,Millipede (J).nes,nes,24592
+659,ROM/0341/Millipede (U) [!].nes,Millipede (U) [!].nes,nes,24592
+660,ROM/0342/Pulsar no Hikari - Space Wars Simulation (J).fds,Pulsar no Hikari - Space Wars Simulation (J).fds,fds,131016
+661,ROM/0343/Kalin no Tsurugi (J) [!].fds,Kalin no Tsurugi (J) [!].fds,fds,131016
+662,ROM/0344/Kaiketsu Yanchamaru (J) [!].nes,Kaiketsu Yanchamaru (J) [!].nes,nes,262160
+663,ROM/0344/Kid Niki - Radical Ninja (U) (PRG0) [!].nes,Kid Niki - Radical Ninja (U) (PRG0) [!].nes,nes,262160
+664,ROM/0344/Kid Niki - Radical Ninja (U) (PRG1) [!].nes,Kid Niki - Radical Ninja (U) (PRG1) [!].nes,nes,262160
+665,ROM/0345/Ultima - Exodus (J) [!].nes,Ultima - Exodus (J) [!].nes,nes,262160
+666,ROM/0345/Ultima - Exodus (U) [!].nes,Ultima - Exodus (U) [!].nes,nes,262160
+667,ROM/0346/Esper Boukentai (J) [!].nes,Esper Boukentai (J) [!].nes,nes,262160
+668,ROM/0347/Indora no Hikari (J) [!].nes,Indora no Hikari (J) [!].nes,nes,131088
+669,ROM/0348/Falsion (J).fds,Falsion (J).fds,fds,131016
+670,ROM/0349/Youkai Yashiki (J).fds,Youkai Yashiki (J).fds,fds,131016
+671,ROM/0350/Minelvaton Saga (J) [!].nes,Minelvaton Saga (J) [!].nes,nes,262160
+672,ROM/0351/Haja no Fuuin (J) [!].nes,Haja no Fuuin (J) [!].nes,nes,262160
+673,ROM/0352/Momotarou Densetsu (J) [!].nes,Momotarou Densetsu (J) [!].nes,nes,262160
+674,ROM/0353/Hoshi o Miru Hito (J) [!].nes,Hoshi o Miru Hito (J) [!].nes,nes,131088
+675,ROM/0354/Karaoke Studio Senyou Cassette Vol.1 (J).nes,Karaoke Studio Senyou Cassette Vol.1 (J).nes,nes,262160
+676,ROM/0355/Family Composer (J).fds,Family Composer (J).fds,fds,131016
+677,ROM/0356/Bubble Bobble (E) [!].nes,Bubble Bobble (E) [!].nes,nes,163856
+678,ROM/0356/Bubble Bobble (J).fds,Bubble Bobble (J).fds,fds,131016
+679,ROM/0356/Bubble Bobble (U) [!].nes,Bubble Bobble (U) [!].nes,nes,163856
+680,ROM/0357/Famicom Grand Prix (J).fds,Famicom Grand Prix (J).fds,fds,131016
+681,ROM/0358/Side Pocket (E).nes,Side Pocket (E).nes,nes,131088
+682,ROM/0358/Side Pocket (J) [!].nes,Side Pocket (J) [!].nes,nes,163856
+683,ROM/0358/Side Pocket (U) [!].nes,Side Pocket (U) [!].nes,nes,131088
+684,ROM/0359/Joust (J).nes,Joust (J).nes,nes,24592
+685,ROM/0359/Joust (U) [!].nes,Joust (U) [!].nes,nes,32784
+686,ROM/0360/Romancia (J) (PRG0) [!].nes,Romancia (J) (PRG0) [!].nes,nes,131088
+687,ROM/0360/Romancia (J) (PRG1).nes,Romancia (J) (PRG1).nes,nes,131088
+688,ROM/0361/Lupin Sansei (J) [!].nes,Lupin Sansei (J) [!].nes,nes,196624
+689,ROM/0362/Uchuusen - Cosmo Carrier (J) [!].nes,Uchuusen - Cosmo Carrier (J) [!].nes,nes,262160
+690,ROM/0363/Tanigawa Kouji no Shougi Shinan II (J) [!].nes,Tanigawa Kouji no Shougi Shinan II (J) [!].nes,nes,131088
+691,ROM/0364/Artelius (J) [!].nes,Artelius (J) [!].nes,nes,163856
+692,ROM/0365/Faxanadu (E) [!].nes,Faxanadu (E) [!].nes,nes,262160
+693,ROM/0365/Faxanadu (J) [!].nes,Faxanadu (J) [!].nes,nes,262160
+694,ROM/0365/Faxanadu (U) (PRG0) [!].nes,Faxanadu (U) (PRG0) [!].nes,nes,262160
+695,ROM/0365/Faxanadu (U) (PRG1) [!].nes,Faxanadu (U) (PRG1) [!].nes,nes,262160
+696,ROM/0366/SD Gundam World - Gachapon Senshi - Scramble Wars (J) (PRG0).fds,SD Gundam World - Gachapon Senshi - Scramble Wars (J) (PRG0).fds,fds,131016
+697,ROM/0366/SD Gundam World - Gachapon Senshi - Scramble Wars (J) (PRG1).fds,SD Gundam World - Gachapon Senshi - Scramble Wars (J) (PRG1).fds,fds,131016
+698,ROM/0367/Kick Challenger - Air Foot (J).fds,Kick Challenger - Air Foot (J).fds,fds,131016
+699,ROM/0368/Mike Tyson's Punch-Out!! (E) (PRG0) [!].nes,Mike Tyson's Punch-Out!! (E) (PRG0) [!].nes,nes,262160
+700,ROM/0368/Mike Tyson's Punch-Out!! (E) (PRG1) [!].nes,Mike Tyson's Punch-Out!! (E) (PRG1) [!].nes,nes,262160
+701,ROM/0368/Mike Tyson's Punch-Out!! (JU) (PRG0) [!].nes,Mike Tyson's Punch-Out!! (JU) (PRG0) [!].nes,nes,262160
+702,ROM/0368/Mike Tyson's Punch-Out!! (JU) (PRG1) [!].nes,Mike Tyson's Punch-Out!! (JU) (PRG1) [!].nes,nes,262160
+703,ROM/0369/Family Trainer 7 - Daiundoukai (J) [!].nes,Family Trainer 7 - Daiundoukai (J) [!].nes,nes,65552
+704,ROM/0369/Super Team Games (U) [!].nes,Super Team Games (U) [!].nes,nes,65552
+705,ROM/0370/Jikuu Yuuden - Debias (J) [!].nes,Jikuu Yuuden - Debias (J) [!].nes,nes,196624
+706,ROM/0371/Nakayama Miho no Tokimeki High School (J).fds,Nakayama Miho no Tokimeki High School (J).fds,fds,131016
+707,ROM/0372/Santa Claus no Takarabako (J).fds,Santa Claus no Takarabako (J).fds,fds,131016
+708,ROM/0373/Star Wars (J) (Namco) [!].nes,Star Wars (J) (Namco) [!].nes,nes,262160
+709,ROM/0374/Outlanders (J).nes,Outlanders (J).nes,nes,131088
+710,ROM/0375/Dragon Scroll (J) [!].nes,Dragon Scroll (J) [!].nes,nes,262160
+711,ROM/0376/Rambo (J) [!].nes,Rambo (J) [!].nes,nes,131088
+712,ROM/0376/Rambo (U) (PRG0) [!].nes,Rambo (U) (PRG0) [!].nes,nes,131088
+713,ROM/0376/Rambo (U) (PRG1) [!].nes,Rambo (U) (PRG1) [!].nes,nes,131088
+714,ROM/0377/Shanghai (J) [!].nes,Shanghai (J) [!].nes,nes,131088
+715,ROM/0378/Doremikko (J).fds,Doremikko (J).fds,fds,131016
+716,ROM/0379/JJ - Tobidase Daisakusen Part II (J) [!].nes,JJ - Tobidase Daisakusen Part II (J) [!].nes,nes,131088
+717,ROM/0380/Exciting Baseball (J).fds,Exciting Baseball (J).fds,fds,131016
+718,ROM/0381/Topple Zip (J).fds,Topple Zip (J).fds,fds,131016
+719,ROM/0382/Golf Club - Birdie Rush (J) [!].nes,Golf Club - Birdie Rush (J) [!].nes,nes,262160
+720,ROM/0383/Family Tennis (J) [!].nes,Family Tennis (J) [!].nes,nes,131088
+721,ROM/0384/Top Gun (E) [!].nes,Top Gun (E) [!].nes,nes,131088
+722,ROM/0384/Top Gun (J) [!].nes,Top Gun (J) [!].nes,nes,131088
+723,ROM/0384/Top Gun (U) (PRG0) [!].nes,Top Gun (U) (PRG0) [!].nes,nes,131088
+724,ROM/0384/Top Gun (U) (PRG1) [!].nes,Top Gun (U) (PRG1) [!].nes,nes,131088
+725,ROM/0385/Yamamura Misa Suspense - Kyouto Ryuu no Tera Satsujin Jiken (J) [!].nes,Yamamura Misa Suspense - Kyouto Ryuu no Tera Satsujin Jiken (J) [!].nes,nes,262160
+726,ROM/0386/Gokuraku Yuugi (J).fds,Gokuraku Yuugi (J).fds,fds,131016
+727,ROM/0387/Tetsudou Ou (J) [!].nes,Tetsudou Ou (J) [!].nes,nes,65552
+728,ROM/0388/Ginga no Sannin (J) [!].nes,Ginga no Sannin (J) [!].nes,nes,131088
+729,ROM/0389/Exciting Boxing (J).nes,Exciting Boxing (J).nes,nes,262160
+730,ROM/0390/Megaman (E) [!].nes,Megaman (E) [!].nes,nes,131088
+731,ROM/0390/Megaman (U) [!].nes,Megaman (U) [!].nes,nes,131088
+732,ROM/0390/Megaman (W) (MMLC).nes,Megaman (W) (MMLC).nes,nes,131088
+733,ROM/0390/Rockman (J) [!].nes,Rockman (J) [!].nes,nes,131088
+734,ROM/0391/Nazoler Land Zoukan Gou (J).fds,Nazoler Land Zoukan Gou (J).fds,fds,131016
+735,ROM/0392/Ultraman 2 - Shutsugeki Katokutai (J) [!].fds,Ultraman 2 - Shutsugeki Katokutai (J) [!].fds,fds,131016
+736,ROM/0393/Karnov (J) (PRG0).nes,Karnov (J) (PRG0).nes,nes,196624
+737,ROM/0393/Karnov (J) (PRG1).nes,Karnov (J) (PRG1).nes,nes,196624
+738,ROM/0393/Karnov (U) [!].nes,Karnov (U) [!].nes,nes,196624
+739,ROM/0394/Stick Hunter (J) [!].nes,Stick Hunter (J) [!].nes,nes,131088
+740,ROM/0395/Taito Grand Prix (J) [!].nes,Taito Grand Prix (J) [!].nes,nes,262160
+741,ROM/0396/Mezase Pachi Pro - Pachio-kun (J) [!].nes,Mezase Pachi Pro - Pachio-kun (J) [!].nes,nes,131088
+742,ROM/0397/Final Fantasy (J) (PRG0) [!].nes,Final Fantasy (J) (PRG0) [!].nes,nes,262160
+743,ROM/0397/Final Fantasy (J) (PRG1) [!].nes,Final Fantasy (J) (PRG1) [!].nes,nes,262160
+744,ROM/0397/Final Fantasy (U) [!].nes,Final Fantasy (U) [!].nes,nes,262160
+745,ROM/0398/Pro Yakyuu - Family Stadium '87 (J) [!].nes,Pro Yakyuu - Family Stadium '87 (J) [!].nes,nes,98320
+746,ROM/0399/Metal Gear (E) [!].nes,Metal Gear (E) [!].nes,nes,131088
+747,ROM/0399/Metal Gear (J) (Collection).nes,Metal Gear (J) (Collection).nes,nes,131088
+748,ROM/0399/Metal Gear (J) [!].nes,Metal Gear (J) [!].nes,nes,131088
+749,ROM/0399/Metal Gear (U) (Collection).nes,Metal Gear (U) (Collection).nes,nes,131088
+750,ROM/0399/Metal Gear (U) [!].nes,Metal Gear (U) [!].nes,nes,131088
+751,ROM/0400/Gegege no Kitarou 2 (J) [!].nes,Gegege no Kitarou 2 (J) [!].nes,nes,262160
+752,ROM/0401/Wizardry - Proving Grounds of the Mad Overlord (J) [!].nes,Wizardry - Proving Grounds of the Mad Overlord (J) [!].nes,nes,262160
+753,ROM/0401/Wizardry - Proving Grounds of the Mad Overlord (U) [!].nes,Wizardry - Proving Grounds of the Mad Overlord (U) [!].nes,nes,262160
+754,ROM/0402/Magnum Kikiippatsu (J).nes,Magnum Kikiippatsu (J).nes,nes,131088
+755,ROM/0403/Attack Animal Gakuen (J) [!].nes,Attack Animal Gakuen (J) [!].nes,nes,131088
+756,ROM/0404/Superman (J) [!].nes,Superman (J) [!].nes,nes,262160
+757,ROM/0404/Superman (U) [!].nes,Superman (U) [!].nes,nes,262160
+758,ROM/0405/Family Trainer 8 - Totsugeki Fuuun Takeshi-jou (J) [!].nes,Family Trainer 8 - Totsugeki Fuuun Takeshi-jou (J) [!].nes,nes,65552
+759,ROM/0406/Family Circuit (J) [!].nes,Family Circuit (J) [!].nes,nes,163856
+760,ROM/0407/Satsui no Kaisou (J) [!].nes,Satsui no Kaisou (J) [!].nes,nes,262160
+761,ROM/0408/Wai Wai World (J) [!].nes,Wai Wai World (J) [!].nes,nes,262160
+762,ROM/0409/SD Gundam World - Gachapon Senshi - Scramble Wars (J) (PRG0).fds,SD Gundam World - Gachapon Senshi - Scramble Wars (J) (PRG0).fds,fds,131016
+763,ROM/0409/SD Gundam World - Gachapon Senshi - Scramble Wars (J) (PRG1).fds,SD Gundam World - Gachapon Senshi - Scramble Wars (J) (PRG1).fds,fds,131016
+764,ROM/0410/Ice Hockey (E) [!].nes,Ice Hockey (E) [!].nes,nes,40976
+765,ROM/0410/Ice Hockey (J).fds,Ice Hockey (J).fds,fds,65516
+766,ROM/0410/Ice Hockey (U) [!].nes,Ice Hockey (U) [!].nes,nes,40976
+767,ROM/0411/Sukeban Deka III (J) [!].nes,Sukeban Deka III (J) [!].nes,nes,131088
+768,ROM/0412/Ripple Island (J) [!].nes,Ripple Island (J) [!].nes,nes,131088
+769,ROM/0413/Gun.Smoke (E) [!].nes,Gun.Smoke (E) [!].nes,nes,131088
+770,ROM/0413/Gun.Smoke (J).fds,Gun.Smoke (J).fds,fds,131016
+771,ROM/0413/Gun.Smoke (U) [!].nes,Gun.Smoke (U) [!].nes,nes,131088
+772,ROM/0414/Donald Land (J) [!].nes,Donald Land (J) [!].nes,nes,262160
+773,ROM/0415/Fire Bam (J).fds,Fire Bam (J).fds,fds,131016
+774,ROM/0416/Paris-Dakar Rally Special! (J).nes,Paris-Dakar Rally Special! (J).nes,nes,163856
+775,ROM/0417/Hole in One Professional (J) [!].nes,Hole in One Professional (J) [!].nes,nes,163856
+776,ROM/0418/Kamen Rider Club (J) [!].nes,Kamen Rider Club (J) [!].nes,nes,262160
+777,ROM/0419/Guardic Gaiden (J) [!].nes,Guardic Gaiden (J) [!].nes,nes,131088
+778,ROM/0419/The Guardian Legend (E) [!].nes,The Guardian Legend (E) [!].nes,nes,131088
+779,ROM/0419/The Guardian Legend (U) [!].nes,The Guardian Legend (U) [!].nes,nes,131088
+780,ROM/0420/Contra (J) [!].nes,Contra (J) [!].nes,nes,262160
+781,ROM/0420/Contra (U) [!].nes,Contra (U) [!].nes,nes,131088
+782,ROM/0420/Gryzor (J).nes,Gryzor (J).nes,nes,262160
+783,ROM/0420/Probotector (E) [!].nes,Probotector (E) [!].nes,nes,131088
+784,ROM/0421/Dragon Quest III (J) (PRG0) [!].nes,Dragon Quest III (J) (PRG0) [!].nes,nes,262160
+785,ROM/0421/Dragon Quest III (J) (PRG1) [!].nes,Dragon Quest III (J) (PRG1) [!].nes,nes,262160
+786,ROM/0421/Dragon Warrior III (U) [!].nes,Dragon Warrior III (U) [!].nes,nes,524304
+787,ROM/0422/Exciting Soccer (J).fds,Exciting Soccer (J).fds,fds,131016
+788,ROM/0423/Karaoke Studio Senyou Cassette Vol.2 (J).nes,Karaoke Studio Senyou Cassette Vol.2 (J).nes,nes,262160
+789,ROM/0424/Matsumoto Tooru no Kabushiki Hisshou Gaku (J) [!].nes,Matsumoto Tooru no Kabushiki Hisshou Gaku (J) [!].nes,nes,262160
+790,ROM/0425/Replicart (J).fds,Replicart (J).fds,fds,131016
+791,ROM/0426/Tantei Jinguuji Saburou - Yokohamakou Renzoku Satsujin Jiken (J) [!].nes,Tantei Jinguuji Saburou - Yokohamakou Renzoku Satsujin Jiken (J) [!].nes,nes,262160
+792,ROM/0427/Tetsuwan Atom (J) [!].nes,Tetsuwan Atom (J) [!].nes,nes,262160
+793,ROM/0428/Druid - Kyoufu no Tobira (J).fds,Druid - Kyoufu no Tobira (J).fds,fds,131016
+794,ROM/0429/19 - Neunzehn (J) [!].fds,19 - Neunzehn (J) [!].fds,fds,131016
+795,ROM/0430/Ballblazer (J) [!].nes,Ballblazer (J) [!].nes,nes,131088
+796,ROM/0431/Arkanoid II (J) [!].nes,Arkanoid II (J) [!].nes,nes,196624
+797,ROM/0432/Predator (A).nes,Predator (A).nes,nes,262160
+798,ROM/0432/Predator (Bra).nes,Predator (Bra).nes,nes,262160
+799,ROM/0432/Predator (E).nes,Predator (E).nes,nes,262160
+800,ROM/0432/Predator (J) [!].nes,Predator (J) [!].nes,nes,262160
+801,ROM/0432/Predator (U) [!].nes,Predator (U) [!].nes,nes,262160
+802,ROM/0433/TwinBee (J) [!].nes,TwinBee (J) [!].nes,nes,49168
+803,ROM/0433/TwinBee (J).fds,TwinBee (J).fds,fds,65516
+804,ROM/0434/Nazoler Land Dai 3 Gou (J).fds,Nazoler Land Dai 3 Gou (J).fds,fds,131016
+805,ROM/0435/Tsuri Kichi Sanpei - Blue Marlin Hen (J) [!].nes,Tsuri Kichi Sanpei - Blue Marlin Hen (J) [!].nes,nes,131088
+806,ROM/0436/Napoleon Senki (J) [!].nes,Napoleon Senki (J) [!].nes,nes,163856
+807,ROM/0437/Tanigawa Kouji no Shougi Shinan II - Meijin e no Michi (J).fds,Tanigawa Kouji no Shougi Shinan II - Meijin e no Michi (J).fds,fds,131016
+808,ROM/0438/Nobunaga no Yabou - Zenkokuban (J) (PRG0) [!].nes,Nobunaga no Yabou - Zenkokuban (J) (PRG0) [!].nes,nes,262160
+809,ROM/0438/Nobunaga no Yabou - Zenkokuban (J) (PRG1).nes,Nobunaga no Yabou - Zenkokuban (J) (PRG1).nes,nes,262160
+810,ROM/0438/Nobunaga's Ambition (U) [!].nes,Nobunaga's Ambition (U) [!].nes,nes,262160
+811,ROM/0439/Fighting Golf (J) [!].nes,Fighting Golf (J) [!].nes,nes,262160
+812,ROM/0439/Lee Trevino's Fighting Golf (E).nes,Lee Trevino's Fighting Golf (E).nes,nes,262160
+813,ROM/0439/Lee Trevino's Fighting Golf (U) [!].nes,Lee Trevino's Fighting Golf (U) [!].nes,nes,262160
+814,ROM/0440/Omoikkiri Tanteidan - Haado Gumi (J).fds,Omoikkiri Tanteidan - Haado Gumi (J).fds,fds,131016
+815,ROM/0441/Wardner no Mori (J).fds,Wardner no Mori (J).fds,fds,131016
+816,ROM/0442/Golgo 13 (U) [!].nes,Golgo 13 (U) [!].nes,nes,262160
+817,ROM/0442/Golgo 13 - Dai 1 Shou (J) [!].nes,Golgo 13 - Dai 1 Shou (J) [!].nes,nes,262160
+818,ROM/0443/Olympus no Tatakai (J).nes,Olympus no Tatakai (J).nes,nes,131088
+819,ROM/0443/The Battle of Olympus (E) [!].nes,The Battle of Olympus (E) [!].nes,nes,131088
+820,ROM/0443/The Battle of Olympus (U) [!].nes,The Battle of Olympus (U) [!].nes,nes,131088
+821,ROM/0444/Takeda Shingen (J) [!].nes,Takeda Shingen (J) [!].nes,nes,131088
+822,ROM/0445/Fleet Commander (J) [!].nes,Fleet Commander (J) [!].nes,nes,65552
+823,ROM/0446/Demon Sword (U) [!].nes,Demon Sword (U) [!].nes,nes,262160
+824,ROM/0446/Fudou Myouou Den (J) [!].nes,Fudou Myouou Den (J) [!].nes,nes,393232
+825,ROM/0447/Be-Bop-Highschool (J) [!].nes,Be-Bop-Highschool (J) [!].nes,nes,262160
+826,ROM/0448/Aspic - Majaou no Noroi (J).fds,Aspic - Majaou no Noroi (J).fds,fds,131016
+827,ROM/0449/Dokuganryuu Masamune (J) [!].nes,Dokuganryuu Masamune (J) [!].nes,nes,262160
+828,ROM/0450/Dr. Jekyll and Mr. Hyde (U) [!].nes,Dr. Jekyll and Mr. Hyde (U) [!].nes,nes,163856
+829,ROM/0450/Houma ga Toki (J) [!].nes,Houma ga Toki (J) [!].nes,nes,131088
+830,ROM/0451/Double Dragon (E) [!].nes,Double Dragon (E) [!].nes,nes,262160
+831,ROM/0451/Double Dragon (J) [!].nes,Double Dragon (J) [!].nes,nes,262160
+832,ROM/0451/Double Dragon (U) (Evercade).nes,Double Dragon (U) (Evercade).nes,nes,262160
+833,ROM/0451/Double Dragon (U) [!].nes,Double Dragon (U) [!].nes,nes,262160
+834,ROM/0452/The Goonies (J) [!].nes,The Goonies (J) [!].nes,nes,49168
+835,ROM/0452/The Goonies (J).fds,The Goonies (J).fds,fds,65516
+836,ROM/0453/Donkey Kong (J) [!].nes,Donkey Kong (J) [!].nes,nes,24592
+837,ROM/0453/Donkey Kong (J).fds,Donkey Kong (J).fds,fds,65516
+838,ROM/0453/Donkey Kong (W) [!].nes,Donkey Kong (W) [!].nes,nes,24592
+839,ROM/0454/Famicom Grand Prix II (J).fds,Famicom Grand Prix II (J).fds,fds,131016
+840,ROM/0455/Kamen Rider Black (J).fds,Kamen Rider Black (J).fds,fds,131016
+841,ROM/0456/Moero!! Pro Tennis (J) [!].nes,Moero!! Pro Tennis (J) [!].nes,nes,262160
+842,ROM/0456/Racket Attack (E) [!].nes,Racket Attack (E) [!].nes,nes,393232
+843,ROM/0456/Racket Attack (U) [!].nes,Racket Attack (U) [!].nes,nes,393232
+844,ROM/0457/Ikari II (J).nes,Ikari II (J).nes,nes,262160
+845,ROM/0457/Ikari Warriors II (U) [!].nes,Ikari Warriors II (U) [!].nes,nes,262160
+846,ROM/0458/Fuuun Shourinken - Ankoku no Maou (J).fds,Fuuun Shourinken - Ankoku no Maou (J).fds,fds,131016
+847,ROM/0459/Bio Miracle Bokutte Upa (J) [!].nes,Bio Miracle Bokutte Upa (J) [!].nes,nes,262160
+848,ROM/0459/Bio Miracle Bokutte Upa (J).fds,Bio Miracle Bokutte Upa (J).fds,fds,131016
+849,ROM/0460/Famicom Tantei Club (J).fds,Famicom Tantei Club (J).fds,fds,262016
+850,ROM/0461/Elysion (J) [!].nes,Elysion (J) [!].nes,nes,262160
+851,ROM/0462/Captain Tsubasa (J) [!].nes,Captain Tsubasa (J) [!].nes,nes,262160
+852,ROM/0462/Tecmo Cup - Football Game (E) [!].nes,Tecmo Cup - Football Game (E) [!].nes,nes,262160
+853,ROM/0462/Tecmo Cup - Soccer Game (S).nes,Tecmo Cup - Soccer Game (S).nes,nes,262160
+854,ROM/0462/Tecmo Cup - Soccer Game (U) [!].nes,Tecmo Cup - Soccer Game (U) [!].nes,nes,262160
+855,ROM/0463/Desert Commander (U) [!].nes,Desert Commander (U) [!].nes,nes,262160
+856,ROM/0463/Sabaku no Kitsune (J) [!].nes,Sabaku no Kitsune (J) [!].nes,nes,262160
+857,ROM/0464/Akai Yousai (J).fds,Akai Yousai (J).fds,fds,131016
+858,ROM/0464/Jackal (U) [!].nes,Jackal (U) [!].nes,nes,131088
+859,ROM/0465/Meitantei Holmes - Kiri no London Satsujin Jiken (J).nes,Meitantei Holmes - Kiri no London Satsujin Jiken (J).nes,nes,262160
+860,ROM/0466/Deep Dungeon III (J) [!].nes,Deep Dungeon III (J) [!].nes,nes,262160
+861,ROM/0467/Kamen no Ninja - Akakage (J) [!].nes,Kamen no Ninja - Akakage (J) [!].nes,nes,131088
+862,ROM/0468/Ninja-kun - Ashura no Shou (J).nes,Ninja-kun - Ashura no Shou (J).nes,nes,131088
+863,ROM/0469/Shogun (J) [!].nes,Shogun (J) [!].nes,nes,131088
+864,ROM/0470/Princess Tomato in Salad Kingdom (U) [!].nes,Princess Tomato in Salad Kingdom (U) [!].nes,nes,262160
+865,ROM/0470/Salad no Kuni no Tomato Hime (J) [!].nes,Salad no Kuni no Tomato Hime (J) [!].nes,nes,262160
+866,ROM/0471/Namco Classic (J) [!].nes,Namco Classic (J) [!].nes,nes,524304
+867,ROM/0472/Saint Seiya - Ougon Densetsu Kanketsu Hen (J) [!].nes,Saint Seiya - Ougon Densetsu Kanketsu Hen (J) [!].nes,nes,262160
+868,ROM/0473/Cosmo Police Galivan (J).nes,Cosmo Police Galivan (J).nes,nes,262160
+869,ROM/0474/Famicom Tantei Club (J).fds,Famicom Tantei Club (J).fds,fds,262016
+870,ROM/0475/Blaster Master (E) [!].nes,Blaster Master (E) [!].nes,nes,262160
+871,ROM/0475/Blaster Master (U) (Evercade).nes,Blaster Master (U) (Evercade).nes,nes,262160
+872,ROM/0475/Blaster Master (U) [!].nes,Blaster Master (U) [!].nes,nes,262160
+873,ROM/0475/Chou-Wakusei Senki (J) [!].nes,Chou-Wakusei Senki (J) [!].nes,nes,262160
+874,ROM/0476/Fire Rock (J).fds,Fire Rock (J).fds,fds,131016
+875,ROM/0477/Risa no Yousei Densetsu (J).fds,Risa no Yousei Densetsu (J).fds,fds,131016
+876,ROM/0478/Youkai Douchuuki (J) [!].nes,Youkai Douchuuki (J) [!].nes,nes,262160
+877,ROM/0479/Sanada Juu Yuushi (J) [!].nes,Sanada Juu Yuushi (J) [!].nes,nes,262160
+878,ROM/0480/Kyuukyoku Harikiri Stadium (J) [!].nes,Kyuukyoku Harikiri Stadium (J) [!].nes,nes,262160
+879,ROM/0481/Moonball Magic (J).fds,Moonball Magic (J).fds,fds,131016
+880,ROM/0482/Akuu Senki Raijin (J).fds,Akuu Senki Raijin (J).fds,fds,131016
+881,ROM/0483/Super Black Onyx (J) [!].nes,Super Black Onyx (J) [!].nes,nes,262160
+882,ROM/0484/Densetsu no Kishi - Elrond (J) [!].nes,Densetsu no Kishi - Elrond (J) [!].nes,nes,131088
+883,ROM/0484/Wizards & Warriors (E) [!].nes,Wizards & Warriors (E) [!].nes,nes,131088
+884,ROM/0484/Wizards & Warriors (U) (PRG0) [!].nes,Wizards & Warriors (U) (PRG0) [!].nes,nes,131088
+885,ROM/0484/Wizards & Warriors (U) (PRG1) [!].nes,Wizards & Warriors (U) (PRG1) [!].nes,nes,131088
+886,ROM/0485/Jarinko Chie (J) [!].nes,Jarinko Chie (J) [!].nes,nes,393232
+887,ROM/0486/Best Play Pro Yakyuu (J) (PRG0) [!].nes,Best Play Pro Yakyuu (J) (PRG0) [!].nes,nes,163856
+888,ROM/0486/Best Play Pro Yakyuu (J) (PRG1) [!].nes,Best Play Pro Yakyuu (J) (PRG1) [!].nes,nes,163856
+889,ROM/0487/Donkey Kong Jr. (J) [!].nes,Donkey Kong Jr. (J) [!].nes,nes,24592
+890,ROM/0487/Donkey Kong Jr. (J).fds,Donkey Kong Jr. (J).fds,fds,65516
+891,ROM/0487/Donkey Kong Jr. (W) [!].nes,Donkey Kong Jr. (W) [!].nes,nes,24592
+892,ROM/0488/Mr. Gold - Kinsan in the Space (J).fds,Mr. Gold - Kinsan in the Space (J).fds,fds,131016
+893,ROM/0489/Bionic Commando (E) [!].nes,Bionic Commando (E) [!].nes,nes,262160
+894,ROM/0489/Bionic Commando (U) [!].nes,Bionic Commando (U) [!].nes,nes,262160
+895,ROM/0489/Hitler no Fukkatsu (J) [!].nes,Hitler no Fukkatsu (J) [!].nes,nes,262160
+896,ROM/0490/Maison Ikkoku (J) [!].nes,Maison Ikkoku (J) [!].nes,nes,262160
+897,ROM/0491/Karate Champ (J).fds,Karate Champ (J).fds,fds,131016
+898,ROM/0491/Karate Champ (U) (Evercade).nes,Karate Champ (U) (Evercade).nes,nes,65552
+899,ROM/0491/Karate Champ (U) (PRG0) [!].nes,Karate Champ (U) (PRG0) [!].nes,nes,65552
+900,ROM/0491/Karate Champ (U) (PRG1) [!].nes,Karate Champ (U) (PRG1) [!].nes,nes,65552
+901,ROM/0492/Blades of Steel (E) [!].nes,Blades of Steel (E) [!].nes,nes,131088
+902,ROM/0492/Blades of Steel (U) [!].nes,Blades of Steel (U) [!].nes,nes,131088
+903,ROM/0492/Konami Ice Hockey (J).fds,Konami Ice Hockey (J).fds,fds,131016
+904,ROM/0493/The Quest of Ki (J) [!].nes,The Quest of Ki (J) [!].nes,nes,196624
+905,ROM/0494/Kakefu-kun no Jump Tengoku (J) [!].nes,Kakefu-kun no Jump Tengoku (J) [!].nes,nes,131088
+906,ROM/0494/Kid Kool (U) [!].nes,Kid Kool (U) [!].nes,nes,131088
+907,ROM/0495/Rainbow Islands (J) [!].nes,Rainbow Islands (J) [!].nes,nes,131088
+908,ROM/0495/Rainbow Islands (U) [!].nes,Rainbow Islands (U) [!].nes,nes,131088
+909,ROM/0496/Nekketsu Koukou Dodgeball-bu (J) [!].nes,Nekketsu Koukou Dodgeball-bu (J) [!].nes,nes,262160
+910,ROM/0496/Super Dodge Ball (U) (Evercade).nes,Super Dodge Ball (U) (Evercade).nes,nes,262160
+911,ROM/0496/Super Dodge Ball (U) [!].nes,Super Dodge Ball (U) [!].nes,nes,262160
+912,ROM/0497/Radical Bomber!! Jirai-kun (J).fds,Radical Bomber!! Jirai-kun (J).fds,fds,131016
+913,ROM/0498/Great Tank (J) [!].nes,Great Tank (J) [!].nes,nes,262160
+914,ROM/0498/Iron Tank (E) [!].nes,Iron Tank (E) [!].nes,nes,262160
+915,ROM/0498/Iron Tank (U) [!].nes,Iron Tank (U) [!].nes,nes,262160
+916,ROM/0499/Flying Warriors (U) [!].nes,Flying Warriors (U) [!].nes,nes,262160
+917,ROM/0499/Hiryuu no Ken II (J) [!].nes,Hiryuu no Ken II (J) [!].nes,nes,262160
+918,ROM/0500/Sangokushi - Chuugen no Hasha (J) [!].nes,Sangokushi - Chuugen no Hasha (J) [!].nes,nes,262160
+919,ROM/0501/Super Real Baseball '88 (J) [!].nes,Super Real Baseball '88 (J) [!].nes,nes,262160
+920,ROM/0502/Taiyou no Shinden (J) [!].nes,Taiyou no Shinden (J) [!].nes,nes,262160
+921,ROM/0502/Tombs and Treasure (U) [!].nes,Tombs and Treasure (U) [!].nes,nes,262160
+922,ROM/0503/Bakutoushi Patton-kun (J).fds,Bakutoushi Patton-kun (J).fds,fds,131016
+923,ROM/0504/Eggerland - Meikyuu no Fukkatsu (J) [!].nes,Eggerland - Meikyuu no Fukkatsu (J) [!].nes,nes,163856
+924,ROM/0505/Tanigawa Kouji no Shougi Shinan II - Tsume Shougi (J).fds,Tanigawa Kouji no Shougi Shinan II - Tsume Shougi (J).fds,fds,131016
+925,ROM/0506/Big Challenge! Juudou Senshuken (J).fds,Big Challenge! Juudou Senshuken (J).fds,fds,131016
+926,ROM/0507/Silviana (J).fds,Silviana (J).fds,fds,131016
+927,ROM/0508/Tatakae!! Rahmen Man (J) [!].nes,Tatakae!! Rahmen Man (J) [!].nes,nes,262160
+928,ROM/0509/Bases Loaded II (U) [!].nes,Bases Loaded II (U) [!].nes,nes,393232
+929,ROM/0509/Moero!! Pro Yakyuu '88 - Ketteiban (J) [!].nes,Moero!! Pro Yakyuu '88 - Ketteiban (J) [!].nes,nes,393232
+930,ROM/0510/The Money Game (J) [!].nes,The Money Game (J) [!].nes,nes,163856
+931,ROM/0511/Mito Koumon II (J) [!].nes,Mito Koumon II (J) [!].nes,nes,262160
+932,ROM/0512/Final Lap (J) [!].nes,Final Lap (J) [!].nes,nes,262160
+933,ROM/0513/Famicom Wars (J) [!].nes,Famicom Wars (J) [!].nes,nes,196624
+934,ROM/0514/Mad City (J) [!].nes,Mad City (J) [!].nes,nes,262160
+935,ROM/0514/The Adventures of Bayou Billy (E) [!].nes,The Adventures of Bayou Billy (E) [!].nes,nes,262160
+936,ROM/0514/The Adventures of Bayou Billy (U) [!].nes,The Adventures of Bayou Billy (U) [!].nes,nes,262160
+937,ROM/0515/Soccer League - Winner's Cup (J) [!].nes,Soccer League - Winner's Cup (J) [!].nes,nes,262160
+938,ROM/0516/Dragon Ball - Daimaou Fukkatsu (J) [!].nes,Dragon Ball - Daimaou Fukkatsu (J) [!].nes,nes,262160
+939,ROM/0517/Konami Tennis (J).fds,Konami Tennis (J).fds,fds,131016
+940,ROM/0518/Hototogisu (J) [!].nes,Hototogisu (J) [!].nes,nes,262160
+941,ROM/0519/Eggerland - Souzouhe no Tabidachi (J).fds,Eggerland - Souzouhe no Tabidachi (J).fds,fds,131016
+942,ROM/0520/Super Pinball (J).nes,Super Pinball (J).nes,nes,131088
+943,ROM/0520/Super Sushi Pinball (U) (Proto).nes,Super Sushi Pinball (U) (Proto).nes,nes,131088
+944,ROM/0521/Super Dyna'mix Badminton (J).nes,Super Dyna'mix Badminton (J).nes,nes,40976
+945,ROM/0522/Ys (J) [!].nes,Ys (J) [!].nes,nes,262160
+946,ROM/0523/Kame no Ongaeshi (J) [!].nes,Kame no Ongaeshi (J) [!].nes,nes,262160
+947,ROM/0523/Xexyz (U) [!].nes,Xexyz (U) [!].nes,nes,262160
+948,ROM/0524/Matou no Houkai - The Hero of Babel (J).fds,Matou no Houkai - The Hero of Babel (J).fds,fds,131016
+949,ROM/0525/Famicom Meijin Sen (J) (PRG0) [!].nes,Famicom Meijin Sen (J) (PRG0) [!].nes,nes,262160
+950,ROM/0525/Famicom Meijin Sen (J) (PRG1).nes,Famicom Meijin Sen (J) (PRG1).nes,nes,262160
+951,ROM/0526/Kick and Run (J).fds,Kick and Run (J).fds,fds,131016
+952,ROM/0527/Maniac Mansion (E).nes,Maniac Mansion (E).nes,nes,262160
+953,ROM/0527/Maniac Mansion (F) [!].nes,Maniac Mansion (F) [!].nes,nes,262160
+954,ROM/0527/Maniac Mansion (G) [!].nes,Maniac Mansion (G) [!].nes,nes,262160
+955,ROM/0527/Maniac Mansion (Ita) [!].nes,Maniac Mansion (Ita) [!].nes,nes,262160
+956,ROM/0527/Maniac Mansion (J) [!].nes,Maniac Mansion (J) [!].nes,nes,262160
+957,ROM/0527/Maniac Mansion (Spa) [!].nes,Maniac Mansion (Spa) [!].nes,nes,262160
+958,ROM/0527/Maniac Mansion (Swe) [!].nes,Maniac Mansion (Swe) [!].nes,nes,262160
+959,ROM/0527/Maniac Mansion (U) [!].nes,Maniac Mansion (U) [!].nes,nes,262160
+960,ROM/0528/Konamic Sports in Seoul (J) [!].nes,Konamic Sports in Seoul (J) [!].nes,nes,262160
+961,ROM/0528/Track & Field II (E) [!].nes,Track & Field II (E) [!].nes,nes,262160
+962,ROM/0528/Track & Field II (U) (PRG0) [!].nes,Track & Field II (U) (PRG0) [!].nes,nes,262160
+963,ROM/0528/Track & Field II (U) (PRG1) [!].nes,Track & Field II (U) (PRG1) [!].nes,nes,262160
+964,ROM/0529/Phantom Fighter (U) [!].nes,Phantom Fighter (U) [!].nes,nes,262160
+965,ROM/0529/Reigen Doushi (J) [!].nes,Reigen Doushi (J) [!].nes,nes,262160
+966,ROM/0530/Kujaku Ou (J) [!].nes,Kujaku Ou (J) [!].nes,nes,262160
+967,ROM/0531/Donald Duck (J) [!].nes,Donald Duck (J) [!].nes,nes,262160
+968,ROM/0531/Snoopy's Silly Sports Spectacular! (U) [!].nes,Snoopy's Silly Sports Spectacular! (U) [!].nes,nes,262160
+969,ROM/0532/BurgerTime (J) [!].nes,BurgerTime (J) [!].nes,nes,24592
+970,ROM/0532/BurgerTime (J).fds,BurgerTime (J).fds,fds,65516
+971,ROM/0532/BurgerTime (U) (Evercade).nes,BurgerTime (U) (Evercade).nes,nes,24592
+972,ROM/0532/BurgerTime (U) [!].nes,BurgerTime (U) [!].nes,nes,24592
+973,ROM/0533/Erika to Satoru no Yume Bouken (J) [!].nes,Erika to Satoru no Yume Bouken (J) [!].nes,nes,262160
+974,ROM/0534/8 Eye's (J) [!].nes,8 Eye's (J) [!].nes,nes,262160
+975,ROM/0534/8 Eye's (U) [!].nes,8 Eye's (U) [!].nes,nes,262160
+976,ROM/0534/8 Eye's (W) (AM).nes,8 Eye's (W) (AM).nes,nes,262160
+977,ROM/0535/Knight Rider (E) [!].nes,Knight Rider (E) [!].nes,nes,196624
+978,ROM/0535/Knight Rider (J).nes,Knight Rider (J).nes,nes,196624
+979,ROM/0535/Knight Rider (U) [!].nes,Knight Rider (U) [!].nes,nes,196624
+980,ROM/0536/Vegas Dream (U) [!].nes,Vegas Dream (U) [!].nes,nes,262160
+981,ROM/0536/Viva! Las Vegas (J) [!].nes,Viva! Las Vegas (J) [!].nes,nes,262160
+982,ROM/0537/Pachicom (J) [!].nes,Pachicom (J) [!].nes,nes,40976
+983,ROM/0537/Pachicom (J).fds,Pachicom (J).fds,fds,65516
+984,ROM/0538/Best Play Pro Yakyuu (J) (PRG0) [!].nes,Best Play Pro Yakyuu (J) (PRG0) [!].nes,nes,163856
+985,ROM/0538/Best Play Pro Yakyuu (J) (PRG1) [!].nes,Best Play Pro Yakyuu (J) (PRG1) [!].nes,nes,163856
+986,ROM/0539/Daisenryaku (J) [!].nes,Daisenryaku (J) [!].nes,nes,163856
+987,ROM/0540/The Black Bass II (J).nes,The Black Bass II (J).nes,nes,131088
+988,ROM/0540/The Black Bass USA (U) [!].nes,The Black Bass USA (U) [!].nes,nes,131088
+989,ROM/0541/Dandy (J).fds,Dandy (J).fds,fds,131016
+990,ROM/0542/Big Challenge! Dogfight Spirit (J).fds,Big Challenge! Dogfight Spirit (J).fds,fds,131016
+991,ROM/0543/Genpei Toumaden (J) [!].nes,Genpei Toumaden (J) [!].nes,nes,196624
+992,ROM/0544/Cobra Command (J) [!].nes,Cobra Command (J) [!].nes,nes,262160
+993,ROM/0544/Cobra Command (U) [!].nes,Cobra Command (U) [!].nes,nes,262160
+994,ROM/0545/Ultraman Club - Chikyuu Dakkan Sakusen (J) (PRG0).fds,Ultraman Club - Chikyuu Dakkan Sakusen (J) (PRG0).fds,fds,131016
+995,ROM/0545/Ultraman Club - Chikyuu Dakkan Sakusen (J) (PRG1).fds,Ultraman Club - Chikyuu Dakkan Sakusen (J) (PRG1).fds,fds,131016
+996,ROM/0546/Super Mario Bros. 3 (E) [!].nes,Super Mario Bros. 3 (E) [!].nes,nes,393232
+997,ROM/0546/Super Mario Bros. 3 (J) (PRG0).nes,Super Mario Bros. 3 (J) (PRG0).nes,nes,393232
+998,ROM/0546/Super Mario Bros. 3 (J) (PRG1) [!].nes,Super Mario Bros. 3 (J) (PRG1) [!].nes,nes,393232
+999,ROM/0546/Super Mario Bros. 3 (U) (PRG0) [!].nes,Super Mario Bros. 3 (U) (PRG0) [!].nes,nes,393232
+1000,ROM/0546/Super Mario Bros. 3 (U) (PRG1) [!].nes,Super Mario Bros. 3 (U) (PRG1) [!].nes,nes,393232
+1001,ROM/0547/Yuu Maze (J).fds,Yuu Maze (J).fds,fds,131016
+1002,ROM/0548/America Daitouryou Senkyo (J) [!].nes,America Daitouryou Senkyo (J) [!].nes,nes,262160
+1003,ROM/0549/Romance of the Three Kingdoms (U) [!].nes,Romance of the Three Kingdoms (U) [!].nes,nes,262160
+1004,ROM/0549/Sangokushi (J) (PRG0) [!].nes,Sangokushi (J) (PRG0) [!].nes,nes,262160
+1005,ROM/0549/Sangokushi (J) (PRG1).nes,Sangokushi (J) (PRG1).nes,nes,262160
+1006,ROM/0550/Touhou Kenbun Roku (J) [!].nes,Touhou Kenbun Roku (J) [!].nes,nes,262160
+1007,ROM/0551/Touch Down Fever (J) [!].nes,Touch Down Fever (J) [!].nes,nes,163856
+1008,ROM/0551/Touch Down Fever (U) [!].nes,Touch Down Fever (U) [!].nes,nes,163856
+1009,ROM/0552/Saiyuuki World (J) [!].nes,Saiyuuki World (J) [!].nes,nes,131088
+1010,ROM/0553/Gambler Jiko Chuushinha (J) [!].nes,Gambler Jiko Chuushinha (J) [!].nes,nes,262160
+1011,ROM/0554/Samurai Sword (J).fds,Samurai Sword (J).fds,fds,131016
+1012,ROM/0555/Family Quiz (J) [!].nes,Family Quiz (J) [!].nes,nes,131088
+1013,ROM/0556/Ice Climber (J) [!].nes,Ice Climber (J) [!].nes,nes,24592
+1014,ROM/0556/Ice Climber (J).fds,Ice Climber (J).fds,fds,65516
+1015,ROM/0556/Ice Climber (UE) [!].nes,Ice Climber (UE) [!].nes,nes,24592
+1016,ROM/0557/Gyruss (J).fds,Gyruss (J).fds,fds,131016
+1017,ROM/0557/Gyruss (U) [!].nes,Gyruss (U) [!].nes,nes,65552
+1018,ROM/0558/Pachinko Grand Prix (J).fds,Pachinko Grand Prix (J).fds,fds,131016
+1019,ROM/0559/Kaijuu Monogatari (J) [!].nes,Kaijuu Monogatari (J) [!].nes,nes,262160
+1020,ROM/0560/Hoops (E) [!].nes,Hoops (E) [!].nes,nes,262160
+1021,ROM/0560/Hoops (U) [!].nes,Hoops (U) [!].nes,nes,262160
+1022,ROM/0560/Moero!! Junior Basket (J) [!].nes,Moero!! Junior Basket (J) [!].nes,nes,262160
+1023,ROM/0561/Deja Vu (J) [!].nes,Deja Vu (J) [!].nes,nes,393232
+1024,ROM/0561/Deja Vu (Swe) [!].nes,Deja Vu (Swe) [!].nes,nes,393232
+1025,ROM/0561/Deja Vu (U) [!].nes,Deja Vu (U) [!].nes,nes,393232
+1026,ROM/0562/Family Mahjong II (J) [!].nes,Family Mahjong II (J) [!].nes,nes,196624
+1027,ROM/0563/Takeshi no Sengoku Fuuunji (J) [!].nes,Takeshi no Sengoku Fuuunji (J) [!].nes,nes,262160
+1028,ROM/0564/Jaaman Tanteidan - Matonarikumi (J).fds,Jaaman Tanteidan - Matonarikumi (J).fds,fds,131016
+1029,ROM/0565/Chuugoku Senseijutsu (J) [!].nes,Chuugoku Senseijutsu (J) [!].nes,nes,131088
+1030,ROM/0566/Kaettekita Mario Bros. (J).fds,Kaettekita Mario Bros. (J).fds,fds,131016
+1031,ROM/0567/Alien Syndrome (J).nes,Alien Syndrome (J).nes,nes,262160
+1032,ROM/0567/Alien Syndrome (U) [!].nes,Alien Syndrome (U) [!].nes,nes,262160
+1033,ROM/0568/Amagon (U) [!].nes,Amagon (U) [!].nes,nes,131088
+1034,ROM/0568/Totsuzen! Machoman (J).nes,Totsuzen! Machoman (J).nes,nes,131088
+1035,ROM/0569/Momotarou Dentetsu (J) [!].nes,Momotarou Dentetsu (J) [!].nes,nes,262160
+1036,ROM/0570/Hanjuku Hero (J) [!].nes,Hanjuku Hero (J) [!].nes,nes,131088
+1037,ROM/0571/Vs. Excitebike (J).fds,Vs. Excitebike (J).fds,fds,131016
+1038,ROM/0572/Nankin no Adobenchia (J).fds,Nankin no Adobenchia (J).fds,fds,131016
+1039,ROM/0573/Tantei Jinguuji Saburou - Kiken na Futari (J).fds,Tantei Jinguuji Saburou - Kiken na Futari (J).fds,fds,262016
+1040,ROM/0574/Ninja Gaiden (U) [!].nes,Ninja Gaiden (U) [!].nes,nes,262160
+1041,ROM/0574/Ninja Ryuukenden (J) [!].nes,Ninja Ryuukenden (J) [!].nes,nes,262160
+1042,ROM/0574/Shadow Warriors (E) [!].nes,Shadow Warriors (E) [!].nes,nes,262160
+1043,ROM/0575/Godzilla (J) [!].nes,Godzilla (J) [!].nes,nes,262160
+1044,ROM/0575/Godzilla - Monster of Monsters! (E).nes,Godzilla - Monster of Monsters! (E).nes,nes,262160
+1045,ROM/0575/Godzilla - Monster of Monsters! (U) [!].nes,Godzilla - Monster of Monsters! (U) [!].nes,nes,262160
+1046,ROM/0576/King of Kings (J) [!].nes,King of Kings (J) [!].nes,nes,262160
+1047,ROM/0577/Michael Andretti's World GP (U) [!].nes,Michael Andretti's World GP (U) [!].nes,nes,262160
+1048,ROM/0577/Nakajima Satoru - F-1 Hero (J) [!].nes,Nakajima Satoru - F-1 Hero (J) [!].nes,nes,262160
+1049,ROM/0578/'89 Dennou Kyuusei Uranai (J) [!].nes,'89 Dennou Kyuusei Uranai (J) [!].nes,nes,262160
+1050,ROM/0579/Fighting Road (J) [!].nes,Fighting Road (J) [!].nes,nes,262160
+1051,ROM/0580/Captain Silver (J) [!].nes,Captain Silver (J) [!].nes,nes,262160
+1052,ROM/0581/Kyuukyoku Harikiri Stadium - '88 Senshuu Shin Data Version (J) [!].nes,Kyuukyoku Harikiri Stadium - '88 Senshuu Shin Data Version (J) [!].nes,nes,262160
+1053,ROM/0582/The Triathron (J) [!].nes,The Triathron (J) [!].nes,nes,262160
+1054,ROM/0583/Kaguya Hime Densetsu (J) [!].nes,Kaguya Hime Densetsu (J) [!].nes,nes,262160
+1055,ROM/0584/Gradius II (J) [!].nes,Gradius II (J) [!].nes,nes,262160
+1056,ROM/0585/Cycle Race Roadman (J) [!].nes,Cycle Race Roadman (J) [!].nes,nes,262160
+1057,ROM/0586/Final Fantasy II (J) [!].nes,Final Fantasy II (J) [!].nes,nes,262160
+1058,ROM/0586/Final Fantasy II (U) (Proto).nes,Final Fantasy II (U) (Proto).nes,nes,262160
+1059,ROM/0587/Top Rider (J) [!].nes,Top Rider (J) [!].nes,nes,163856
+1060,ROM/0588/Family Trainer 9 - Fuuun Takeshi-jou 2 (J) [!].nes,Family Trainer 9 - Fuuun Takeshi-jou 2 (J) [!].nes,nes,163856
+1061,ROM/0589/Pro Yakyuu - Family Stadium '88 (J) [!].nes,Pro Yakyuu - Family Stadium '88 (J) [!].nes,nes,196624
+1062,ROM/0590/Fantasy Zone II (J) [!].nes,Fantasy Zone II (J) [!].nes,nes,262160
+1063,ROM/0591/Rollerball (A) [!].nes,Rollerball (A) [!].nes,nes,163856
+1064,ROM/0591/Rollerball (J) [!].nes,Rollerball (J) [!].nes,nes,163856
+1065,ROM/0591/Rollerball (U) [!].nes,Rollerball (U) [!].nes,nes,163856
+1066,ROM/0592/Ginga Eiyuu Densetsu (J) [!].nes,Ginga Eiyuu Densetsu (J) [!].nes,nes,262160
+1067,ROM/0593/Tetris (BPS) (J) (PRG0).fds,Tetris (BPS) (J) (PRG0).fds,fds,131016
+1068,ROM/0593/Tetris (BPS) (J) (PRG0).nes,Tetris (BPS) (J) (PRG0).nes,nes,49168
+1069,ROM/0593/Tetris (BPS) (J) (PRG1) [!].nes,Tetris (BPS) (J) (PRG1) [!].nes,nes,49168
+1070,ROM/0593/Tetris (BPS) (J) (PRG2) [!].nes,Tetris (BPS) (J) (PRG2) [!].nes,nes,49168
+1071,ROM/0594/Tarot (J).fds,Tarot (J).fds,fds,131016
+1072,ROM/0595/Goal! (E) [!].nes,Goal! (E) [!].nes,nes,393232
+1073,ROM/0595/Goal! (U) [!].nes,Goal! (U) [!].nes,nes,393232
+1074,ROM/0595/Moero!! Pro Soccer (J).nes,Moero!! Pro Soccer (J).nes,nes,393232
+1075,ROM/0596/Megaman II (E) [!].nes,Megaman II (E) [!].nes,nes,262160
+1076,ROM/0596/Megaman II (U) [!].nes,Megaman II (U) [!].nes,nes,262160
+1077,ROM/0596/Megaman II (W) (MMLC).nes,Megaman II (W) (MMLC).nes,nes,262160
+1078,ROM/0596/Rockman 2 - Dr. Wily no Nazo (J) [!].nes,Rockman 2 - Dr. Wily no Nazo (J) [!].nes,nes,262160
+1079,ROM/0597/Airwolf (J) [!].nes,Airwolf (J) [!].nes,nes,262160
+1080,ROM/0598/Pro Yakyuu Satsujin Jiken! (J) [!].nes,Pro Yakyuu Satsujin Jiken! (J) [!].nes,nes,262160
+1081,ROM/0599/Shoukoushi Ceddie (J) [!].nes,Shoukoushi Ceddie (J) [!].nes,nes,262160
+1082,ROM/0600/Akira (J) [!].nes,Akira (J) [!].nes,nes,393232
+1083,ROM/0601/Guerrilla War (E) [!].nes,Guerrilla War (E) [!].nes,nes,262160
+1084,ROM/0601/Guerrilla War (U) [!].nes,Guerrilla War (U) [!].nes,nes,262160
+1085,ROM/0601/Guevara (J) [!].nes,Guevara (J) [!].nes,nes,262160
+1086,ROM/0602/Ganbare Goemon 2 (J) [!].nes,Ganbare Goemon 2 (J) [!].nes,nes,262160
+1087,ROM/0603/Space Harrier (J) [!].nes,Space Harrier (J) [!].nes,nes,131088
+1088,ROM/0604/100 Man Dollar Kid (J).nes,100 Man Dollar Kid (J).nes,nes,262160
+1089,ROM/0604/Casino Kid (U) [!].nes,Casino Kid (U) [!].nes,nes,131088
+1090,ROM/0605/Halley Wars (J).fds,Halley Wars (J).fds,fds,131016
+1091,ROM/0606/Satomi Hakkenden (J) [!].nes,Satomi Hakkenden (J) [!].nes,nes,262160
+1092,ROM/0607/Nishimura Kyoutarou Mystery - Blue Train Satsujin Jiken (J) [!].nes,Nishimura Kyoutarou Mystery - Blue Train Satsujin Jiken (J) [!].nes,nes,393232
+1093,ROM/0608/Patlabor (J).fds,Patlabor (J).fds,fds,131016
+1094,ROM/0609/Family Trainer 10 - Amida Daibouken (J).nes,Family Trainer 10 - Amida Daibouken (J).nes,nes,65552
+1095,ROM/0610/Motocross Champion (J) [!].nes,Motocross Champion (J) [!].nes,nes,262160
+1096,ROM/0611/Clash at Demonhead (U) [!].nes,Clash at Demonhead (U) [!].nes,nes,262160
+1097,ROM/0611/Dengeki Big Bang! (J) [!].nes,Dengeki Big Bang! (J) [!].nes,nes,262160
+1098,ROM/0612/Zoids 2 (J) [!].nes,Zoids 2 (J) [!].nes,nes,262160
+1099,ROM/0613/Pachio-kun 2 (J) [!].nes,Pachio-kun 2 (J) [!].nes,nes,262160
+1100,ROM/0614/Al Unser Jr. Turbo Racing (U) [!].nes,Al Unser Jr. Turbo Racing (U) [!].nes,nes,262160
+1101,ROM/0614/Turbo Racing (E) [!].nes,Turbo Racing (E) [!].nes,nes,262160
+1102,ROM/0614/World Grand-Prix - Pole to Finish (J) [!].nes,World Grand-Prix - Pole to Finish (J) [!].nes,nes,262160
+1103,ROM/0615/Wrecking Crew (J).fds,Wrecking Crew (J).fds,fds,65516
+1104,ROM/0615/Wrecking Crew (W) [!].nes,Wrecking Crew (W) [!].nes,nes,40976
+1105,ROM/0616/Adventures of Tom Sawyer (U) [!].nes,Adventures of Tom Sawyer (U) [!].nes,nes,262160
+1106,ROM/0616/Tom Sawyer no Bouken (J) [!].nes,Tom Sawyer no Bouken (J) [!].nes,nes,262160
+1107,ROM/0617/Wagyan Land (J) [!].nes,Wagyan Land (J) [!].nes,nes,196624
+1108,ROM/0618/Tantei Jinguuji Saburou - Kiken na Futari (J).fds,Tantei Jinguuji Saburou - Kiken na Futari (J).fds,fds,262016
+1109,ROM/0619/Sekiryuuou (J) [!].nes,Sekiryuuou (J) [!].nes,nes,262160
+1110,ROM/0620/Yamamura Misa Suspense - Kyouto Hana no Misshitsu Satsujin Jiken (J) [!].nes,Yamamura Misa Suspense - Kyouto Hana no Misshitsu Satsujin Jiken (J) [!].nes,nes,262160
+1111,ROM/0621/Famicom Jump (J) [!].nes,Famicom Jump (J) [!].nes,nes,393232
+1112,ROM/0622/Bugs Bunny Fun House (U) (Proto).nes,Bugs Bunny Fun House (U) (Proto).nes,nes,262160
+1113,ROM/0622/Roger Rabbit (J).fds,Roger Rabbit (J).fds,fds,131016
+1114,ROM/0622/The Bugs Bunny Crazy Castle (U) [!].nes,The Bugs Bunny Crazy Castle (U) [!].nes,nes,98320
+1115,ROM/0623/Flying Hero (J).nes,Flying Hero (J).nes,nes,131088
+1116,ROM/0624/Hydlide 3 (J) [!].nes,Hydlide 3 (J) [!].nes,nes,393232
+1117,ROM/0625/Space Shadow (J).nes,Space Shadow (J).nes,nes,196624
+1118,ROM/0626/Wizardry - Legacy of Llylgamyn (J) [!].nes,Wizardry - Legacy of Llylgamyn (J) [!].nes,nes,262160
+1119,ROM/0627/Tama & Friends - 3 Choume Daibouken (J).fds,Tama & Friends - 3 Choume Daibouken (J).fds,fds,131016
+1120,ROM/0628/Hyakki Yakou (J) [!].nes,Hyakki Yakou (J) [!].nes,nes,262160
+1121,ROM/0629/Ganbare Pennant Race! (J) [!].nes,Ganbare Pennant Race! (J) [!].nes,nes,262160
+1122,ROM/0630/SD Gundam World - Gachapon Senshi - Scramble Wars - Map Collection (J).fds,SD Gundam World - Gachapon Senshi - Scramble Wars - Map Collection (J).fds,fds,131016
+1123,ROM/0631/Sakigake!! Otokojuku (J) [!].nes,Sakigake!! Otokojuku (J) [!].nes,nes,262160
+1124,ROM/0632/Hayauchi Super Igo (J) (PRG0) [!].nes,Hayauchi Super Igo (J) (PRG0) [!].nes,nes,65552
+1125,ROM/0632/Hayauchi Super Igo (J) (PRG1).nes,Hayauchi Super Igo (J) (PRG1).nes,nes,65552
+1126,ROM/0633/Rolling Thunder (J) [!].nes,Rolling Thunder (J) [!].nes,nes,262160
+1127,ROM/0633/Rolling Thunder (U) [!].nes,Rolling Thunder (U) [!].nes,nes,262160
+1128,ROM/0633/Rolling Thunder (W) (NC).nes,Rolling Thunder (W) (NC).nes,nes,262160
+1129,ROM/0634/Jesus - Kyoufu no Bio Monster (J) [!].nes,Jesus - Kyoufu no Bio Monster (J) [!].nes,nes,262160
+1130,ROM/0635/Bakushou!! Jinsei Gekijou (J) [!].nes,Bakushou!! Jinsei Gekijou (J) [!].nes,nes,393232
+1131,ROM/0636/Hikaru Genji (J).fds,Hikaru Genji (J).fds,fds,131016
+1132,ROM/0637/Family Pinball (J) [!].nes,Family Pinball (J) [!].nes,nes,196624
+1133,ROM/0637/Rock 'n' Ball (U) [!].nes,Rock 'n' Ball (U) [!].nes,nes,196624
+1134,ROM/0638/Ankoku Shinwa (J) [!].nes,Ankoku Shinwa (J) [!].nes,nes,262160
+1135,ROM/0639/Big Challenge! Gun Fighter (J).fds,Big Challenge! Gun Fighter (J).fds,fds,131016
+1136,ROM/0640/Jajamaru Ninpouchou (J) [!].nes,Jajamaru Ninpouchou (J) [!].nes,nes,262160
+1137,ROM/0640/Ninja Jajamaru - The Ninja Skill Book (UE) (NJRC) (Switch).nes,Ninja Jajamaru - The Ninja Skill Book (UE) (NJRC) (Switch).nes,nes,393232
+1138,ROM/0640/Taro's Quest (U) (Proto) [!].nes,Taro's Quest (U) (Proto) [!].nes,nes,262160
+1139,ROM/0641/Putt Putt Golf (J).fds,Putt Putt Golf (J).fds,fds,131016
+1140,ROM/0642/After Burner (U) [!].nes,After Burner (U) [!].nes,nes,393232
+1141,ROM/0642/After Burner II (J) [!].nes,After Burner II (J) [!].nes,nes,393232
+1142,ROM/0643/Home Run Nighter (J) [!].nes,Home Run Nighter (J) [!].nes,nes,262160
+1143,ROM/0644/Operation Wolf (E) [!].nes,Operation Wolf (E) [!].nes,nes,262160
+1144,ROM/0644/Operation Wolf (J) [!].nes,Operation Wolf (J) [!].nes,nes,262160
+1145,ROM/0644/Operation Wolf (U) [!].nes,Operation Wolf (U) [!].nes,nes,262160
+1146,ROM/0645/Shadowgate (E) [!].nes,Shadowgate (E) [!].nes,nes,262160
+1147,ROM/0645/Shadowgate (F) [!].nes,Shadowgate (F) [!].nes,nes,262160
+1148,ROM/0645/Shadowgate (G) [!].nes,Shadowgate (G) [!].nes,nes,262160
+1149,ROM/0645/Shadowgate (J) [!].nes,Shadowgate (J) [!].nes,nes,262160
+1150,ROM/0645/Shadowgate (Swe) [!].nes,Shadowgate (Swe) [!].nes,nes,262160
+1151,ROM/0645/Shadowgate (U) [!].nes,Shadowgate (U) [!].nes,nes,262160
+1152,ROM/0646/Matsumoto Tooru no Kabushiki Hisshou Gaku II (J) [!].nes,Matsumoto Tooru no Kabushiki Hisshou Gaku II (J) [!].nes,nes,262160
+1153,ROM/0647/Garfield - A Week of Garfield (J).nes,Garfield - A Week of Garfield (J).nes,nes,163856
+1154,ROM/0647/Garfield - A Week of Garfield (U) (Proto) [!].nes,Garfield - A Week of Garfield (U) (Proto) [!].nes,nes,163856
+1155,ROM/0648/Dragon Spirit (J) [!].nes,Dragon Spirit (J) [!].nes,nes,262160
+1156,ROM/0648/Dragon Spirit (U) (Evercade).nes,Dragon Spirit (U) (Evercade).nes,nes,262160
+1157,ROM/0648/Dragon Spirit (U) [!].nes,Dragon Spirit (U) [!].nes,nes,262160
+1158,ROM/0649/Mindseeker (J) [!].nes,Mindseeker (J) [!].nes,nes,262160
+1159,ROM/0650/Aoki Ookami to Shiroki Mejika - Genghis Khan (J).nes,Aoki Ookami to Shiroki Mejika - Genghis Khan (J).nes,nes,262160
+1160,ROM/0650/Genghis Khan (U) [!].nes,Genghis Khan (U) [!].nes,nes,262160
+1161,ROM/0651/Devil Man (J) [!].nes,Devil Man (J) [!].nes,nes,262160
+1162,ROM/0652/Downtown - Nekketsu Monogatari (J).nes,Downtown - Nekketsu Monogatari (J).nes,nes,262160
+1163,ROM/0652/River City Ransom (U) (Evercade).nes,River City Ransom (U) (Evercade).nes,nes,262160
+1164,ROM/0652/River City Ransom (U) [!].nes,River City Ransom (U) [!].nes,nes,262160
+1165,ROM/0652/Street Gangs (E) [!].nes,Street Gangs (E) [!].nes,nes,262160
+1166,ROM/0653/Dragon Buster II (J) [!].nes,Dragon Buster II (J) [!].nes,nes,196624
+1167,ROM/0653/Dragon Buster II (UE) (NMA).nes,Dragon Buster II (UE) (NMA).nes,nes,196624
+1168,ROM/0654/Fairytale (J).fds,Fairytale (J).fds,fds,131016
+1169,ROM/0655/Holy Diver (J) [!].nes,Holy Diver (J) [!].nes,nes,262160
+1170,ROM/0655/Holy Diver (UE) (CE).nes,Holy Diver (UE) (CE).nes,nes,2097168
+1171,ROM/0656/Keiba Simulation - Honmei (J) [!].nes,Keiba Simulation - Honmei (J) [!].nes,nes,262160
+1172,ROM/0657/Meitantei Holmes - M Kara no Chousenjou (J).nes,Meitantei Holmes - M Kara no Chousenjou (J).nes,nes,262160
+1173,ROM/0658/Kabushiki Doujou (J) [!].nes,Kabushiki Doujou (J) [!].nes,nes,262160
+1174,ROM/0659/Gekikame Ninja Den (J).nes,Gekikame Ninja Den (J).nes,nes,262160
+1175,ROM/0659/Teenage Mutant Hero Turtles (E) [!].nes,Teenage Mutant Hero Turtles (E) [!].nes,nes,262160
+1176,ROM/0659/Teenage Mutant Ninja Turtles (A) [!].nes,Teenage Mutant Ninja Turtles (A) [!].nes,nes,262160
+1177,ROM/0659/Teenage Mutant Ninja Turtles (U) [!].nes,Teenage Mutant Ninja Turtles (U) [!].nes,nes,262160
+1178,ROM/0660/Baseball Star - Mezase Sankanou!! (J) [!].nes,Baseball Star - Mezase Sankanou!! (J) [!].nes,nes,262160
+1179,ROM/0660/Baseball Stars (U) [!].nes,Baseball Stars (U) [!].nes,nes,262160
+1180,ROM/0661/Destiny of an Emperor (U) [!].nes,Destiny of an Emperor (U) [!].nes,nes,262160
+1181,ROM/0661/Tenchi wo Kurau (J) (PRG0) [!].nes,Tenchi wo Kurau (J) (PRG0) [!].nes,nes,262160
+1182,ROM/0661/Tenchi wo Kurau (J) (PRG1).nes,Tenchi wo Kurau (J) (PRG1).nes,nes,262160
+1183,ROM/0662/Famicom Tantei Club Part II (J).fds,Famicom Tantei Club Part II (J).fds,fds,262016
+1184,ROM/0663/Gunjin Shougi (J) [!].nes,Gunjin Shougi (J) [!].nes,nes,131088
+1185,ROM/0664/Little Ninja Brothers (E) [!].nes,Little Ninja Brothers (E) [!].nes,nes,262160
+1186,ROM/0664/Little Ninja Brothers (U) [!].nes,Little Ninja Brothers (U) [!].nes,nes,262160
+1187,ROM/0664/Super Chinese 2 (J) [!].nes,Super Chinese 2 (J) [!].nes,nes,262160
+1188,ROM/0665/Pinball (E) [!].nes,Pinball (E) [!].nes,nes,24592
+1189,ROM/0665/Pinball (J).fds,Pinball (J).fds,fds,65516
+1190,ROM/0665/Pinball (JU) [!].nes,Pinball (JU) [!].nes,nes,24592
+1191,ROM/0666/1943 (J) [!].nes,1943 (J) [!].nes,nes,131088
+1192,ROM/0666/1943 (U) [!].nes,1943 (U) [!].nes,nes,131088
+1193,ROM/0667/Big Challenge! Go! Go! Bowling (J).fds,Big Challenge! Go! Go! Bowling (J).fds,fds,131016
+1194,ROM/0668/Rasaaru Ishii no Childs Quest (J) [!].nes,Rasaaru Ishii no Childs Quest (J) [!].nes,nes,196624
+1195,ROM/0669/SD Gundam - Gachapon Senshi 2 (J) [!].nes,SD Gundam - Gachapon Senshi 2 (J) [!].nes,nes,262160
+1196,ROM/0670/Mendel Palace (U) [!].nes,Mendel Palace (U) [!].nes,nes,262160
+1197,ROM/0670/Mendel Palace (UE) (NMA).nes,Mendel Palace (UE) (NMA).nes,nes,262160
+1198,ROM/0670/Quinty (J) [!].nes,Quinty (J) [!].nes,nes,262160
+1199,ROM/0671/Famicom Tantei Club Part II (J).fds,Famicom Tantei Club Part II (J).fds,fds,262016
+1200,ROM/0672/Datsugoku (J) [!].nes,Datsugoku (J) [!].nes,nes,262160
+1201,ROM/0672/P.O.W. (E) [!].nes,P.O.W. (E) [!].nes,nes,262160
+1202,ROM/0672/P.O.W. (U) [!].nes,P.O.W. (U) [!].nes,nes,262160
+1203,ROM/0673/Murder Club (J) [!].nes,Murder Club (J) [!].nes,nes,262160
+1204,ROM/0674/Shin Moero!! Pro Yakyuu (J) [!].nes,Shin Moero!! Pro Yakyuu (J) [!].nes,nes,393232
+1205,ROM/0675/Bad Dudes (U) (Evercade).nes,Bad Dudes (U) (Evercade).nes,nes,262160
+1206,ROM/0675/Bad Dudes (U) [!].nes,Bad Dudes (U) [!].nes,nes,262160
+1207,ROM/0675/Bad Dudes vs Dragon Ninja (E) [!].nes,Bad Dudes vs Dragon Ninja (E) [!].nes,nes,262160
+1208,ROM/0675/Dragon Ninja (J) (PRG0) [!].nes,Dragon Ninja (J) (PRG0) [!].nes,nes,262160
+1209,ROM/0675/Dragon Ninja (J) (PRG1).nes,Dragon Ninja (J) (PRG1).nes,nes,262160
+1210,ROM/0676/Igo Shinan (J).nes,Igo Shinan (J).nes,nes,40976
+1211,ROM/0677/Legend of the Ghost Lion (U) [!].nes,Legend of the Ghost Lion (U) [!].nes,nes,262160
+1212,ROM/0677/White Lion Densetsu (J) [!].nes,White Lion Densetsu (J) [!].nes,nes,262160
+1213,ROM/0678/Willow (E) [!].nes,Willow (E) [!].nes,nes,262160
+1214,ROM/0678/Willow (J) [!].nes,Willow (J) [!].nes,nes,262160
+1215,ROM/0678/Willow (U) [!].nes,Willow (U) [!].nes,nes,262160
+1216,ROM/0679/Hissatsu Doujou Yaburi (J) [!].nes,Hissatsu Doujou Yaburi (J) [!].nes,nes,262160
+1217,ROM/0680/Tenkaichi Bushi - Keru Naguuru (J) [!].nes,Tenkaichi Bushi - Keru Naguuru (J) [!].nes,nes,196624
+1218,ROM/0681/All-Pro Basketball (U) [!].nes,All-Pro Basketball (U) [!].nes,nes,262160
+1219,ROM/0681/Zenbei!! Pro Basket (J) [!].nes,Zenbei!! Pro Basket (J) [!].nes,nes,262160
+1220,ROM/0682/Faria (J) [!].nes,Faria (J) [!].nes,nes,262160
+1221,ROM/0682/Faria (U) [!].nes,Faria (U) [!].nes,nes,262160
+1222,ROM/0683/Kyuukyoku Harikiri Stadium - Heisei Gannen Han (J) [!].nes,Kyuukyoku Harikiri Stadium - Heisei Gannen Han (J) [!].nes,nes,393232
+1223,ROM/0684/Bowling (U) (Proto).nes,Bowling (U) (Proto).nes,nes,262160
+1224,ROM/0684/Perfect Bowling (J) [!].nes,Perfect Bowling (J) [!].nes,nes,163856
+1225,ROM/0685/Oishinbo (J) [!].nes,Oishinbo (J) [!].nes,nes,262160
+1226,ROM/0686/Earthbound (U) (Proto).nes,Earthbound (U) (Proto).nes,nes,524304
+1227,ROM/0686/Earthbound (U) (VC).nes,Earthbound (U) (VC).nes,nes,524304
+1228,ROM/0686/Mother (J) [!].nes,Mother (J) [!].nes,nes,393232
+1229,ROM/0687/Famista '89 - Kaimaku Han!! (J) [!].nes,Famista '89 - Kaimaku Han!! (J) [!].nes,nes,196624
+1230,ROM/0688/Splatter House (J) [!].nes,Splatter House (J) [!].nes,nes,262160
+1231,ROM/0688/Splatter House (W) (NC).nes,Splatter House (W) (NC).nes,nes,262160
+1232,ROM/0689/Kyuukyoku Tiger (J) [!].nes,Kyuukyoku Tiger (J) [!].nes,nes,262160
+1233,ROM/0689/Twin Cobra (U) [!].nes,Twin Cobra (U) [!].nes,nes,262160
+1234,ROM/0690/Cosmic Wars (J) [!].nes,Cosmic Wars (J) [!].nes,nes,262160
+1235,ROM/0691/Circus Caper (U) [!].nes,Circus Caper (U) [!].nes,nes,262160
+1236,ROM/0691/Moeru! Oniisan (J).nes,Moeru! Oniisan (J).nes,nes,262160
+1237,ROM/0692/Meimon! Daisan Yakyuubu (J) [!].nes,Meimon! Daisan Yakyuubu (J) [!].nes,nes,262160
+1238,ROM/0693/Magma Project Hacker (J).fds,Magma Project Hacker (J).fds,fds,131016
+1239,ROM/0694/Melville's Flame (J) [!].nes,Melville's Flame (J) [!].nes,nes,262160
+1240,ROM/0695/Shingen the Ruler (U) [!].nes,Shingen the Ruler (U) [!].nes,nes,262160
+1241,ROM/0695/Takeda Shingen 2 (J) [!].nes,Takeda Shingen 2 (J) [!].nes,nes,262160
+1242,ROM/0696/RoboCop (E) [!].nes,RoboCop (E) [!].nes,nes,262160
+1243,ROM/0696/RoboCop (J).nes,RoboCop (J).nes,nes,262160
+1244,ROM/0696/RoboCop (U) [!].nes,RoboCop (U) [!].nes,nes,262160
+1245,ROM/0697/Captain ED (J) [!].nes,Captain ED (J) [!].nes,nes,262160
+1246,ROM/0698/Racer Mini Yonku - Japan Cup (J) [!].nes,Racer Mini Yonku - Japan Cup (J) [!].nes,nes,262160
+1247,ROM/0699/Gekitou Pro Wrestling!! (J) [!].nes,Gekitou Pro Wrestling!! (J) [!].nes,nes,262160
+1248,ROM/0699/Tecmo World Wrestling (E) [!].nes,Tecmo World Wrestling (E) [!].nes,nes,262160
+1249,ROM/0699/Tecmo World Wrestling (U) [!].nes,Tecmo World Wrestling (U) [!].nes,nes,262160
+1250,ROM/0700/Tanigawa Kouji no Shougi Shinan III (J) [!].nes,Tanigawa Kouji no Shougi Shinan III (J) [!].nes,nes,131088
+1251,ROM/0701/Idol Hakkenden (J).nes,Idol Hakkenden (J).nes,nes,262160
+1252,ROM/0702/Marusa no Onna (J) [!].nes,Marusa no Onna (J) [!].nes,nes,262160
+1253,ROM/0703/Ultima - Quest of the Avatar (U) [!].nes,Ultima - Quest of the Avatar (U) [!].nes,nes,262160
+1254,ROM/0703/Ultima - Seisha he no Michi (J) [!].nes,Ultima - Seisha he no Michi (J) [!].nes,nes,262160
+1255,ROM/0704/Chuka Taisen (J) [!].nes,Chuka Taisen (J) [!].nes,nes,262160
+1256,ROM/0705/American Dream (J) [!].nes,American Dream (J) [!].nes,nes,262160
+1257,ROM/0706/Thunderbirds (J) [!].nes,Thunderbirds (J) [!].nes,nes,262160
+1258,ROM/0706/Thunderbirds (U) [!].nes,Thunderbirds (U) [!].nes,nes,262160
+1259,ROM/0707/TwinBee 3 (J) [!].nes,TwinBee 3 (J) [!].nes,nes,262160
+1260,ROM/0708/Tonjan! (J) [!].nes,Tonjan! (J) [!].nes,nes,262160
+1261,ROM/0709/Maharaja (J) [!].nes,Maharaja (J) [!].nes,nes,262160
+1262,ROM/0710/Akuma no Shoutaijou (J) [!].nes,Akuma no Shoutaijou (J) [!].nes,nes,262160
+1263,ROM/0710/Uninvited (U) [!].nes,Uninvited (U) [!].nes,nes,262160
+1264,ROM/0711/Meiji Ishin (J).nes,Meiji Ishin (J).nes,nes,262160
+1265,ROM/0712/Koushien (J) [!].nes,Koushien (J) [!].nes,nes,262160
+1266,ROM/0712/Little League Baseball (U) [!].nes,Little League Baseball (U) [!].nes,nes,262160
+1267,ROM/0713/Four Players' Tennis (E) [!].nes,Four Players' Tennis (E) [!].nes,nes,262160
+1268,ROM/0713/Top Players' Tennis (U) [!].nes,Top Players' Tennis (U) [!].nes,nes,262160
+1269,ROM/0713/World Super Tennis (J) [!].nes,World Super Tennis (J) [!].nes,nes,262160
+1270,ROM/0714/Famicom Mukashi Banashi - Yuuyuuki (J).fds,Famicom Mukashi Banashi - Yuuyuuki (J).fds,fds,262016
+1271,ROM/0715/Venus Senki (J) [!].nes,Venus Senki (J) [!].nes,nes,262160
+1272,ROM/0716/Hokuto no Ken 3 (J) [!].nes,Hokuto no Ken 3 (J) [!].nes,nes,262160
+1273,ROM/0717/Kattobi! Douji (J).fds,Kattobi! Douji (J).fds,fds,131016
+1274,ROM/0718/Tashiro Masashi no Princess ga Ippai (J) [!].nes,Tashiro Masashi no Princess ga Ippai (J) [!].nes,nes,262160
+1275,ROM/0719/Dusty Diamond's All-Star Softball (U) [!].nes,Dusty Diamond's All-Star Softball (U) [!].nes,nes,262160
+1276,ROM/0719/Softball Tengoku (J).nes,Softball Tengoku (J).nes,nes,262160
+1277,ROM/0720/Major League (J) [!].nes,Major League (J) [!].nes,nes,262160
+1278,ROM/0721/Baseball Simulator 1.000 (U) [!].nes,Baseball Simulator 1.000 (U) [!].nes,nes,262160
+1279,ROM/0721/Choujin - Ultra Baseball (J) [!].nes,Choujin - Ultra Baseball (J) [!].nes,nes,262160
+1280,ROM/0722/Dragon Ball 3 - Gokuu Den (J) (PRG0) [!].nes,Dragon Ball 3 - Gokuu Den (J) (PRG0) [!].nes,nes,393232
+1281,ROM/0722/Dragon Ball 3 - Gokuu Den (J) (PRG1).nes,Dragon Ball 3 - Gokuu Den (J) (PRG1).nes,nes,393232
+1282,ROM/0723/Mahjong Taikai (J) [!].nes,Mahjong Taikai (J) [!].nes,nes,131088
+1283,ROM/0724/Gozonji - Yaji Kita Chin Douchuu (J) [!].nes,Gozonji - Yaji Kita Chin Douchuu (J) [!].nes,nes,393232
+1284,ROM/0725/Super Spike V'Ball (E) [!].nes,Super Spike V'Ball (E) [!].nes,nes,262160
+1285,ROM/0725/Super Spike V'Ball (U) (Evercade).nes,Super Spike V'Ball (U) (Evercade).nes,nes,262160
+1286,ROM/0725/Super Spike V'Ball (U) [!].nes,Super Spike V'Ball (U) [!].nes,nes,262160
+1287,ROM/0725/U.S. Championship V'Ball (J) [!].nes,U.S. Championship V'Ball (J) [!].nes,nes,262160
+1288,ROM/0726/Dungeon & Magic - Swords of Element (J) [!].nes,Dungeon & Magic - Swords of Element (J) [!].nes,nes,262160
+1289,ROM/0726/Dungeon Magic - Sword of the Elements (U) [!].nes,Dungeon Magic - Sword of the Elements (U) [!].nes,nes,262160
+1290,ROM/0727/Famicom Mukashi Banashi - Yuuyuuki (J).fds,Famicom Mukashi Banashi - Yuuyuuki (J).fds,fds,262016
+1291,ROM/0728/Gekitotsu Yonku Battle (J) [!].nes,Gekitotsu Yonku Battle (J) [!].nes,nes,131088
+1292,ROM/0729/Ninja Cop Saizou (J) [!].nes,Ninja Cop Saizou (J) [!].nes,nes,262160
+1293,ROM/0729/Wrath of the Black Manta (E) [!].nes,Wrath of the Black Manta (E) [!].nes,nes,262160
+1294,ROM/0729/Wrath of the Black Manta (U) (PRG0) [!].nes,Wrath of the Black Manta (U) (PRG0) [!].nes,nes,262160
+1295,ROM/0729/Wrath of the Black Manta (U) (PRG1) [!].nes,Wrath of the Black Manta (U) (PRG1) [!].nes,nes,262160
+1296,ROM/0730/Lutter (J).fds,Lutter (J).fds,fds,131016
+1297,ROM/0731/Terao no Dosukoi Oozumou (J) [!].nes,Terao no Dosukoi Oozumou (J) [!].nes,nes,262160
+1298,ROM/0732/Cosmic Epsilon (J) [!].nes,Cosmic Epsilon (J) [!].nes,nes,393232
+1299,ROM/0733/Vegas Connection (J) [!].nes,Vegas Connection (J) [!].nes,nes,262160
+1300,ROM/0734/Golf Ko Open (J) [!].nes,Golf Ko Open (J) [!].nes,nes,393232
+1301,ROM/0735/Square no Tom Sawyer (J) [!].nes,Square no Tom Sawyer (J) [!].nes,nes,262160
+1302,ROM/0736/Tao (J) [!].nes,Tao (J) [!].nes,nes,262160
+1303,ROM/0737/Hostages - The Embassy Mission (J) [!].nes,Hostages - The Embassy Mission (J) [!].nes,nes,262160
+1304,ROM/0737/Rescue - The Embassy Mission (E) [!].nes,Rescue - The Embassy Mission (E) [!].nes,nes,262160
+1305,ROM/0737/Rescue - The Embassy Mission (U) [!].nes,Rescue - The Embassy Mission (U) [!].nes,nes,262160
+1306,ROM/0738/Conflict (J) [!].nes,Conflict (J) [!].nes,nes,262160
+1307,ROM/0738/Conflict (U) [!].nes,Conflict (U) [!].nes,nes,262160
+1308,ROM/0739/Mirai Senshi - Lios (J) [!].nes,Mirai Senshi - Lios (J) [!].nes,nes,262160
+1309,ROM/0740/Meimon! Takonishi Ouendan (J) [!].nes,Meimon! Takonishi Ouendan (J) [!].nes,nes,262160
+1310,ROM/0741/Osomatsu-kun (J) [!].nes,Osomatsu-kun (J) [!].nes,nes,262160
+1311,ROM/0742/Seirei Gari (J) [!].nes,Seirei Gari (J) [!].nes,nes,262160
+1312,ROM/0743/Taito Chase H.Q. (J) [!].nes,Taito Chase H.Q. (J) [!].nes,nes,262160
+1313,ROM/0744/Shin Satomi Hakkenden (J) [!].nes,Shin Satomi Hakkenden (J) [!].nes,nes,262160
+1314,ROM/0745/Pokkun Moguraa (J) [!].nes,Pokkun Moguraa (J) [!].nes,nes,65552
+1315,ROM/0746/Superstar Pro Wrestling (J) [!].nes,Superstar Pro Wrestling (J) [!].nes,nes,262160
+1316,ROM/0746/WCW World Championship Wrestling (U) [!].nes,WCW World Championship Wrestling (U) [!].nes,nes,262160
+1317,ROM/0747/Flipull (J) (PRG0) [!].nes,Flipull (J) (PRG0) [!].nes,nes,65552
+1318,ROM/0747/Flipull (J) (PRG1) [!].nes,Flipull (J) (PRG1) [!].nes,nes,65552
+1319,ROM/0748/Bad News Baseball (U) [!].nes,Bad News Baseball (U) [!].nes,nes,262160
+1320,ROM/0748/Gekitou Stadium!! (J) [!].nes,Gekitou Stadium!! (J) [!].nes,nes,262160
+1321,ROM/0749/Pinball Quest (E) [!].nes,Pinball Quest (E) [!].nes,nes,262160
+1322,ROM/0749/Pinball Quest (J) [!].nes,Pinball Quest (J) [!].nes,nes,262160
+1323,ROM/0749/Pinball Quest (U) [!].nes,Pinball Quest (U) [!].nes,nes,262160
+1324,ROM/0750/Abadox (J) [!].nes,Abadox (J) [!].nes,nes,262160
+1325,ROM/0750/Abadox (U) [!].nes,Abadox (U) [!].nes,nes,262160
+1326,ROM/0751/Katte ni Shirokuma (J) [!].nes,Katte ni Shirokuma (J) [!].nes,nes,262160
+1327,ROM/0752/Top Gun - Dual Fighters (J) [!].nes,Top Gun - Dual Fighters (J) [!].nes,nes,262160
+1328,ROM/0752/Top Gun - The Second Mission (E) [!].nes,Top Gun - The Second Mission (E) [!].nes,nes,262160
+1329,ROM/0752/Top Gun - The Second Mission (U) [!].nes,Top Gun - The Second Mission (U) [!].nes,nes,262160
+1330,ROM/0753/Famicom Yakyuuban (J) [!].nes,Famicom Yakyuuban (J) [!].nes,nes,262160
+1331,ROM/0754/Shinsenden (J) [!].nes,Shinsenden (J) [!].nes,nes,262160
+1332,ROM/0755/Sweet Home (J) [!].nes,Sweet Home (J) [!].nes,nes,262160
+1333,ROM/0756/Famista '90 (J) [!].nes,Famista '90 (J) [!].nes,nes,262160
+1334,ROM/0757/Quarter Back Scramble (J) [!].nes,Quarter Back Scramble (J) [!].nes,nes,262160
+1335,ROM/0757/Quarter Back Scramble (U) (Proto).nes,Quarter Back Scramble (U) (Proto).nes,nes,262160
+1336,ROM/0758/I Love Softball (J).nes,I Love Softball (J).nes,nes,262160
+1337,ROM/0759/Emoyan no 10 Bai Pro Yakyuu (J) [!].nes,Emoyan no 10 Bai Pro Yakyuu (J) [!].nes,nes,262160
+1338,ROM/0760/The Money Game II (J) [!].nes,The Money Game II (J) [!].nes,nes,262160
+1339,ROM/0760/Wall Street Kid (U) [!].nes,Wall Street Kid (U) [!].nes,nes,131088
+1340,ROM/0761/Astyanax (E) [!].nes,Astyanax (E) [!].nes,nes,262160
+1341,ROM/0761/Astyanax (U) (Evercade).nes,Astyanax (U) (Evercade).nes,nes,262160
+1342,ROM/0761/Astyanax (U) [!].nes,Astyanax (U) [!].nes,nes,262160
+1343,ROM/0761/The Lord of King (J) [!].nes,The Lord of King (J) [!].nes,nes,262160
+1344,ROM/0762/Mappy Kids (J) (Evercade).nes,Mappy Kids (J) (Evercade).nes,nes,262160
+1345,ROM/0762/Mappy Kids (J) [!].nes,Mappy Kids (J) [!].nes,nes,262160
+1346,ROM/0763/Double Dragon II (E) [!].nes,Double Dragon II (E) [!].nes,nes,262160
+1347,ROM/0763/Double Dragon II (J).nes,Double Dragon II (J).nes,nes,262160
+1348,ROM/0763/Double Dragon II (U) (Evercade).nes,Double Dragon II (U) (Evercade).nes,nes,262160
+1349,ROM/0763/Double Dragon II (U) (PRG0) [!].nes,Double Dragon II (U) (PRG0) [!].nes,nes,262160
+1350,ROM/0763/Double Dragon II (U) (PRG1) [!].nes,Double Dragon II (U) (PRG1) [!].nes,nes,262160
+1351,ROM/0764/Live in Power Bowl (J) [!].nes,Live in Power Bowl (J) [!].nes,nes,262160
+1352,ROM/0765/Batman (E) [!].nes,Batman (E) [!].nes,nes,262160
+1353,ROM/0765/Batman (J) [!].nes,Batman (J) [!].nes,nes,262160
+1354,ROM/0765/Batman (U) [!].nes,Batman (U) [!].nes,nes,262160
+1355,ROM/0766/Akumajou Densetsu (J) [!].nes,Akumajou Densetsu (J) [!].nes,nes,393232
+1356,ROM/0766/Castlevania III (E) [!].nes,Castlevania III (E) [!].nes,nes,393232
+1357,ROM/0766/Castlevania III (U) [!].nes,Castlevania III (U) [!].nes,nes,393232
+1358,ROM/0767/Chuugoku Janshi Story - Tonfuu (J) [!].nes,Chuugoku Janshi Story - Tonfuu (J) [!].nes,nes,262160
+1359,ROM/0768/Heracles no Eikou II (J) [!].nes,Heracles no Eikou II (J) [!].nes,nes,262160
+1360,ROM/0769/Super Rugby (J) [!].nes,Super Rugby (J) [!].nes,nes,262160
+1361,ROM/0770/Ganbare Goemon Gaiden (J) (PRG0) [!].nes,Ganbare Goemon Gaiden (J) (PRG0) [!].nes,nes,524304
+1362,ROM/0770/Ganbare Goemon Gaiden (J) (PRG1).nes,Ganbare Goemon Gaiden (J) (PRG1).nes,nes,524304
+1363,ROM/0771/Adventures of Lolo (E) [!].nes,Adventures of Lolo (E) [!].nes,nes,65552
+1364,ROM/0771/Adventures of Lolo (J) [!].nes,Adventures of Lolo (J) [!].nes,nes,65552
+1365,ROM/0771/Adventures of Lolo (U) [!].nes,Adventures of Lolo (U) [!].nes,nes,65552
+1366,ROM/0771/Adventures of Lolo 2 (E) [!].nes,Adventures of Lolo 2 (E) [!].nes,nes,65552
+1367,ROM/0771/Adventures of Lolo 2 (U) [!].nes,Adventures of Lolo 2 (U) [!].nes,nes,65552
+1368,ROM/0772/Igo Meikan (J).nes,Igo Meikan (J).nes,nes,40976
+1369,ROM/0773/DuckTales (E) [!].nes,DuckTales (E) [!].nes,nes,131088
+1370,ROM/0773/DuckTales (U) [!].nes,DuckTales (U) [!].nes,nes,131088
+1371,ROM/0773/Wanpaku Duck Yume Bouken (J) [!].nes,Wanpaku Duck Yume Bouken (J) [!].nes,nes,131088
+1372,ROM/0774/Cadillac (J) [!].nes,Cadillac (J) [!].nes,nes,65552
+1373,ROM/0775/Probotector II (E) [!].nes,Probotector II (E) [!].nes,nes,262160
+1374,ROM/0775/Super C (U) [!].nes,Super C (U) [!].nes,nes,262160
+1375,ROM/0775/Super Contra (J).nes,Super Contra (J).nes,nes,262160
+1376,ROM/0776/Nobunaga no Yabou - Sengoku Gunyuuden (J) (PRG0) [!].nes,Nobunaga no Yabou - Sengoku Gunyuuden (J) (PRG0) [!].nes,nes,393232
+1377,ROM/0776/Nobunaga no Yabou - Sengoku Gunyuuden (J) (PRG1).nes,Nobunaga no Yabou - Sengoku Gunyuuden (J) (PRG1).nes,nes,393232
+1378,ROM/0776/Nobunaga's Ambition II (U) [!].nes,Nobunaga's Ambition II (U) [!].nes,nes,393232
+1379,ROM/0777/Mottomo Abunai Deka (J).nes,Mottomo Abunai Deka (J).nes,nes,131088
+1380,ROM/0778/Dragon Quest IV (J) (PRG0).nes,Dragon Quest IV (J) (PRG0).nes,nes,524304
+1381,ROM/0778/Dragon Quest IV (J) (PRG1) [!].nes,Dragon Quest IV (J) (PRG1) [!].nes,nes,524304
+1382,ROM/0778/Dragon Warrior IV (U) [!].nes,Dragon Warrior IV (U) [!].nes,nes,524304
+1383,ROM/0779/Arctic (J).nes,Arctic (J).nes,nes,131088
+1384,ROM/0780/Code Name - Viper (U) [!].nes,Code Name - Viper (U) [!].nes,nes,262160
+1385,ROM/0780/Ningen Heiki - Dead Fox (J).nes,Ningen Heiki - Dead Fox (J).nes,nes,262160
+1386,ROM/0781/Kiteretsu Daihyakka (J) [!].nes,Kiteretsu Daihyakka (J) [!].nes,nes,262160
+1387,ROM/0782/Akuma-kun - Makai no Wana (J) [!].nes,Akuma-kun - Makai no Wana (J) [!].nes,nes,262160
+1388,ROM/0783/Castle of Dragon (U) [!].nes,Castle of Dragon (U) [!].nes,nes,131088
+1389,ROM/0783/Dragon Unit (J) [!].nes,Dragon Unit (J) [!].nes,nes,131088
+1390,ROM/0784/Heavy Barrel (J) [!].nes,Heavy Barrel (J) [!].nes,nes,262160
+1391,ROM/0784/Heavy Barrel (U) [!].nes,Heavy Barrel (U) [!].nes,nes,262160
+1392,ROM/0785/Nishimura Kyoutarou Mystery - Super Express Satsujin Jiken (J) [!].nes,Nishimura Kyoutarou Mystery - Super Express Satsujin Jiken (J) [!].nes,nes,262160
+1393,ROM/0786/President no Sentaku (J) [!].nes,President no Sentaku (J) [!].nes,nes,262160
+1394,ROM/0787/Moai-kun (J).nes,Moai-kun (J).nes,nes,65552
+1395,ROM/0788/Don Doko Don (J) [!].nes,Don Doko Don (J) [!].nes,nes,393232
+1396,ROM/0789/Wizardry - The Knight of Diamonds (U) [!].nes,Wizardry - The Knight of Diamonds (U) [!].nes,nes,262160
+1397,ROM/0789/Wizardry III - Diamond no Kishi (J) [!].nes,Wizardry III - Diamond no Kishi (J) [!].nes,nes,262160
+1398,ROM/0790/Ikari III (J).nes,Ikari III (J).nes,nes,262160
+1399,ROM/0790/Ikari III (U) [!].nes,Ikari III (U) [!].nes,nes,262160
+1400,ROM/0791/Kamen no Ninja - Hanamaru (J) [!].nes,Kamen no Ninja - Hanamaru (J) [!].nes,nes,262160
+1401,ROM/0791/Yo! Noid (U) [!].nes,Yo! Noid (U) [!].nes,nes,262160
+1402,ROM/0792/Image Fight (J) [!].nes,Image Fight (J) [!].nes,nes,262160
+1403,ROM/0792/Image Fight (U) [!].nes,Image Fight (U) [!].nes,nes,262160
+1404,ROM/0793/Boulder Dash (E) [!].nes,Boulder Dash (E) [!].nes,nes,65552
+1405,ROM/0793/Boulder Dash (J) [!].nes,Boulder Dash (J) [!].nes,nes,65552
+1406,ROM/0793/Boulder Dash (U) [!].nes,Boulder Dash (U) [!].nes,nes,65552
+1407,ROM/0794/Mashin Eiyuuden - Wataru Gaiden (J) [!].nes,Mashin Eiyuuden - Wataru Gaiden (J) [!].nes,nes,262160
+1408,ROM/0795/Sansara Naga (J) [!].nes,Sansara Naga (J) [!].nes,nes,393232
+1409,ROM/0796/Famimaga Disk Vol. 1 - Hong Kong (J).fds,Famimaga Disk Vol. 1 - Hong Kong (J).fds,fds,65516
+1410,ROM/0797/Power Soccer (J) [!].nes,Power Soccer (J) [!].nes,nes,65552
+1411,ROM/0798/Best Play Pro Yakyuu II (J) [!].nes,Best Play Pro Yakyuu II (J) [!].nes,nes,262160
+1412,ROM/0799/Mouryou Senki Madara (J) [!].nes,Mouryou Senki Madara (J) [!].nes,nes,524304
+1413,ROM/0800/Isaki Shuugorou no Keiba Hisshou Gaku (J) [!].nes,Isaki Shuugorou no Keiba Hisshou Gaku (J) [!].nes,nes,262160
+1414,ROM/0801/Ninja Gaiden II (U) [!].nes,Ninja Gaiden II (U) [!].nes,nes,262160
+1415,ROM/0801/Ninja Ryuukenden II (J) [!].nes,Ninja Ryuukenden II (J) [!].nes,nes,262160
+1416,ROM/0801/Shadow Warriors II (E) [!].nes,Shadow Warriors II (E) [!].nes,nes,262160
+1417,ROM/0802/Deep Dungeon IV (J) [!].nes,Deep Dungeon IV (J) [!].nes,nes,262160
+1418,ROM/0803/Megami Tensei II (J) (PRG0) [!].nes,Megami Tensei II (J) (PRG0) [!].nes,nes,524304
+1419,ROM/0803/Megami Tensei II (J) (PRG1).nes,Megami Tensei II (J) (PRG1).nes,nes,524304
+1420,ROM/0804/Ultraman Club 2 (J) [!].nes,Ultraman Club 2 (J) [!].nes,nes,262160
+1421,ROM/0805/Quarth (J) [!].nes,Quarth (J) [!].nes,nes,65552
+1422,ROM/0806/Gunhed (J) [!].nes,Gunhed (J) [!].nes,nes,262160
+1423,ROM/0807/Crystalis (U) [!].nes,Crystalis (U) [!].nes,nes,393232
+1424,ROM/0807/God Slayer (J).nes,God Slayer (J).nes,nes,393232
+1425,ROM/0808/Power Blazer (J) [!].nes,Power Blazer (J) [!].nes,nes,262160
+1426,ROM/0809/Fire Emblem (J) [!].nes,Fire Emblem (J) [!].nes,nes,393232
+1427,ROM/0810/SD Battle Oozumou (J) [!].nes,SD Battle Oozumou (J) [!].nes,nes,262160
+1428,ROM/0811/Kachiuma Densetsu (J) [!].nes,Kachiuma Densetsu (J) [!].nes,nes,262160
+1429,ROM/0812/Bomberman (J) [!].nes,Bomberman (J) [!].nes,nes,24592
+1430,ROM/0812/Bomberman (J).fds,Bomberman (J).fds,fds,65516
+1431,ROM/0812/Bomberman (U) [!].nes,Bomberman (U) [!].nes,nes,24592
+1432,ROM/0813/Final Fantasy III (J) [!].nes,Final Fantasy III (J) [!].nes,nes,524304
+1433,ROM/0814/Kagerou Densetsu (J) [!].nes,Kagerou Densetsu (J) [!].nes,nes,262160
+1434,ROM/0815/Xevious (E) [!].nes,Xevious (E) [!].nes,nes,40976
+1435,ROM/0815/Xevious (J) (PRG0) [!].nes,Xevious (J) (PRG0) [!].nes,nes,40976
+1436,ROM/0815/Xevious (J) (PRG1) [!].nes,Xevious (J) (PRG1) [!].nes,nes,40976
+1437,ROM/0815/Xevious (J).fds,Xevious (J).fds,fds,65516
+1438,ROM/0815/Xevious (U) (Evercade).nes,Xevious (U) (Evercade).nes,nes,40976
+1439,ROM/0815/Xevious (U) [!].nes,Xevious (U) [!].nes,nes,40976
+1440,ROM/0816/Pac-Man (Namco) (E) [!].nes,Pac-Man (Namco) (E) [!].nes,nes,24592
+1441,ROM/0816/Pac-Man (Namco) (J) (PRG0) [!].nes,Pac-Man (Namco) (J) (PRG0) [!].nes,nes,24592
+1442,ROM/0816/Pac-Man (Namco) (J) (PRG1) [!].nes,Pac-Man (Namco) (J) (PRG1) [!].nes,nes,24592
+1443,ROM/0816/Pac-Man (Namco) (J) (PRG2).nes,Pac-Man (Namco) (J) (PRG2).nes,nes,24592
+1444,ROM/0816/Pac-Man (Namco) (J).fds,Pac-Man (Namco) (J).fds,fds,65516
+1445,ROM/0816/Pac-Man (Namco) (U) [!].nes,Pac-Man (Namco) (U) [!].nes,nes,24592
+1446,ROM/0816/Pac-Man (Namco) (W) (Evercade).nes,Pac-Man (Namco) (W) (Evercade).nes,nes,24592
+1447,ROM/0816/Pac-Man (Namco) (W) (NC).nes,Pac-Man (Namco) (W) (NC).nes,nes,24592
+1448,ROM/0817/Castle Quest (J) [!].nes,Castle Quest (J) [!].nes,nes,262160
+1449,ROM/0818/Nekketsu Koukou Dodgeball-bu - Soccer Hen (J) [!].nes,Nekketsu Koukou Dodgeball-bu - Soccer Hen (J) [!].nes,nes,262160
+1450,ROM/0818/Nintendo World Cup (E) (PRG0) [!].nes,Nintendo World Cup (E) (PRG0) [!].nes,nes,262160
+1451,ROM/0818/Nintendo World Cup (E) (PRG1).nes,Nintendo World Cup (E) (PRG1).nes,nes,262160
+1452,ROM/0818/Nintendo World Cup (E) (PRG2).nes,Nintendo World Cup (E) (PRG2).nes,nes,262160
+1453,ROM/0818/Nintendo World Cup (U) (PRG0) [!].nes,Nintendo World Cup (U) (PRG0) [!].nes,nes,262160
+1454,ROM/0818/Nintendo World Cup (U) (PRG1).nes,Nintendo World Cup (U) (PRG1).nes,nes,262160
+1455,ROM/0819/Ys II (J) [!].nes,Ys II (J) [!].nes,nes,393232
+1456,ROM/0820/Baken Hisshou Gaku - Gate In (J) [!].nes,Baken Hisshou Gaku - Gate In (J) [!].nes,nes,262160
+1457,ROM/0821/Jajamaru Gekimaden (J) [!].nes,Jajamaru Gekimaden (J) [!].nes,nes,262160
+1458,ROM/0821/Ninja Jajamaru - The Legend of the Golden Castle (UE) (NJRC) (Switch).nes,Ninja Jajamaru - The Legend of the Golden Castle (UE) (NJRC) (Switch).nes,nes,393232
+1459,ROM/0822/Knight Move (J) (RPG0).fds,Knight Move (J) (RPG0).fds,fds,65516
+1460,ROM/0822/Knight Move (J) (RPG1).fds,Knight Move (J) (RPG1).fds,fds,65516
+1461,ROM/0823/Chip 'n Dale Rescue Rangers (E) [!].nes,Chip 'n Dale Rescue Rangers (E) [!].nes,nes,262160
+1462,ROM/0823/Chip 'n Dale Rescue Rangers (U) [!].nes,Chip 'n Dale Rescue Rangers (U) [!].nes,nes,262160
+1463,ROM/0823/Chip to Dale no Daisakusen (J) [!].nes,Chip to Dale no Daisakusen (J) [!].nes,nes,262160
+1464,ROM/0824/Dash Yarou (J) [!].nes,Dash Yarou (J) [!].nes,nes,131088
+1465,ROM/0824/Rally Bike (U) [!].nes,Rally Bike (U) [!].nes,nes,131088
+1466,ROM/0825/Galaga (E) [!].nes,Galaga (E) [!].nes,nes,40976
+1467,ROM/0825/Galaga (J) [!].nes,Galaga (J) [!].nes,nes,24592
+1468,ROM/0825/Galaga (J).fds,Galaga (J).fds,fds,65516
+1469,ROM/0825/Galaga (U) (Evercade).nes,Galaga (U) (Evercade).nes,nes,40976
+1470,ROM/0825/Galaga (U) [!].nes,Galaga (U) [!].nes,nes,40976
+1471,ROM/0825/Galaga (W) (NC).nes,Galaga (W) (NC).nes,nes,24592
+1472,ROM/0826/Action in New York (E) [!].nes,Action in New York (E) [!].nes,nes,262160
+1473,ROM/0826/Final Mission (J) [!].nes,Final Mission (J) [!].nes,nes,262160
+1474,ROM/0826/S.C.A.T. (U) [!].nes,S.C.A.T. (U) [!].nes,nes,262160
+1475,ROM/0827/Battle Fleet (J) [!].nes,Battle Fleet (J) [!].nes,nes,262160
+1476,ROM/0828/Bandit Kings of Ancient China (U) [!].nes,Bandit Kings of Ancient China (U) [!].nes,nes,393232
+1477,ROM/0828/Suikoden - Tenmei no Chikai (J) [!].nes,Suikoden - Tenmei no Chikai (J) [!].nes,nes,393232
+1478,ROM/0829/Moero!! Juudou Warriors (J) [!].nes,Moero!! Juudou Warriors (J) [!].nes,nes,262160
+1479,ROM/0830/Kickle Cubicle (E) [!].nes,Kickle Cubicle (E) [!].nes,nes,262160
+1480,ROM/0830/Kickle Cubicle (U) [!].nes,Kickle Cubicle (U) [!].nes,nes,262160
+1481,ROM/0830/Meikyuu-jima (J) [!].nes,Meikyuu-jima (J) [!].nes,nes,262160
+1482,ROM/0831/Hatris (J) [!].nes,Hatris (J) [!].nes,nes,131088
+1483,ROM/0831/Hatris (U) [!].nes,Hatris (U) [!].nes,nes,131088
+1484,ROM/0832/Hiryuu no Ken III (J) [!].nes,Hiryuu no Ken III (J) [!].nes,nes,262160
+1485,ROM/0833/Palamedes (J) [!].nes,Palamedes (J) [!].nes,nes,65552
+1486,ROM/0833/Palamedes (U) [!].nes,Palamedes (U) [!].nes,nes,65552
+1487,ROM/0834/SD Hero Soukessen (J) [!].nes,SD Hero Soukessen (J) [!].nes,nes,262160
+1488,ROM/0835/Wit's (J) [!].nes,Wit's (J) [!].nes,nes,131088
+1489,ROM/0836/Galaxian (J) (Evercade).nes,Galaxian (J) (Evercade).nes,nes,16400
+1490,ROM/0836/Galaxian (J) (PRG0) [!].nes,Galaxian (J) (PRG0) [!].nes,nes,16400
+1491,ROM/0836/Galaxian (J) (PRG1) [!].nes,Galaxian (J) (PRG1) [!].nes,nes,16400
+1492,ROM/0836/Galaxian (J).fds,Galaxian (J).fds,fds,65516
+1493,ROM/0836/Galaxian (W) (NC).nes,Galaxian (W) (NC).nes,nes,24592
+1494,ROM/0837/Dig Dug (J) (Evercade).nes,Dig Dug (J) (Evercade).nes,nes,24592
+1495,ROM/0837/Dig Dug (J) [!].nes,Dig Dug (J) [!].nes,nes,24592
+1496,ROM/0837/Dig Dug (J).fds,Dig Dug (J).fds,fds,65516
+1497,ROM/0837/Dig Dug (W) (NC).nes,Dig Dug (W) (NC).nes,nes,24592
+1498,ROM/0838/Solstice (E) [!].nes,Solstice (E) [!].nes,nes,131088
+1499,ROM/0838/Solstice (J) [!].nes,Solstice (J) [!].nes,nes,131088
+1500,ROM/0838/Solstice (U) [!].nes,Solstice (U) [!].nes,nes,131088
+1501,ROM/0839/Burai Fighter (E) [!].nes,Burai Fighter (E) [!].nes,nes,65552
+1502,ROM/0839/Burai Fighter (J) [!].nes,Burai Fighter (J) [!].nes,nes,65552
+1503,ROM/0839/Burai Fighter (U) [!].nes,Burai Fighter (U) [!].nes,nes,65552
+1504,ROM/0840/Juuouki (J) [!].nes,Juuouki (J) [!].nes,nes,262160
+1505,ROM/0841/Nichibutsu Mahjong III (J) [!].nes,Nichibutsu Mahjong III (J) [!].nes,nes,262160
+1506,ROM/0842/Captain Tsubasa Vol. II - Super Striker (J) [!].nes,Captain Tsubasa Vol. II - Super Striker (J) [!].nes,nes,393232
+1507,ROM/0843/Home Run Nighter '90 (J) [!].nes,Home Run Nighter '90 (J) [!].nes,nes,262160
+1508,ROM/0844/Dr. Mario (E) [!].nes,Dr. Mario (E) [!].nes,nes,65552
+1509,ROM/0844/Dr. Mario (JU) (PRG0) [!].nes,Dr. Mario (JU) (PRG0) [!].nes,nes,65552
+1510,ROM/0844/Dr. Mario (JU) (PRG1) [!].nes,Dr. Mario (JU) (PRG1) [!].nes,nes,65552
+1511,ROM/0845/STED (J) [!].nes,STED (J) [!].nes,nes,262160
+1512,ROM/0846/Golgo 13 - Dai 2 Shou (J) [!].nes,Golgo 13 - Dai 2 Shou (J) [!].nes,nes,262160
+1513,ROM/0846/Mafat Conspiracy - Golgo 13 (U) [!].nes,Mafat Conspiracy - Golgo 13 (U) [!].nes,nes,262160
+1514,ROM/0847/Bases Loaded 3 (U) [!].nes,Bases Loaded 3 (U) [!].nes,nes,393232
+1515,ROM/0847/Moe Pro! '90 - Kandou Hen (J) [!].nes,Moe Pro! '90 - Kandou Hen (J) [!].nes,nes,393232
+1516,ROM/0848/Bikkuriman World (J) [!].nes,Bikkuriman World (J) [!].nes,nes,262160
+1517,ROM/0849/Might and Magic (J) [!].nes,Might and Magic (J) [!].nes,nes,524304
+1518,ROM/0849/Might and Magic (U) [!].nes,Might and Magic (U) [!].nes,nes,524304
+1519,ROM/0850/Happy Birthday Bugs (E) [!].nes,Happy Birthday Bugs (E) [!].nes,nes,262160
+1520,ROM/0850/Happy Birthday Bugs (J) [!].nes,Happy Birthday Bugs (J) [!].nes,nes,262160
+1521,ROM/0850/Happy Birthday Bugs (U) [!].nes,Happy Birthday Bugs (U) [!].nes,nes,262160
+1522,ROM/0851/Game Party (J).nes,Game Party (J).nes,nes,262160
+1523,ROM/0852/Street Fighter 2010 (J) [!].nes,Street Fighter 2010 (J) [!].nes,nes,262160
+1524,ROM/0852/Street Fighter 2010 - The Final Fight (U) [!].nes,Street Fighter 2010 - The Final Fight (U) [!].nes,nes,262160
+1525,ROM/0853/Ninjara Hoi! (J) [!].nes,Ninjara Hoi! (J) [!].nes,nes,524304
+1526,ROM/0854/Peepar Time (J) [!].nes,Peepar Time (J) [!].nes,nes,49168
+1527,ROM/0855/Journey to Silius (E) [!].nes,Journey to Silius (E) [!].nes,nes,262160
+1528,ROM/0855/Journey to Silius (U) (Evercade).nes,Journey to Silius (U) (Evercade).nes,nes,262160
+1529,ROM/0855/Journey to Silius (U) [!].nes,Journey to Silius (U) [!].nes,nes,262160
+1530,ROM/0855/Raf World (J) [!].nes,Raf World (J) [!].nes,nes,262160
+1531,ROM/0856/Dragon Fighter (J) [!].nes,Dragon Fighter (J) [!].nes,nes,262160
+1532,ROM/0856/Dragon Fighter (U) [!].nes,Dragon Fighter (U) [!].nes,nes,262160
+1533,ROM/0857/Blue Shadow (E) [!].nes,Blue Shadow (E) [!].nes,nes,262160
+1534,ROM/0857/Kage (J) [!].nes,Kage (J) [!].nes,nes,262160
+1535,ROM/0857/Shadow of the Ninja (U) [!].nes,Shadow of the Ninja (U) [!].nes,nes,262160
+1536,ROM/0858/Titan (J) (Evercade).nes,Titan (J) (Evercade).nes,nes,131088
+1537,ROM/0858/Titan (J) [!].nes,Titan (J) [!].nes,nes,131088
+1538,ROM/0859/Parallel World (J).nes,Parallel World (J).nes,nes,262160
+1539,ROM/0860/Kawa no Nushi Tsuri (J).nes,Kawa no Nushi Tsuri (J).nes,nes,262160
+1540,ROM/0861/Nippon Ichi no Meikantoku (J).nes,Nippon Ichi no Meikantoku (J).nes,nes,262160
+1541,ROM/0862/Blodia Land (J) [!].nes,Blodia Land (J) [!].nes,nes,262160
+1542,ROM/0863/SD Gundam Gaiden - Knight Gundam Monogatari (J) (PRG0) [!].nes,SD Gundam Gaiden - Knight Gundam Monogatari (J) (PRG0) [!].nes,nes,393232
+1543,ROM/0863/SD Gundam Gaiden - Knight Gundam Monogatari (J) (PRG1) [!].nes,SD Gundam Gaiden - Knight Gundam Monogatari (J) (PRG1) [!].nes,nes,393232
+1544,ROM/0864/Kujaku Ou II (J) [!].nes,Kujaku Ou II (J) [!].nes,nes,262160
+1545,ROM/0865/Shanghai II (J) [!].nes,Shanghai II (J) [!].nes,nes,131088
+1546,ROM/0866/Conquest of the Crystal Palace (U) [!].nes,Conquest of the Crystal Palace (U) [!].nes,nes,262160
+1547,ROM/0866/Matendouji (J) [!].nes,Matendouji (J) [!].nes,nes,262160
+1548,ROM/0867/Jangou (J) [!].nes,Jangou (J) [!].nes,nes,262160
+1549,ROM/0868/Dig Dug II (J) [!].nes,Dig Dug II (J) [!].nes,nes,40976
+1550,ROM/0868/Dig Dug II (J).fds,Dig Dug II (J).fds,fds,65516
+1551,ROM/0868/Dig Dug II (U) (Evercade).nes,Dig Dug II (U) (Evercade).nes,nes,40976
+1552,ROM/0868/Dig Dug II (U) [!].nes,Dig Dug II (U) [!].nes,nes,40976
+1553,ROM/0869/Dungeon Kid (J) [!].nes,Dungeon Kid (J) [!].nes,nes,131088
+1554,ROM/0870/Backgammon (J).fds,Backgammon (J).fds,fds,65516
+1555,ROM/0871/Uchuu Keibitai SDF (J).nes,Uchuu Keibitai SDF (J).nes,nes,262160
+1556,ROM/0872/World Boxing (J).nes,World Boxing (J).nes,nes,262160
+1557,ROM/0873/SD Sengoku Bushou Retsuden (J) [!].nes,SD Sengoku Bushou Retsuden (J) [!].nes,nes,262160
+1558,ROM/0874/Bakushou! Star Monomane Shitennou (J).nes,Bakushou! Star Monomane Shitennou (J).nes,nes,131088
+1559,ROM/0875/Little Magic (J) [!].nes,Little Magic (J) [!].nes,nes,262160
+1560,ROM/0876/Doraemon - Giga Zombie no Gyakushuu (J) [!].nes,Doraemon - Giga Zombie no Gyakushuu (J) [!].nes,nes,262160
+1561,ROM/0877/Ishin no Arashi (J) [!].nes,Ishin no Arashi (J) [!].nes,nes,393232
+1562,ROM/0878/Tamura Mitsuaki no Mahjong Seminar (J) [!].nes,Tamura Mitsuaki no Mahjong Seminar (J) [!].nes,nes,131088
+1563,ROM/0879/Insector X (J) [!].nes,Insector X (J) [!].nes,nes,262160
+1564,ROM/0880/North & South (E) [!].nes,North & South (E) [!].nes,nes,262160
+1565,ROM/0880/North & South (J) [!].nes,North & South (J) [!].nes,nes,262160
+1566,ROM/0880/North & South (U) [!].nes,North & South (U) [!].nes,nes,262160
+1567,ROM/0881/Tantei Jinguuji Saburou - Toki no Sugiyuku Mama ni (J) [!].nes,Tantei Jinguuji Saburou - Toki no Sugiyuku Mama ni (J) [!].nes,nes,131088
+1568,ROM/0882/Magic John (J) [!].nes,Magic John (J) [!].nes,nes,262160
+1569,ROM/0882/Totally Rad (E) [!].nes,Totally Rad (E) [!].nes,nes,262160
+1570,ROM/0882/Totally Rad (U) (Evercade).nes,Totally Rad (U) (Evercade).nes,nes,262160
+1571,ROM/0882/Totally Rad (U) [!].nes,Totally Rad (U) [!].nes,nes,262160
+1572,ROM/0883/Megaman III (E) (PRG0) [!].nes,Megaman III (E) (PRG0) [!].nes,nes,393232
+1573,ROM/0883/Megaman III (E) (PRG1) [!].nes,Megaman III (E) (PRG1) [!].nes,nes,393232
+1574,ROM/0883/Megaman III (U) [!].nes,Megaman III (U) [!].nes,nes,393232
+1575,ROM/0883/Megaman III (W) (MMLC).nes,Megaman III (W) (MMLC).nes,nes,393232
+1576,ROM/0883/Rockman 3 - Dr. Wily no Saigo! (J) [!].nes,Rockman 3 - Dr. Wily no Saigo! (J) [!].nes,nes,393232
+1577,ROM/0884/Gun-Nac (J) [!].nes,Gun-Nac (J) [!].nes,nes,262160
+1578,ROM/0884/Gun-Nac (U) [!].nes,Gun-Nac (U) [!].nes,nes,262160
+1579,ROM/0885/Downtown - Nekketsu Koushinkyoku (J) [!].nes,Downtown - Nekketsu Koushinkyoku (J) [!].nes,nes,262160
+1580,ROM/0886/Famimaga Disk Vol. 2 - Panic Space (J).fds,Famimaga Disk Vol. 2 - Panic Space (J).fds,fds,131016
+1581,ROM/0887/Majaventure - Mahjong Senki (J).nes,Majaventure - Mahjong Senki (J).nes,nes,262160
+1582,ROM/0888/Akumajou Special - Boku Dracula-kun (J) [!].nes,Akumajou Special - Boku Dracula-kun (J) [!].nes,nes,262160
+1583,ROM/0888/Kid Dracula (UE) (CAC).nes,Kid Dracula (UE) (CAC).nes,nes,393232
+1584,ROM/0889/Bloody Warriors (J) [!].nes,Bloody Warriors (J) [!].nes,nes,262160
+1585,ROM/0890/Shufflepuck Cafe (J) [!].nes,Shufflepuck Cafe (J) [!].nes,nes,131088
+1586,ROM/0891/Oeka Kids - Anpanman to Oekaki Shiyou!! (J) [!].nes,Oeka Kids - Anpanman to Oekaki Shiyou!! (J) [!].nes,nes,131088
+1587,ROM/0892/Nantettatte!! Baseball (J) [!].nes,Nantettatte!! Baseball (J) [!].nes,nes,262160
+1588,ROM/0893/Mizushima Shinji no Daikoushien (J) [!].nes,Mizushima Shinji no Daikoushien (J) [!].nes,nes,262160
+1589,ROM/0894/Astro Fang (J) [!].nes,Astro Fang (J) [!].nes,nes,262160
+1590,ROM/0895/Pachio-kun 3 (J) (PRG0) [!].nes,Pachio-kun 3 (J) (PRG0) [!].nes,nes,393232
+1591,ROM/0895/Pachio-kun 3 (J) (PRG1).nes,Pachio-kun 3 (J) (PRG1).nes,nes,393232
+1592,ROM/0896/Dragon Ball Z - Kyoushuu! Saiyajin (J) (PRG0) [!].nes,Dragon Ball Z - Kyoushuu! Saiyajin (J) (PRG0) [!].nes,nes,524304
+1593,ROM/0896/Dragon Ball Z - Kyoushuu! Saiyajin (J) (PRG1).nes,Dragon Ball Z - Kyoushuu! Saiyajin (J) (PRG1).nes,nes,524304
+1594,ROM/0897/CrossFire (J).nes,CrossFire (J).nes,nes,262160
+1595,ROM/0897/CrossFire (U) (Proto) [!].nes,CrossFire (U) (Proto) [!].nes,nes,262160
+1596,ROM/0898/Yamamura Misa Suspense - Kyouto Zaiteku Satsujin Jiken (J) [!].nes,Yamamura Misa Suspense - Kyouto Zaiteku Satsujin Jiken (J) [!].nes,nes,262160
+1597,ROM/0899/Romance of the Three Kingdoms II (U) [!].nes,Romance of the Three Kingdoms II (U) [!].nes,nes,524304
+1598,ROM/0899/Sangokushi II (J) (PRG0) [!].nes,Sangokushi II (J) (PRG0) [!].nes,nes,524304
+1599,ROM/0899/Sangokushi II (J) (PRG1) [!].nes,Sangokushi II (J) (PRG1) [!].nes,nes,524304
+1600,ROM/0900/Last Armageddon (J) [!].nes,Last Armageddon (J) [!].nes,nes,524304
+1601,ROM/0901/Tecmo Bowl (J) [!].nes,Tecmo Bowl (J) [!].nes,nes,262160
+1602,ROM/0901/Tecmo Bowl (U) (PRG0) [!].nes,Tecmo Bowl (U) (PRG0) [!].nes,nes,262160
+1603,ROM/0901/Tecmo Bowl (U) (PRG1) [!].nes,Tecmo Bowl (U) (PRG1) [!].nes,nes,262160
+1604,ROM/0902/Puzzle Boys (J).fds,Puzzle Boys (J).fds,fds,131016
+1605,ROM/0903/Sanrio Carnival (J) [!].nes,Sanrio Carnival (J) [!].nes,nes,65552
+1606,ROM/0904/A Boy and His Blob (E) (PRG0).nes,A Boy and His Blob (E) (PRG0).nes,nes,262160
+1607,ROM/0904/A Boy and His Blob (E) (PRG1) [!].nes,A Boy and His Blob (E) (PRG1) [!].nes,nes,262160
+1608,ROM/0904/A Boy and His Blob (U) [!].nes,A Boy and His Blob (U) [!].nes,nes,262160
+1609,ROM/0904/Fushigi na Blobby (J).nes,Fushigi na Blobby (J).nes,nes,262160
+1610,ROM/0905/Parodius (E) [!].nes,Parodius (E) [!].nes,nes,262160
+1611,ROM/0905/Parodius Da! (J) [!].nes,Parodius Da! (J) [!].nes,nes,262160
+1612,ROM/0906/Daimeiro (J) [!].nes,Daimeiro (J) [!].nes,nes,262160
+1613,ROM/0907/Ishido (J).fds,Ishido (J).fds,fds,131016
+1614,ROM/0908/Times of Lore (J) [!].nes,Times of Lore (J) [!].nes,nes,131088
+1615,ROM/0908/Times of Lore (U) [!].nes,Times of Lore (U) [!].nes,nes,131088
+1616,ROM/0909/Saiyuuki World II (J) [!].nes,Saiyuuki World II (J) [!].nes,nes,262160
+1617,ROM/0909/Whomp 'Em (U) [!].nes,Whomp 'Em (U) [!].nes,nes,262160
+1618,ROM/0910/Tecmo World Cup Soccer (E) [!].nes,Tecmo World Cup Soccer (E) [!].nes,nes,131088
+1619,ROM/0910/Tecmo World Cup Soccer (J) [!].nes,Tecmo World Cup Soccer (J) [!].nes,nes,131088
+1620,ROM/0911/Chiyonofuji no Ooichou (J) [!].nes,Chiyonofuji no Ooichou (J) [!].nes,nes,262160
+1621,ROM/0912/Little Nemo - The Dream Master (E) [!].nes,Little Nemo - The Dream Master (E) [!].nes,nes,262160
+1622,ROM/0912/Little Nemo - The Dream Master (U) [!].nes,Little Nemo - The Dream Master (U) [!].nes,nes,262160
+1623,ROM/0912/Nemo - Pajama Hero (J) [!].nes,Nemo - Pajama Hero (J) [!].nes,nes,262160
+1624,ROM/0913/Gambler Jiko Chuushinha 2 (J) [!].nes,Gambler Jiko Chuushinha 2 (J) [!].nes,nes,262160
+1625,ROM/0914/Great Boxing - Rush Up (J) [!].nes,Great Boxing - Rush Up (J) [!].nes,nes,262160
+1626,ROM/0914/World Champ (E) [!].nes,World Champ (E) [!].nes,nes,262160
+1627,ROM/0914/World Champ (U) [!].nes,World Champ (U) [!].nes,nes,262160
+1628,ROM/0915/Teenage Mutant Hero Turtles II (E) [!].nes,Teenage Mutant Hero Turtles II (E) [!].nes,nes,524304
+1629,ROM/0915/Teenage Mutant Ninja Turtles (J) [!].nes,Teenage Mutant Ninja Turtles (J) [!].nes,nes,524304
+1630,ROM/0915/Teenage Mutant Ninja Turtles II (A).nes,Teenage Mutant Ninja Turtles II (A).nes,nes,524304
+1631,ROM/0915/Teenage Mutant Ninja Turtles II (U) [!].nes,Teenage Mutant Ninja Turtles II (U) [!].nes,nes,524304
+1632,ROM/0916/Famicom Top Management (J).nes,Famicom Top Management (J).nes,nes,262160
+1633,ROM/0917/Best Play Pro Yakyuu '90 (J) [!].nes,Best Play Pro Yakyuu '90 (J) [!].nes,nes,262160
+1634,ROM/0918/Paaman (J) [!].nes,Paaman (J) [!].nes,nes,262160
+1635,ROM/0919/Ninja Crusaders (U) [!].nes,Ninja Crusaders (U) [!].nes,nes,131088
+1636,ROM/0919/Ninja Crusaders - Ryuuga (J).nes,Ninja Crusaders - Ryuuga (J).nes,nes,131088
+1637,ROM/0920/Klax (J) [!].nes,Klax (J) [!].nes,nes,196624
+1638,ROM/0920/Klax (U) [!].nes,Klax (U) [!].nes,nes,131088
+1639,ROM/0921/Wagyan Land 2 (J) [!].nes,Wagyan Land 2 (J) [!].nes,nes,393232
+1640,ROM/0922/Metal Flame - Psy Buster (J).nes,Metal Flame - Psy Buster (J).nes,nes,262160
+1641,ROM/0922/Metal Mech (U) (Evercade).nes,Metal Mech (U) (Evercade).nes,nes,262160
+1642,ROM/0922/Metal Mech (U) [!].nes,Metal Mech (U) [!].nes,nes,262160
+1643,ROM/0923/Magical Doropie (J).nes,Magical Doropie (J).nes,nes,262160
+1644,ROM/0923/The Krion Conquest (U) [!].nes,The Krion Conquest (U) [!].nes,nes,262160
+1645,ROM/0924/Gremlins 2 (E) [!].nes,Gremlins 2 (E) [!].nes,nes,393232
+1646,ROM/0924/Gremlins 2 (J) [!].nes,Gremlins 2 (J) [!].nes,nes,393232
+1647,ROM/0924/Gremlins 2 (U) [!].nes,Gremlins 2 (U) [!].nes,nes,393232
+1648,ROM/0925/Abarenbou Tengu (J).nes,Abarenbou Tengu (J).nes,nes,262160
+1649,ROM/0925/Zombie Nation (U) [!].nes,Zombie Nation (U) [!].nes,nes,262160
+1650,ROM/0926/Hissatsu Shigoto Nin (J) [!].nes,Hissatsu Shigoto Nin (J) [!].nes,nes,393232
+1651,ROM/0927/Jumpin' Kid (J) [!].nes,Jumpin' Kid (J) [!].nes,nes,262160
+1652,ROM/0928/Battle Stadium (J) [!].nes,Battle Stadium (J) [!].nes,nes,262160
+1653,ROM/0929/Famista '91 (J) [!].nes,Famista '91 (J) [!].nes,nes,262160
+1654,ROM/0930/Sword Master (E) [!].nes,Sword Master (E) [!].nes,nes,262160
+1655,ROM/0930/Sword Master (J) [!].nes,Sword Master (J) [!].nes,nes,262160
+1656,ROM/0930/Sword Master (U) [!].nes,Sword Master (U) [!].nes,nes,262160
+1657,ROM/0931/Jigoku Gokuraku Maru (J).nes,Jigoku Gokuraku Maru (J).nes,nes,262160
+1658,ROM/0931/Kabuki - Quantum Fighter (E) [!].nes,Kabuki - Quantum Fighter (E) [!].nes,nes,262160
+1659,ROM/0931/Kabuki - Quantum Fighter (U) [!].nes,Kabuki - Quantum Fighter (U) [!].nes,nes,262160
+1660,ROM/0932/Daikaijuu Deburas (J) [!].nes,Daikaijuu Deburas (J) [!].nes,nes,393232
+1661,ROM/0933/Zoids - Mokushiroku (J) [!].nes,Zoids - Mokushiroku (J) [!].nes,nes,262160
+1662,ROM/0934/The Bard's Tale (J) [!].nes,The Bard's Tale (J) [!].nes,nes,262160
+1663,ROM/0934/The Bard's Tale (U) [!].nes,The Bard's Tale (U) [!].nes,nes,131088
+1664,ROM/0935/Musashi no Bouken (J) [!].nes,Musashi no Bouken (J) [!].nes,nes,262160
+1665,ROM/0936/SD Gundam - Gachapon Senshi 3 (J) [!].nes,SD Gundam - Gachapon Senshi 3 (J) [!].nes,nes,262160
+1666,ROM/0937/New Ghostbusters II (E) [!].nes,New Ghostbusters II (E) [!].nes,nes,262160
+1667,ROM/0937/New Ghostbusters II (J) [!].nes,New Ghostbusters II (J) [!].nes,nes,262160
+1668,ROM/0937/New Ghostbusters II (U) (Proto).nes,New Ghostbusters II (U) (Proto).nes,nes,262160
+1669,ROM/0938/Adventures of Lolo II (J) [!].nes,Adventures of Lolo II (J) [!].nes,nes,262160
+1670,ROM/0938/Adventures of Lolo III (E) [!].nes,Adventures of Lolo III (E) [!].nes,nes,262160
+1671,ROM/0938/Adventures of Lolo III (U) [!].nes,Adventures of Lolo III (U) [!].nes,nes,262160
+1672,ROM/0939/Bakushou!! Ai no Gekijou (J) [!].nes,Bakushou!! Ai no Gekijou (J) [!].nes,nes,262160
+1673,ROM/0940/Juvei Quest (J) [!].nes,Juvei Quest (J) [!].nes,nes,524304
+1674,ROM/0941/Wai Wai World 2 (J) [!].nes,Wai Wai World 2 (J) [!].nes,nes,393232
+1675,ROM/0942/Solomon no Kagi (J) [!].nes,Solomon no Kagi (J) [!].nes,nes,65552
+1676,ROM/0942/Solomon no Kagi (J).fds,Solomon no Kagi (J).fds,fds,65516
+1677,ROM/0942/Solomon's Key (E) [!].nes,Solomon's Key (E) [!].nes,nes,65552
+1678,ROM/0942/Solomon's Key (U) [!].nes,Solomon's Key (U) [!].nes,nes,65552
+1679,ROM/0943/Jackie Chan (J) [!].nes,Jackie Chan (J) [!].nes,nes,262160
+1680,ROM/0943/Jackie Chan's Action Kung Fu (E) [!].nes,Jackie Chan's Action Kung Fu (E) [!].nes,nes,262160
+1681,ROM/0943/Jackie Chan's Action Kung Fu (U) [!].nes,Jackie Chan's Action Kung Fu (U) [!].nes,nes,262160
+1682,ROM/0944/Dora 3 (J) [!].nes,Dora 3 (J) [!].nes,nes,262160
+1683,ROM/0945/Yume Penguin Monogatari (J).nes,Yume Penguin Monogatari (J).nes,nes,262160
+1684,ROM/0946/Paperboy (E) [!].nes,Paperboy (E) [!].nes,nes,65552
+1685,ROM/0946/Paperboy (J) [!].nes,Paperboy (J) [!].nes,nes,65552
+1686,ROM/0946/Paperboy (U) [!].nes,Paperboy (U) [!].nes,nes,65552
+1687,ROM/0947/Golf Grand Slam (J) [!].nes,Golf Grand Slam (J) [!].nes,nes,262160
+1688,ROM/0947/Golf Grand Slam (U) [!].nes,Golf Grand Slam (U) [!].nes,nes,262160
+1689,ROM/0948/Championship Bowling (J) [!].nes,Championship Bowling (J) [!].nes,nes,65552
+1690,ROM/0948/Championship Bowling (U) [!].nes,Championship Bowling (U) [!].nes,nes,65552
+1691,ROM/0949/Dark Lord (J).nes,Dark Lord (J).nes,nes,393232
+1692,ROM/0950/Akagawa Jirou no Yuurei Ressha (J) [!].nes,Akagawa Jirou no Yuurei Ressha (J) [!].nes,nes,262160
+1693,ROM/0951/Isolated Warrior (E) [!].nes,Isolated Warrior (E) [!].nes,nes,262160
+1694,ROM/0951/Isolated Warrior (U) [!].nes,Isolated Warrior (U) [!].nes,nes,262160
+1695,ROM/0951/Max Warrior (J).nes,Max Warrior (J).nes,nes,262160
+1696,ROM/0952/Parasol Henbee (J) [!].nes,Parasol Henbee (J) [!].nes,nes,262160
+1697,ROM/0953/Famicom Shougi - Ryuuousen (J).nes,Famicom Shougi - Ryuuousen (J).nes,nes,262160
+1698,ROM/0954/Mini-Putt (J) [!].nes,Mini-Putt (J) [!].nes,nes,262160
+1699,ROM/0954/Mini-Putt (U) (Proto).nes,Mini-Putt (U) (Proto).nes,nes,262160
+1700,ROM/0955/Famimaga Disk Vol. 3 - All 1 (J).fds,Famimaga Disk Vol. 3 - All 1 (J).fds,fds,65516
+1701,ROM/0956/Double Dragon III - The Rosetta Stone (J) [!].nes,Double Dragon III - The Rosetta Stone (J) [!].nes,nes,262160
+1702,ROM/0956/Double Dragon III - The Sacred Stones (E) [!].nes,Double Dragon III - The Sacred Stones (E) [!].nes,nes,262160
+1703,ROM/0956/Double Dragon III - The Sacred Stones (U) [!].nes,Double Dragon III - The Sacred Stones (U) [!].nes,nes,262160
+1704,ROM/0957/Niji no Silk Road (J) [!].nes,Niji no Silk Road (J) [!].nes,nes,393232
+1705,ROM/0958/Ide Yousuke Meijin no Jissen Mahjong II (J) [!].nes,Ide Yousuke Meijin no Jissen Mahjong II (J) [!].nes,nes,262160
+1706,ROM/0959/Grand Master (J).nes,Grand Master (J).nes,nes,393232
+1707,ROM/0960/Nantettatte!! Baseball - OB All Star Hen (J).nes,Nantettatte!! Baseball - OB All Star Hen (J).nes,nes,278544
+1708,ROM/0961/Super Chinese 3 (J) [!].nes,Super Chinese 3 (J) [!].nes,nes,262160
+1709,ROM/0962/Kyuukyoku Harikiri Stadium III (J) [!].nes,Kyuukyoku Harikiri Stadium III (J) [!].nes,nes,393232
+1710,ROM/0963/Namcot Mahjong III (J) [!].nes,Namcot Mahjong III (J) [!].nes,nes,262160
+1711,ROM/0964/Advanced Dungeons & Dragons - Heroes of the Lance (J) [!].nes,Advanced Dungeons & Dragons - Heroes of the Lance (J) [!].nes,nes,262160
+1712,ROM/0964/Advanced Dungeons & Dragons - Heroes of the Lance (U) [!].nes,Advanced Dungeons & Dragons - Heroes of the Lance (U) [!].nes,nes,262160
+1713,ROM/0965/Gun Sight (J) [!].nes,Gun Sight (J) [!].nes,nes,262160
+1714,ROM/0965/Laser Invasion (U) [!].nes,Laser Invasion (U) [!].nes,nes,262160
+1715,ROM/0966/Fushigi no Umi no Nadia (J) [!].nes,Fushigi no Umi no Nadia (J) [!].nes,nes,262160
+1716,ROM/0967/Daikoukai Jidai (J) [!].nes,Daikoukai Jidai (J) [!].nes,nes,655376
+1717,ROM/0967/Uncharted Waters (U) [!].nes,Uncharted Waters (U) [!].nes,nes,655376
+1718,ROM/0968/Magical Taruruuto-kun (J) (PRG0) [!].nes,Magical Taruruuto-kun (J) (PRG0) [!].nes,nes,262160
+1719,ROM/0968/Magical Taruruuto-kun (J) (PRG1) [!].nes,Magical Taruruuto-kun (J) (PRG1) [!].nes,nes,262160
+1720,ROM/0969/Itadaki Street (J) [!].nes,Itadaki Street (J) [!].nes,nes,262160
+1721,ROM/0970/Advanced Dungeons & Dragons - Hillsfar (J) [!].nes,Advanced Dungeons & Dragons - Hillsfar (J) [!].nes,nes,262160
+1722,ROM/0970/Advanced Dungeons & Dragons - Hillsfar (U) [!].nes,Advanced Dungeons & Dragons - Hillsfar (U) [!].nes,nes,262160
+1723,ROM/0971/Shadow Brain (J).nes,Shadow Brain (J).nes,nes,393232
+1724,ROM/0972/Bakushou!! Jinsei Gekijou 2 (J) [!].nes,Bakushou!! Jinsei Gekijou 2 (J) [!].nes,nes,393232
+1725,ROM/0973/Oeka Kids - Anpanman no Hiragana Daisuki (J).nes,Oeka Kids - Anpanman no Hiragana Daisuki (J).nes,nes,131088
+1726,ROM/0974/Kero Kero Keroppi no Daibouken (J) [!].nes,Kero Kero Keroppi no Daibouken (J) [!].nes,nes,65552
+1727,ROM/0975/Ninja Jajamaru - Ginga Daisakusen (J) [!].nes,Ninja Jajamaru - Ginga Daisakusen (J) [!].nes,nes,262160
+1728,ROM/0975/Ninja Jajamaru - Operation Milky Way (UE) (NJRC) (Switch).nes,Ninja Jajamaru - Operation Milky Way (UE) (NJRC) (Switch).nes,nes,262160
+1729,ROM/0975/Squashed (U) (Proto) [!].nes,Squashed (U) (Proto) [!].nes,nes,262160
+1730,ROM/0976/Hokuto no Ken 4 (J) [!].nes,Hokuto no Ken 4 (J) [!].nes,nes,262160
+1731,ROM/0977/RoboCop 2 (E) [!].nes,RoboCop 2 (E) [!].nes,nes,262160
+1732,ROM/0977/RoboCop 2 (J) [!].nes,RoboCop 2 (J) [!].nes,nes,262160
+1733,ROM/0977/RoboCop 2 (U) (PRG0) [!].nes,RoboCop 2 (U) (PRG0) [!].nes,nes,262160
+1734,ROM/0977/RoboCop 2 (U) (PRG1) [!].nes,RoboCop 2 (U) (PRG1) [!].nes,nes,262160
+1735,ROM/0978/New York Nyankies (J) [!].nes,New York Nyankies (J) [!].nes,nes,262160
+1736,ROM/0978/Rockin' Kats (E) [!].nes,Rockin' Kats (E) [!].nes,nes,262160
+1737,ROM/0978/Rockin' Kats (U) [!].nes,Rockin' Kats (U) [!].nes,nes,262160
+1738,ROM/0979/Obocchama-kun (J) [!].nes,Obocchama-kun (J) [!].nes,nes,262160
+1739,ROM/0980/Tenchi wo Kurau II - Shokatsu Koumei Den (J) (PRG0) [!].nes,Tenchi wo Kurau II - Shokatsu Koumei Den (J) (PRG0) [!].nes,nes,524304
+1740,ROM/0980/Tenchi wo Kurau II - Shokatsu Koumei Den (J) (PRG1).nes,Tenchi wo Kurau II - Shokatsu Koumei Den (J) (PRG1).nes,nes,524304
+1741,ROM/0981/Gorby no Pipeline Daisakusen (J).nes,Gorby no Pipeline Daisakusen (J).nes,nes,65552
+1742,ROM/0981/Pipeline Daisakusen (J) (Project EGG).nes,Pipeline Daisakusen (J) (Project EGG).nes,nes,65552
+1743,ROM/0982/Family Block (J).nes,Family Block (J).nes,nes,163856
+1744,ROM/0982/Thunder & Lightning (U) [!].nes,Thunder & Lightning (U) [!].nes,nes,163856
+1745,ROM/0983/Twin Eagle - Revenge Joe's Brother (J) [!].nes,Twin Eagle - Revenge Joe's Brother (J) [!].nes,nes,131088
+1746,ROM/0983/Twin Eagle - Revenge Joe's Brother (U) [!].nes,Twin Eagle - Revenge Joe's Brother (U) [!].nes,nes,131088
+1747,ROM/0984/Famimaga Disk Vol. 4 - Clox (J).fds,Famimaga Disk Vol. 4 - Clox (J).fds,fds,65516
+1748,ROM/0985/Mahjong Club - Nagatachou (J) [!].nes,Mahjong Club - Nagatachou (J) [!].nes,nes,524304
+1749,ROM/0986/Shikinjou (J) [!].nes,Shikinjou (J) [!].nes,nes,131088
+1750,ROM/0987/Adventure Island II (E) [!].nes,Adventure Island II (E) [!].nes,nes,262160
+1751,ROM/0987/Adventure Island II (U) [!].nes,Adventure Island II (U) [!].nes,nes,262160
+1752,ROM/0987/Takahashi Meijin no Boukenjima II (J) [!].nes,Takahashi Meijin no Boukenjima II (J) [!].nes,nes,262160
+1753,ROM/0988/Taito Basketball (J) [!].nes,Taito Basketball (J) [!].nes,nes,262160
+1754,ROM/0988/Ultimate Basketball (U) [!].nes,Ultimate Basketball (U) [!].nes,nes,262160
+1755,ROM/0989/Gun-Dec (J).nes,Gun-Dec (J).nes,nes,262160
+1756,ROM/0989/Vice (U) [!].nes,Vice (U) [!].nes,nes,262160
+1757,ROM/0990/Over Horizon (E) [!].nes,Over Horizon (E) [!].nes,nes,262160
+1758,ROM/0990/Over Horizon (J).nes,Over Horizon (J).nes,nes,262160
+1759,ROM/0991/Magic Darts (J) [!].nes,Magic Darts (J) [!].nes,nes,262160
+1760,ROM/0991/Magic Darts (U) [!].nes,Magic Darts (U) [!].nes,nes,262160
+1761,ROM/0992/Lagrange Point (J) [!].nes,Lagrange Point (J) [!].nes,nes,524304
+1762,ROM/0993/Cocoron (J).nes,Cocoron (J).nes,nes,262160
+1763,ROM/0994/Palamedes II (J) [!].nes,Palamedes II (J) [!].nes,nes,65552
+1764,ROM/0995/Fuzzical Fighter (J) [!].nes,Fuzzical Fighter (J) [!].nes,nes,262160
+1765,ROM/0996/L'Empereur (J) [!].nes,L'Empereur (J) [!].nes,nes,393232
+1766,ROM/0996/L'Empereur (U) [!].nes,L'Empereur (U) [!].nes,nes,393232
+1767,ROM/0997/Tetrastar - The Fighter (J).nes,Tetrastar - The Fighter (J).nes,nes,524304
+1768,ROM/0998/Metal Max (J) [!].nes,Metal Max (J) [!].nes,nes,524304
+1769,ROM/0999/Nantettatte!! Baseball - '91 Kaimaku Hen (J).nes,Nantettatte!! Baseball - '91 Kaimaku Hen (J).nes,nes,278544
+1770,ROM/1000/Egypt (J) [!].nes,Egypt (J) [!].nes,nes,65552
+1771,ROM/1001/Ninja Gaiden III (U) [!].nes,Ninja Gaiden III (U) [!].nes,nes,262160
+1772,ROM/1001/Ninja Ryuukenden III (J) [!].nes,Ninja Ryuukenden III (J) [!].nes,nes,262160
+1773,ROM/1002/Fighting Simulator (U) (Proto).nes,Fighting Simulator (U) (Proto).nes,nes,262160
+1774,ROM/1002/Hiryuu no Ken Special (J) [!].nes,Hiryuu no Ken Special (J) [!].nes,nes,262160
+1775,ROM/1003/Bomberman II (J) [!].nes,Bomberman II (J) [!].nes,nes,131088
+1776,ROM/1003/Bomberman II (U) [!].nes,Bomberman II (U) [!].nes,nes,131088
+1777,ROM/1003/Dynablaster (E) [!].nes,Dynablaster (E) [!].nes,nes,131088
+1778,ROM/1004/Sugoro Quest (J) [!].nes,Sugoro Quest (J) [!].nes,nes,262160
+1779,ROM/1005/Warwolf (J) [!].nes,Warwolf (J) [!].nes,nes,262160
+1780,ROM/1005/Werewolf (E) [!].nes,Werewolf (E) [!].nes,nes,262160
+1781,ROM/1005/Werewolf (U) [!].nes,Werewolf (U) [!].nes,nes,262160
+1782,ROM/1006/Yakuman Tengoku (J) [!].nes,Yakuman Tengoku (J) [!].nes,nes,393232
+1783,ROM/1007/Tsuppari Wars (J) [!].nes,Tsuppari Wars (J) [!].nes,nes,262160
+1784,ROM/1008/Advanced Dungeons & Dragons - Pool of Radiance (J) [!].nes,Advanced Dungeons & Dragons - Pool of Radiance (J) [!].nes,nes,655376
+1785,ROM/1008/Advanced Dungeons & Dragons - Pool of Radiance (U) [!].nes,Advanced Dungeons & Dragons - Pool of Radiance (U) [!].nes,nes,655376
+1786,ROM/1009/Igo Shinan '91 (J) [!].nes,Igo Shinan '91 (J) [!].nes,nes,163856
+1787,ROM/1010/Baseball Fighter (J).nes,Baseball Fighter (J).nes,nes,393232
+1788,ROM/1011/Puzznic (E) [!].nes,Puzznic (E) [!].nes,nes,65552
+1789,ROM/1011/Puzznic (J).nes,Puzznic (J).nes,nes,65552
+1790,ROM/1011/Puzznic (U) [!].nes,Puzznic (U) [!].nes,nes,65552
+1791,ROM/1012/Little Mermaid (J) [!].nes,Little Mermaid (J) [!].nes,nes,131088
+1792,ROM/1012/The Little Mermaid (U) [!].nes,The Little Mermaid (U) [!].nes,nes,131088
+1793,ROM/1013/Pachinko Daisakusen 1 (J) [!].nes,Pachinko Daisakusen 1 (J) [!].nes,nes,262160
+1794,ROM/1014/Kyatto Ninden Teyandee (J) [!].nes,Kyatto Ninden Teyandee (J) [!].nes,nes,262160
+1795,ROM/1015/Die Hard (E) [!].nes,Die Hard (E) [!].nes,nes,262160
+1796,ROM/1015/Die Hard (J).nes,Die Hard (J).nes,nes,262160
+1797,ROM/1015/Die Hard (U) [!].nes,Die Hard (U) [!].nes,nes,262160
+1798,ROM/1016/JuJu Densetsu (J) [!].nes,JuJu Densetsu (J) [!].nes,nes,393232
+1799,ROM/1016/Toki (U) [!].nes,Toki (U) [!].nes,nes,393232
+1800,ROM/1017/Family Circuit '91 (J) [!].nes,Family Circuit '91 (J) [!].nes,nes,655376
+1801,ROM/1018/Time Twist (J).fds,Time Twist (J).fds,fds,262016
+1802,ROM/1019/Time Twist (J).fds,Time Twist (J).fds,fds,262016
+1803,ROM/1020/Downtown Special (J) [!].nes,Downtown Special (J) [!].nes,nes,262160
+1804,ROM/1021/Otaku no Seiza (J) [!].nes,Otaku no Seiza (J) [!].nes,nes,393232
+1805,ROM/1022/SD Keiji - Blader (J) [!].nes,SD Keiji - Blader (J) [!].nes,nes,262160
+1806,ROM/1023/Robocco Wars (J).nes,Robocco Wars (J).nes,nes,393232
+1807,ROM/1024/Super Sprint (J) [!].nes,Super Sprint (J) [!].nes,nes,131088
+1808,ROM/1024/Super Sprint (U) [!].nes,Super Sprint (U) [!].nes,nes,131088
+1809,ROM/1025/My Life My Love (J) [!].nes,My Life My Love (J) [!].nes,nes,524304
+1810,ROM/1026/Deblock (J) [!].nes,Deblock (J) [!].nes,nes,65552
+1811,ROM/1027/Crazy Land (U) (Proto).nes,Crazy Land (U) (Proto).nes,nes,262160
+1812,ROM/1027/Doki! Doki! Yuuenchi (J) [!].nes,Doki! Doki! Yuuenchi (J) [!].nes,nes,262160
+1813,ROM/1027/The Trolls in Crazyland (E).nes,The Trolls in Crazyland (E).nes,nes,262160
+1814,ROM/1028/Hyaku no Sekai no Monogatari (J).nes,Hyaku no Sekai no Monogatari (J).nes,nes,262160
+1815,ROM/1029/Dragon Wars (J) [!].nes,Dragon Wars (J) [!].nes,nes,393232
+1816,ROM/1029/Dragon Wars (U) (Proto).nes,Dragon Wars (U) (Proto).nes,nes,393232
+1817,ROM/1030/Armadillo (J) [!].nes,Armadillo (J) [!].nes,nes,393232
+1818,ROM/1031/Dragon Ball Z II (J) (PRG0) [!].nes,Dragon Ball Z II (J) (PRG0) [!].nes,nes,524304
+1819,ROM/1031/Dragon Ball Z II (J) (PRG1) [!].nes,Dragon Ball Z II (J) (PRG1) [!].nes,nes,524304
+1820,ROM/1032/A Ressha de Ikou (J).nes,A Ressha de Ikou (J).nes,nes,147472
+1821,ROM/1033/Crisis Force (J) [!].nes,Crisis Force (J) [!].nes,nes,262160
+1822,ROM/1034/Kaiketsu Yanchamaru 2 (J) [!].nes,Kaiketsu Yanchamaru 2 (J) [!].nes,nes,262160
+1823,ROM/1035/Kaiketsu Yanchamaru 2 (J) [!].nes,Kaiketsu Yanchamaru 2 (J) [!].nes,nes,262160
+1824,ROM/1036/Metal Slader Glory (J) [!].nes,Metal Slader Glory (J) [!].nes,nes,1048592
+1825,ROM/1037/Cowboy Kid (U) [!].nes,Cowboy Kid (U) [!].nes,nes,524304
+1826,ROM/1037/Western Kids (J) [!].nes,Western Kids (J) [!].nes,nes,524304
+1827,ROM/1038/Dezaemon (J) [!].nes,Dezaemon (J) [!].nes,nes,131088
+1828,ROM/1039/Dragon's Lair (E) [!].nes,Dragon's Lair (E) [!].nes,nes,262160
+1829,ROM/1039/Dragon's Lair (J).nes,Dragon's Lair (J).nes,nes,262160
+1830,ROM/1039/Dragon's Lair (U) [!].nes,Dragon's Lair (U) [!].nes,nes,131088
+1831,ROM/1040/Mario Open Golf (J) (PRG0) [!].nes,Mario Open Golf (J) (PRG0) [!].nes,nes,262160
+1832,ROM/1040/Mario Open Golf (J) (PRG1) [!].nes,Mario Open Golf (J) (PRG1) [!].nes,nes,262160
+1833,ROM/1040/NES Open Tournament Golf (E) [!].nes,NES Open Tournament Golf (E) [!].nes,nes,262160
+1834,ROM/1040/NES Open Tournament Golf (U) [!].nes,NES Open Tournament Golf (U) [!].nes,nes,262160
+1835,ROM/1041/Hebereke (J) [!].nes,Hebereke (J) [!].nes,nes,262160
+1836,ROM/1041/Ufouria (E) [!].nes,Ufouria (E) [!].nes,nes,262160
+1837,ROM/1042/Spartan X 2 (J) [!].nes,Spartan X 2 (J) [!].nes,nes,262160
+1838,ROM/1043/Nakajima Satoru - F-1 Hero 2 (J).nes,Nakajima Satoru - F-1 Hero 2 (J).nes,nes,262160
+1839,ROM/1044/Battle Formula (J) [!].nes,Battle Formula (J) [!].nes,nes,262160
+1840,ROM/1044/Super Spy Hunter (E) [!].nes,Super Spy Hunter (E) [!].nes,nes,262160
+1841,ROM/1044/Super Spy Hunter (U) [!].nes,Super Spy Hunter (U) [!].nes,nes,262160
+1842,ROM/1045/Ys III (J) [!].nes,Ys III (J) [!].nes,nes,393232
+1843,ROM/1046/Chibi Maruko-chan - Uki Uki Shopping (J) [!].nes,Chibi Maruko-chan - Uki Uki Shopping (J) [!].nes,nes,262160
+1844,ROM/1047/Karakuri Kengouden (J) [!].nes,Karakuri Kengouden (J) [!].nes,nes,262160
+1845,ROM/1048/SD Gundam Gaiden - Knight Gundam Monogatari 2 (J) [!].nes,SD Gundam Gaiden - Knight Gundam Monogatari 2 (J) [!].nes,nes,524304
+1846,ROM/1049/Famimaga Disk Vol. 5 - Puyo Puyo (J).fds,Famimaga Disk Vol. 5 - Puyo Puyo (J).fds,fds,131016
+1847,ROM/1049/Puyo Puyo (J).nes,Puyo Puyo (J).nes,nes,131088
+1848,ROM/1050/Time Zone (J) [!].nes,Time Zone (J) [!].nes,nes,262160
+1849,ROM/1051/Great Deal (J).nes,Great Deal (J).nes,nes,131088
+1850,ROM/1052/Chaos World (J).nes,Chaos World (J).nes,nes,393232
+1851,ROM/1053/Shatterhand (E) [!].nes,Shatterhand (E) [!].nes,nes,262160
+1852,ROM/1053/Shatterhand (U) [!].nes,Shatterhand (U) [!].nes,nes,262160
+1853,ROM/1053/Tokkyuu Shirei - Solbrain (J).nes,Tokkyuu Shirei - Solbrain (J).nes,nes,262160
+1854,ROM/1054/Monopoly (F) [!].nes,Monopoly (F) [!].nes,nes,262160
+1855,ROM/1054/Monopoly (G) [!].nes,Monopoly (G) [!].nes,nes,262160
+1856,ROM/1054/Monopoly (J).nes,Monopoly (J).nes,nes,262160
+1857,ROM/1054/Monopoly (U) [!].nes,Monopoly (U) [!].nes,nes,262160
+1858,ROM/1055/Chitei Senkuu Vazolder (J).nes,Chitei Senkuu Vazolder (J).nes,nes,262160
+1859,ROM/1055/WURM (U) [!].nes,WURM (U) [!].nes,nes,262160
+1860,ROM/1056/Daiku no Gen-san (J) [!].nes,Daiku no Gen-san (J) [!].nes,nes,262160
+1861,ROM/1056/Hammerin' Harry (E) [!].nes,Hammerin' Harry (E) [!].nes,nes,262160
+1862,ROM/1057/Star Wars (E) [!].nes,Star Wars (E) [!].nes,nes,262160
+1863,ROM/1057/Star Wars (J) (Victor).nes,Star Wars (J) (Victor).nes,nes,262160
+1864,ROM/1057/Star Wars (U) [!].nes,Star Wars (U) [!].nes,nes,262160
+1865,ROM/1058/Radia Senki - Reimei Hen (J) [!].nes,Radia Senki - Reimei Hen (J) [!].nes,nes,393232
+1866,ROM/1058/The Tower of Radia (U) (Proto).nes,The Tower of Radia (U) (Proto).nes,nes,393232
+1867,ROM/1059/Shounen Ashibe (J) [!].nes,Shounen Ashibe (J) [!].nes,nes,262160
+1868,ROM/1060/Minna no Taabou no Nakayoshi Daisakusen (J) (PRG0) [!].nes,Minna no Taabou no Nakayoshi Daisakusen (J) (PRG0) [!].nes,nes,65552
+1869,ROM/1060/Minna no Taabou no Nakayoshi Daisakusen (J) (PRG1).nes,Minna no Taabou no Nakayoshi Daisakusen (J) (PRG1).nes,nes,65552
+1870,ROM/1061/Bases Loaded 4 (U) [!].nes,Bases Loaded 4 (U) [!].nes,nes,393232
+1871,ROM/1061/Moe Pro! - Saikyou Hen (J) [!].nes,Moe Pro! - Saikyou Hen (J) [!].nes,nes,393232
+1872,ROM/1062/Pachio-kun 4 (J) [!].nes,Pachio-kun 4 (J) [!].nes,nes,524304
+1873,ROM/1063/Rampart (J) [!].nes,Rampart (J) [!].nes,nes,131088
+1874,ROM/1064/Famicom Igo Nyuumon (J).nes,Famicom Igo Nyuumon (J).nes,nes,163856
+1875,ROM/1065/America Oudan Ultra Quiz (J) (PRG0) [!].nes,America Oudan Ultra Quiz (J) (PRG0) [!].nes,nes,524304
+1876,ROM/1065/America Oudan Ultra Quiz (J) (PRG1).nes,America Oudan Ultra Quiz (J) (PRG1).nes,nes,524304
+1877,ROM/1066/Famicom Jump II (J) [!].nes,Famicom Jump II (J) [!].nes,nes,524304
+1878,ROM/1067/Heisei Tensai Bakabon (J) [!].nes,Heisei Tensai Bakabon (J) [!].nes,nes,262160
+1879,ROM/1068/Snow Bros. (E) [!].nes,Snow Bros. (E) [!].nes,nes,262160
+1880,ROM/1068/Snow Bros. (J).nes,Snow Bros. (J).nes,nes,262160
+1881,ROM/1068/Snow Bros. (U) [!].nes,Snow Bros. (U) [!].nes,nes,262160
+1882,ROM/1069/Megaman IV (E) [!].nes,Megaman IV (E) [!].nes,nes,524304
+1883,ROM/1069/Megaman IV (U) (PRG0) [!].nes,Megaman IV (U) (PRG0) [!].nes,nes,524304
+1884,ROM/1069/Megaman IV (U) (PRG1) [!].nes,Megaman IV (U) (PRG1) [!].nes,nes,524304
+1885,ROM/1069/Megaman IV (W) (MMLC).nes,Megaman IV (W) (MMLC).nes,nes,524304
+1886,ROM/1069/Rockman 4 - Aratanaru Yabou!! (J) (PRG0) [!].nes,Rockman 4 - Aratanaru Yabou!! (J) (PRG0) [!].nes,nes,524304
+1887,ROM/1069/Rockman 4 - Aratanaru Yabou!! (J) (PRG1).nes,Rockman 4 - Aratanaru Yabou!! (J) (PRG1).nes,nes,524304
+1888,ROM/1070/Tsuru Pika Hagemaru (J) [!].nes,Tsuru Pika Hagemaru (J) [!].nes,nes,262160
+1889,ROM/1071/Tetris 2 + BomBliss (J) (PRG0) [!].nes,Tetris 2 + BomBliss (J) (PRG0) [!].nes,nes,131088
+1890,ROM/1071/Tetris 2 + BomBliss (J) (PRG1).nes,Tetris 2 + BomBliss (J) (PRG1).nes,nes,131088
+1891,ROM/1072/Toukyou Pachi-Slot Adventure (J) (PRG0).nes,Toukyou Pachi-Slot Adventure (J) (PRG0).nes,nes,262160
+1892,ROM/1072/Toukyou Pachi-Slot Adventure (J) (PRG1) [!].nes,Toukyou Pachi-Slot Adventure (J) (PRG1) [!].nes,nes,262160
+1893,ROM/1073/Teenage Mutant Ninja Turtles 2 (J) [!].nes,Teenage Mutant Ninja Turtles 2 (J) [!].nes,nes,524304
+1894,ROM/1073/Teenage Mutant Ninja Turtles III (U) [!].nes,Teenage Mutant Ninja Turtles III (U) [!].nes,nes,524304
+1895,ROM/1074/Tecmo Super Bowl (J) [!].nes,Tecmo Super Bowl (J) [!].nes,nes,393232
+1896,ROM/1074/Tecmo Super Bowl (U) [!].nes,Tecmo Super Bowl (U) [!].nes,nes,393232
+1897,ROM/1075/Shijou Saikyou no Quiz Ou Ketteisen (J) [!].nes,Shijou Saikyou no Quiz Ou Ketteisen (J) [!].nes,nes,131088
+1898,ROM/1076/Mario & Yoshi (E) [!].nes,Mario & Yoshi (E) [!].nes,nes,163856
+1899,ROM/1076/Yoshi (U) [!].nes,Yoshi (U) [!].nes,nes,163856
+1900,ROM/1076/Yoshi no Tamago (J) [!].nes,Yoshi no Tamago (J) [!].nes,nes,163856
+1901,ROM/1077/Dai-2-Ji Super Robot Taisen (J) [!].nes,Dai-2-Ji Super Robot Taisen (J) [!].nes,nes,524304
+1902,ROM/1078/Tiny Toon Adventures (E) [!].nes,Tiny Toon Adventures (E) [!].nes,nes,262160
+1903,ROM/1078/Tiny Toon Adventures (J) [!].nes,Tiny Toon Adventures (J) [!].nes,nes,262160
+1904,ROM/1078/Tiny Toon Adventures (U) [!].nes,Tiny Toon Adventures (U) [!].nes,nes,262160
+1905,ROM/1079/Famista '92 (J) [!].nes,Famista '92 (J) [!].nes,nes,262160
+1906,ROM/1080/Paaman Part 2 (J) [!].nes,Paaman Part 2 (J) [!].nes,nes,393232
+1907,ROM/1081/Banana Prince (G) [!].nes,Banana Prince (G) [!].nes,nes,262160
+1908,ROM/1081/Bananan Ouji no Daibouken (J) [!].nes,Bananan Ouji no Daibouken (J) [!].nes,nes,262160
+1909,ROM/1082/Asmik-kun Land (J) [!].nes,Asmik-kun Land (J) [!].nes,nes,262160
+1910,ROM/1083/Bakushou!! Jinsei Gekijou 3 (J) [!].nes,Bakushou!! Jinsei Gekijou 3 (J) [!].nes,nes,524304
+1911,ROM/1084/Batman - Return of the Joker (E) [!].nes,Batman - Return of the Joker (E) [!].nes,nes,393232
+1912,ROM/1084/Batman - Return of the Joker (U) [!].nes,Batman - Return of the Joker (U) [!].nes,nes,393232
+1913,ROM/1084/Dynamite Batman (J) [!].nes,Dynamite Batman (J) [!].nes,nes,393232
+1914,ROM/1085/Battletoads (E) [!].nes,Battletoads (E) [!].nes,nes,262160
+1915,ROM/1085/Battletoads (J) [!].nes,Battletoads (J) [!].nes,nes,262160
+1916,ROM/1085/Battletoads (U) [!].nes,Battletoads (U) [!].nes,nes,262160
+1917,ROM/1086/The Untouchables (E) [!].nes,The Untouchables (E) [!].nes,nes,262160
+1918,ROM/1086/The Untouchables (J) (PRG0) [!].nes,The Untouchables (J) (PRG0) [!].nes,nes,262160
+1919,ROM/1086/The Untouchables (J) (PRG1).nes,The Untouchables (J) (PRG1).nes,nes,262160
+1920,ROM/1086/The Untouchables (U) (PRG0) [!].nes,The Untouchables (U) (PRG0) [!].nes,nes,262160
+1921,ROM/1086/The Untouchables (U) (PRG1) [!].nes,The Untouchables (U) (PRG1) [!].nes,nes,262160
+1922,ROM/1086/The Untouchables (U) (PRG2) [!].nes,The Untouchables (U) (PRG2) [!].nes,nes,262160
+1923,ROM/1087/Monster Maker (J) [!].nes,Monster Maker (J) [!].nes,nes,262160
+1924,ROM/1088/Battle Storm (J) [!].nes,Battle Storm (J) [!].nes,nes,262160
+1925,ROM/1089/Choujin Sentai - Jetman (J).nes,Choujin Sentai - Jetman (J).nes,nes,262160
+1926,ROM/1090/Best Keiba - Derby Stallion (J) (PRG0).nes,Best Keiba - Derby Stallion (J) (PRG0).nes,nes,262160
+1927,ROM/1090/Best Keiba - Derby Stallion (J) (PRG1) [!].nes,Best Keiba - Derby Stallion (J) (PRG1) [!].nes,nes,262160
+1928,ROM/1091/SD Gundam - Gachapon Senshi 4 (J) [!].nes,SD Gundam - Gachapon Senshi 4 (J) [!].nes,nes,524304
+1929,ROM/1092/Nobunaga no Yabou - Bushou Fuuunroku (J) (PRG0) [!].nes,Nobunaga no Yabou - Bushou Fuuunroku (J) (PRG0) [!].nes,nes,786448
+1930,ROM/1092/Nobunaga no Yabou - Bushou Fuuunroku (J) (PRG1).nes,Nobunaga no Yabou - Bushou Fuuunroku (J) (PRG1).nes,nes,786448
+1931,ROM/1093/Chiki Chiki Machine Mou Race (J) [!].nes,Chiki Chiki Machine Mou Race (J) [!].nes,nes,262160
+1932,ROM/1093/Wacky Races (U) [!].nes,Wacky Races (U) [!].nes,nes,262160
+1933,ROM/1094/Hudson Hawk (E) [!].nes,Hudson Hawk (E) [!].nes,nes,262160
+1934,ROM/1094/Hudson Hawk (J).nes,Hudson Hawk (J).nes,nes,262160
+1935,ROM/1094/Hudson Hawk (U) [!].nes,Hudson Hawk (U) [!].nes,nes,262160
+1936,ROM/1095/The Blue Marlin (J).nes,The Blue Marlin (J).nes,nes,262160
+1937,ROM/1095/The Blue Marlin (U) [!].nes,The Blue Marlin (U) [!].nes,nes,262160
+1938,ROM/1096/Ultraman Club 3 (J) [!].nes,Ultraman Club 3 (J) [!].nes,nes,393232
+1939,ROM/1097/Ganbare Goemon Gaiden 2 (J) [!].nes,Ganbare Goemon Gaiden 2 (J) [!].nes,nes,524304
+1940,ROM/1098/Pizza Pop! (J) [!].nes,Pizza Pop! (J) [!].nes,nes,262160
+1941,ROM/1099/Taiyou no Yuusha (J) [!].nes,Taiyou no Yuusha (J) [!].nes,nes,262160
+1942,ROM/1100/Fire 'n Ice (U) [!].nes,Fire 'n Ice (U) [!].nes,nes,262160
+1943,ROM/1100/Solomon no Kagi 2 (J) [!].nes,Solomon no Kagi 2 (J) [!].nes,nes,262160
+1944,ROM/1100/Solomon's Key 2 (E) [!].nes,Solomon's Key 2 (E) [!].nes,nes,262160
+1945,ROM/1101/Business Wars (J).nes,Business Wars (J).nes,nes,262160
+1946,ROM/1102/The Bard's Tale II (J) [!].nes,The Bard's Tale II (J) [!].nes,nes,262160
+1947,ROM/1103/Shougi Meikan '92 (J) [!].nes,Shougi Meikan '92 (J) [!].nes,nes,262160
+1948,ROM/1104/Bucky O'Hare (E) [!].nes,Bucky O'Hare (E) [!].nes,nes,262160
+1949,ROM/1104/Bucky O'Hare (J) [!].nes,Bucky O'Hare (J) [!].nes,nes,262160
+1950,ROM/1104/Bucky O'Hare (U) [!].nes,Bucky O'Hare (U) [!].nes,nes,262160
+1951,ROM/1105/Don Doko Don 2 (J) [!].nes,Don Doko Don 2 (J) [!].nes,nes,393232
+1952,ROM/1106/Gimmick! (J) [!].nes,Gimmick! (J) [!].nes,nes,393232
+1953,ROM/1106/Mr. Gimmick (E) [!].nes,Mr. Gimmick (E) [!].nes,nes,393232
+1954,ROM/1106/Mr. Gimmick (U) (Evercade).nes,Mr. Gimmick (U) (Evercade).nes,nes,393232
+1955,ROM/1106/Mr. Gimmick (U) (Proto).nes,Mr. Gimmick (U) (Proto).nes,nes,393232
+1956,ROM/1107/Ike Ike! Nekketsu Hockey-bu (J) [!].nes,Ike Ike! Nekketsu Hockey-bu (J) [!].nes,nes,262160
+1957,ROM/1108/F1 Circus (J) [!].nes,F1 Circus (J) [!].nes,nes,393232
+1958,ROM/1109/Navy Blue (J) [!].nes,Navy Blue (J) [!].nes,nes,131088
+1959,ROM/1110/Advanced Dungeons & Dragons - Dragons of Flame (J) [!].nes,Advanced Dungeons & Dragons - Dragons of Flame (J) [!].nes,nes,262160
+1960,ROM/1111/Puzslot (J) [!].nes,Puzslot (J) [!].nes,nes,262160
+1961,ROM/1112/Utsurun Desu (J).nes,Utsurun Desu (J).nes,nes,262160
+1962,ROM/1113/The Magic Candle (J).nes,The Magic Candle (J).nes,nes,393232
+1963,ROM/1114/Igo Shinan '92 (J).nes,Igo Shinan '92 (J).nes,nes,163856
+1964,ROM/1115/Namco Classic II (J) [!].nes,Namco Classic II (J) [!].nes,nes,524304
+1965,ROM/1116/Fire Emblem Gaiden (J) [!].nes,Fire Emblem Gaiden (J) [!].nes,nes,393232
+1966,ROM/1117/Kyuukyoku Harikiri Koushien (J) [!].nes,Kyuukyoku Harikiri Koushien (J) [!].nes,nes,393232
+1967,ROM/1118/Super Momotarou Dentetsu (J) [!].nes,Super Momotarou Dentetsu (J) [!].nes,nes,262160
+1968,ROM/1119/Soreike! Anpanman - Minna de Hiking Game! (J) [!].nes,Soreike! Anpanman - Minna de Hiking Game! (J) [!].nes,nes,262160
+1969,ROM/1120/Hello Kitty World (J).nes,Hello Kitty World (J).nes,nes,131088
+1970,ROM/1121/WWF WrestleMania Challenge (E) [!].nes,WWF WrestleMania Challenge (E) [!].nes,nes,131088
+1971,ROM/1121/WWF WrestleMania Challenge (J) [!].nes,WWF WrestleMania Challenge (J) [!].nes,nes,131088
+1972,ROM/1121/WWF WrestleMania Challenge (U) [!].nes,WWF WrestleMania Challenge (U) [!].nes,nes,131088
+1973,ROM/1122/Hook (E) [!].nes,Hook (E) [!].nes,nes,262160
+1974,ROM/1122/Hook (J).nes,Hook (J).nes,nes,262160
+1975,ROM/1122/Hook (U) [!].nes,Hook (U) [!].nes,nes,262160
+1976,ROM/1123/Plasma Ball (J) [!].nes,Plasma Ball (J) [!].nes,nes,262160
+1977,ROM/1124/Dodge Danpei (J) [!].nes,Dodge Danpei (J) [!].nes,nes,393232
+1978,ROM/1125/Hirake! Ponkikki (J) [!].nes,Hirake! Ponkikki (J) [!].nes,nes,65552
+1979,ROM/1126/Masuzoe Youichi (J).nes,Masuzoe Youichi (J).nes,nes,524304
+1980,ROM/1127/Championship Rally (E) [!].nes,Championship Rally (E) [!].nes,nes,262160
+1981,ROM/1127/Exciting Rally (J).nes,Exciting Rally (J).nes,nes,262160
+1982,ROM/1128/Panic Restaurant (E) [!].nes,Panic Restaurant (E) [!].nes,nes,262160
+1983,ROM/1128/Panic Restaurant (U) [!].nes,Panic Restaurant (U) [!].nes,nes,262160
+1984,ROM/1128/Wanpaku Kokkun no Gourmet World (J) [!].nes,Wanpaku Kokkun no Gourmet World (J) [!].nes,nes,262160
+1985,ROM/1129/Metal Storm (J) [!].nes,Metal Storm (J) [!].nes,nes,393232
+1986,ROM/1129/Metal Storm (U) [!].nes,Metal Storm (U) [!].nes,nes,393232
+1987,ROM/1129/Metal Storm (UE) (AM).nes,Metal Storm (UE) (AM).nes,nes,2097168
+1988,ROM/1130/Hyokkori Hyoutanjima (J) [!].nes,Hyokkori Hyoutanjima (J) [!].nes,nes,262160
+1989,ROM/1131/Clu Clu Land (J) [!].fds,Clu Clu Land (J) [!].fds,fds,65516
+1990,ROM/1131/Clu Clu Land (W) [!].nes,Clu Clu Land (W) [!].nes,nes,24592
+1991,ROM/1132/Mahjong Taisen (J) [!].nes,Mahjong Taisen (J) [!].nes,nes,393232
+1992,ROM/1133/Project Q (J).nes,Project Q (J).nes,nes,262160
+1993,ROM/1134/Capcom Barcelona '92 (J) [!].nes,Capcom Barcelona '92 (J) [!].nes,nes,262160
+1994,ROM/1134/Capcom's Gold Medal Challenge '92 (E) [!].nes,Capcom's Gold Medal Challenge '92 (E) [!].nes,nes,262160
+1995,ROM/1134/Capcom's Gold Medal Challenge '92 (U) [!].nes,Capcom's Gold Medal Challenge '92 (U) [!].nes,nes,262160
+1996,ROM/1135/Sangokushi II - Haou no Tairiku (J) [!].nes,Sangokushi II - Haou no Tairiku (J) [!].nes,nes,524304
+1997,ROM/1136/Magical Taruruuto-kun 2 (J) [!].nes,Magical Taruruuto-kun 2 (J) [!].nes,nes,262160
+1998,ROM/1137/Terminator 2 (E) [!].nes,Terminator 2 (E) [!].nes,nes,262160
+1999,ROM/1137/Terminator 2 (J).nes,Terminator 2 (J).nes,nes,262160
+2000,ROM/1137/Terminator 2 (U) [!].nes,Terminator 2 (U) [!].nes,nes,262160
+2001,ROM/1138/Bikkuri Nekketsu Shin Kiroku! (J) [!].nes,Bikkuri Nekketsu Shin Kiroku! (J) [!].nes,nes,262160
+2002,ROM/1138/Crash 'n the Boys - Street Challenge (U) (Evercade).nes,Crash 'n the Boys - Street Challenge (U) (Evercade).nes,nes,262160
+2003,ROM/1138/Crash 'n the Boys - Street Challenge (U) [!].nes,Crash 'n the Boys - Street Challenge (U) [!].nes,nes,262160
+2004,ROM/1139/Esper Dream 2 (J) [!].nes,Esper Dream 2 (J) [!].nes,nes,393232
+2005,ROM/1140/Little Samson (E) [!].nes,Little Samson (E) [!].nes,nes,393232
+2006,ROM/1140/Little Samson (U) [!].nes,Little Samson (U) [!].nes,nes,393232
+2007,ROM/1140/Seirei Densetsu Lickle (J) [!].nes,Seirei Densetsu Lickle (J) [!].nes,nes,393232
+2008,ROM/1141/Inbou no Wakusei - Shancara (J) [!].nes,Inbou no Wakusei - Shancara (J) [!].nes,nes,262160
+2009,ROM/1142/The Golf '92 (J) [!].nes,The Golf '92 (J) [!].nes,nes,262160
+2010,ROM/1143/Pachinko Daisakusen 2 (J) [!].nes,Pachinko Daisakusen 2 (J) [!].nes,nes,262160
+2011,ROM/1144/Sanrio Cup - Pon Pon Volley (J) [!].nes,Sanrio Cup - Pon Pon Volley (J) [!].nes,nes,65552
+2012,ROM/1145/Recca (J) [!].nes,Recca (J) [!].nes,nes,262160
+2013,ROM/1146/Gargoyle's Quest II (E) [!].nes,Gargoyle's Quest II (E) [!].nes,nes,262160
+2014,ROM/1146/Gargoyle's Quest II (U) [!].nes,Gargoyle's Quest II (U) [!].nes,nes,262160
+2015,ROM/1146/Red Arremar II (J) [!].nes,Red Arremar II (J) [!].nes,nes,262160
+2016,ROM/1147/Mitsume ga Tooru (J) [!].nes,Mitsume ga Tooru (J) [!].nes,nes,262160
+2017,ROM/1148/Toukon Club (J) [!].nes,Toukon Club (J) [!].nes,nes,393232
+2018,ROM/1149/Silva Saga (J).nes,Silva Saga (J).nes,nes,524304
+2019,ROM/1150/Mahou no Princess Minky Momo (J) [!].nes,Mahou no Princess Minky Momo (J) [!].nes,nes,262160
+2020,ROM/1151/Adventure Island III (E) (Proto).nes,Adventure Island III (E) (Proto).nes,nes,262160
+2021,ROM/1151/Adventure Island III (U) [!].nes,Adventure Island III (U) [!].nes,nes,262160
+2022,ROM/1151/Takahashi Meijin no Boukenjima III (J) [!].nes,Takahashi Meijin no Boukenjima III (J) [!].nes,nes,262160
+2023,ROM/1152/The Flintstones - The Rescue of Dino & Hoppy (E) [!].nes,The Flintstones - The Rescue of Dino & Hoppy (E) [!].nes,nes,393232
+2024,ROM/1152/The Flintstones - The Rescue of Dino & Hoppy (J).nes,The Flintstones - The Rescue of Dino & Hoppy (J).nes,nes,393232
+2025,ROM/1152/The Flintstones - The Rescue of Dino & Hoppy (U) [!].nes,The Flintstones - The Rescue of Dino & Hoppy (U) [!].nes,nes,393232
+2026,ROM/1153/Aces - Iron Eagle III (J) [!].nes,Aces - Iron Eagle III (J) [!].nes,nes,524304
+2027,ROM/1153/Ultimate Air Combat (E) [!].nes,Ultimate Air Combat (E) [!].nes,nes,524304
+2028,ROM/1153/Ultimate Air Combat (U) [!].nes,Ultimate Air Combat (U) [!].nes,nes,524304
+2029,ROM/1154/Dragon Ball Z III (J) [!].nes,Dragon Ball Z III (J) [!].nes,nes,524304
+2030,ROM/1155/Shijou Saikyou no Quiz Ou Ketteisen 2 (J) [!].nes,Shijou Saikyou no Quiz Ou Ketteisen 2 (J) [!].nes,nes,262160
+2031,ROM/1156/Moon Crystal (J) [!].nes,Moon Crystal (J) [!].nes,nes,524304
+2032,ROM/1157/Derby Stallion - Zenkoku Ban (J) [!].nes,Derby Stallion - Zenkoku Ban (J) [!].nes,nes,262160
+2033,ROM/1158/Super Mario Bros. 2 (E) [!].nes,Super Mario Bros. 2 (E) [!].nes,nes,262160
+2034,ROM/1158/Super Mario Bros. 2 (U) (PRG0) [!].nes,Super Mario Bros. 2 (U) (PRG0) [!].nes,nes,262160
+2035,ROM/1158/Super Mario Bros. 2 (U) (PRG1) [!].nes,Super Mario Bros. 2 (U) (PRG1) [!].nes,nes,262160
+2036,ROM/1158/Super Mario USA (J) [!].nes,Super Mario USA (J) [!].nes,nes,262160
+2037,"ROM/1159/1999 - Hore, Mitakotoka! Seikimatsu (J).nes","1999 - Hore, Mitakotoka! Seikimatsu (J).nes",nes,393232
+2038,ROM/1160/Dream Master (J) [!].nes,Dream Master (J) [!].nes,nes,524304
+2039,ROM/1161/Goal! 2 (E) [!].nes,Goal! 2 (E) [!].nes,nes,262160
+2040,ROM/1161/Goal! Two (U) [!].nes,Goal! Two (U) [!].nes,nes,262160
+2041,ROM/1161/Goal!! (J) [!].nes,Goal!! (J) [!].nes,nes,262160
+2042,ROM/1162/Captain Saver (J).nes,Captain Saver (J).nes,nes,262160
+2043,ROM/1162/Power Blade II (U) [!].nes,Power Blade II (U) [!].nes,nes,262160
+2044,ROM/1163/Kid Klown in Night Mayor World (U) [!].nes,Kid Klown in Night Mayor World (U) [!].nes,nes,262160
+2045,ROM/1163/Mickey Mouse III (J) [!].nes,Mickey Mouse III (J) [!].nes,nes,262160
+2046,ROM/1164/Shuffle Fight (J) [!].nes,Shuffle Fight (J) [!].nes,nes,262160
+2047,ROM/1165/Spot (J).nes,Spot (J).nes,nes,131088
+2048,ROM/1165/Spot (U) [!].nes,Spot (U) [!].nes,nes,131088
+2049,ROM/1166/Best Play Pro Yakyuu Special (J) (PRG0).nes,Best Play Pro Yakyuu Special (J) (PRG0).nes,nes,262160
+2050,ROM/1166/Best Play Pro Yakyuu Special (J) (PRG1) [!].nes,Best Play Pro Yakyuu Special (J) (PRG1) [!].nes,nes,262160
+2051,ROM/1167/Top Striker (J) [!].nes,Top Striker (J) [!].nes,nes,262160
+2052,ROM/1168/SD Gundam Gaiden - Knight Gundam Monogatari 3 (J) [!].nes,SD Gundam Gaiden - Knight Gundam Monogatari 3 (J) [!].nes,nes,524304
+2053,ROM/1169/Double Moon Densetsu (J) [!].nes,Double Moon Densetsu (J) [!].nes,nes,524304
+2054,ROM/1170/Kyouryuu Sentai Zyuranger (J).nes,Kyouryuu Sentai Zyuranger (J).nes,nes,262160
+2055,ROM/1171/Tom & Jerry (E) [!].nes,Tom & Jerry (E) [!].nes,nes,262160
+2056,ROM/1171/Tom & Jerry (J).nes,Tom & Jerry (J).nes,nes,262160
+2057,ROM/1171/Tom & Jerry (U) [!].nes,Tom & Jerry (U) [!].nes,nes,262160
+2058,ROM/1172/Ferrari Grand Prix Challenge (E) [!].nes,Ferrari Grand Prix Challenge (E) [!].nes,nes,262160
+2059,ROM/1172/Ferrari Grand Prix Challenge (J) [!].nes,Ferrari Grand Prix Challenge (J) [!].nes,nes,262160
+2060,ROM/1172/Ferrari Grand Prix Challenge (U) [!].nes,Ferrari Grand Prix Challenge (U) [!].nes,nes,262160
+2061,ROM/1173/Columbus - Ougon no Yoake (J) [!].nes,Columbus - Ougon no Yoake (J) [!].nes,nes,262160
+2062,ROM/1174/Yoshi no Cookie (J) [!].nes,Yoshi no Cookie (J) [!].nes,nes,196624
+2063,ROM/1174/Yoshi's Cookie (E) [!].nes,Yoshi's Cookie (E) [!].nes,nes,196624
+2064,ROM/1174/Yoshi's Cookie (U) [!].nes,Yoshi's Cookie (U) [!].nes,nes,196624
+2065,ROM/1175/Tiny Toon Adventures 2 (E) [!].nes,Tiny Toon Adventures 2 (E) [!].nes,nes,262160
+2066,ROM/1175/Tiny Toon Adventures 2 (J) [!].nes,Tiny Toon Adventures 2 (J) [!].nes,nes,262160
+2067,ROM/1175/Tiny Toon Adventures 2 (U) [!].nes,Tiny Toon Adventures 2 (U) [!].nes,nes,262160
+2068,ROM/1176/Igo Shinan '93 (J).nes,Igo Shinan '93 (J).nes,nes,163856
+2069,ROM/1177/Chiisana Obake - Acchi Socchi Kocchi (J).nes,Chiisana Obake - Acchi Socchi Kocchi (J).nes,nes,262160
+2070,ROM/1178/Shougi Meikan '93 (J) [!].nes,Shougi Meikan '93 (J) [!].nes,nes,262160
+2071,ROM/1179/Megaman V (E) [!].nes,Megaman V (E) [!].nes,nes,524304
+2072,ROM/1179/Megaman V (U) [!].nes,Megaman V (U) [!].nes,nes,524304
+2073,ROM/1179/Megaman V (W) (MMLC).nes,Megaman V (W) (MMLC).nes,nes,524304
+2074,ROM/1179/Rockman 5 - Blues no Wana! (J) [!].nes,Rockman 5 - Blues no Wana! (J) [!].nes,nes,524304
+2075,ROM/1180/Wagyan Land 3 (J) [!].nes,Wagyan Land 3 (J) [!].nes,nes,524304
+2076,ROM/1181/Hello Kitty no Ohanabatake (J).nes,Hello Kitty no Ohanabatake (J).nes,nes,65552
+2077,ROM/1182/Castelian (E) [!].nes,Castelian (E) [!].nes,nes,131088
+2078,ROM/1182/Castelian (U) [!].nes,Castelian (U) [!].nes,nes,131088
+2079,ROM/1182/Kyoro-chan Land (J).nes,Kyoro-chan Land (J).nes,nes,131088
+2080,ROM/1183/Rod Land (E) [!].nes,Rod Land (E) [!].nes,nes,131088
+2081,ROM/1183/Rod Land (J).nes,Rod Land (J).nes,nes,131088
+2082,ROM/1184/Just Breed (J) [!].nes,Just Breed (J) [!].nes,nes,786448
+2083,ROM/1185/Barcode World (J) [!].nes,Barcode World (J) [!].nes,nes,393232
+2084,ROM/1186/Famimaga Disk Vol. 6 - Janken Disk Jou (J).fds,Famimaga Disk Vol. 6 - Janken Disk Jou (J).fds,fds,131016
+2085,ROM/1187/Famista '93 (J) [!].nes,Famista '93 (J) [!].nes,nes,262160
+2086,ROM/1188/SD Gundam - Gachapon Senshi 5 (J) [!].nes,SD Gundam - Gachapon Senshi 5 (J) [!].nes,nes,262160
+2087,ROM/1189/Nekketsu Kakutou Densetsu (J) [!].nes,Nekketsu Kakutou Densetsu (J) [!].nes,nes,262160
+2088,ROM/1190/Ultraman Club - Kaijuu Daikessen!! (J) [!].nes,Ultraman Club - Kaijuu Daikessen!! (J) [!].nes,nes,393232
+2089,ROM/1191/Great Battle Cyber (J) [!].nes,Great Battle Cyber (J) [!].nes,nes,393232
+2090,ROM/1193/Datach - Dragon Ball Z (J).nes,Datach - Dragon Ball Z (J).nes,nes,262160
+2091,ROM/1194/Sanrio Carnival 2 (J) [!].nes,Sanrio Carnival 2 (J) [!].nes,nes,65552
+2092,ROM/1195/Wily & Light no Rockboard (J) [!].nes,Wily & Light no Rockboard (J) [!].nes,nes,262160
+2093,ROM/1196/Kamen Rider SD (J) [!].nes,Kamen Rider SD (J) [!].nes,nes,262160
+2094,ROM/1197/F-1 Sensation (J).nes,F-1 Sensation (J).nes,nes,262160
+2095,ROM/1197/Formula 1 Sensation (E) [!].nes,Formula 1 Sensation (E) [!].nes,nes,262160
+2096,ROM/1198/Akumajou Dracula (J) (PRG0) [!].fds,Akumajou Dracula (J) (PRG0) [!].fds,fds,131016
+2097,ROM/1198/Akumajou Dracula (J) (PRG1).fds,Akumajou Dracula (J) (PRG1).fds,fds,131016
+2098,ROM/1198/Akumajou Dracula (J) (PRG2) [!].fds,Akumajou Dracula (J) (PRG2) [!].fds,fds,131016
+2099,ROM/1198/Akumajou Dracula (J) [!].nes,Akumajou Dracula (J) [!].nes,nes,131088
+2100,ROM/1198/Castlevania (E) [!].nes,Castlevania (E) [!].nes,nes,131088
+2101,ROM/1198/Castlevania (U) (PRG0) [!].nes,Castlevania (U) (PRG0) [!].nes,nes,131088
+2102,ROM/1198/Castlevania (U) (PRG1) [!].nes,Castlevania (U) (PRG1) [!].nes,nes,131088
+2103,ROM/1199/Kero Kero Keroppi no Daibouken 2 (J) [!].nes,Kero Kero Keroppi no Daibouken 2 (J) [!].nes,nes,262160
+2104,ROM/1200/Battle Baseball (J) [!].nes,Battle Baseball (J) [!].nes,nes,524304
+2105,ROM/1201/Bio Miracle Bokutte Upa (J) [!].nes,Bio Miracle Bokutte Upa (J) [!].nes,nes,262160
+2106,ROM/1201/Bio Miracle Bokutte Upa (J).fds,Bio Miracle Bokutte Upa (J).fds,fds,131016
+2107,ROM/1202/Bubble Bobble 2 (J).nes,Bubble Bobble 2 (J).nes,nes,262160
+2108,ROM/1202/Bubble Bobble Part 2 (U) [!].nes,Bubble Bobble Part 2 (U) [!].nes,nes,262160
+2109,ROM/1203/Mezase! Top Pro (J) [!].nes,Mezase! Top Pro (J) [!].nes,nes,393232
+2110,ROM/1204/Pro Sport Hockey (U) [!].nes,Pro Sport Hockey (U) [!].nes,nes,262160
+2111,ROM/1204/USA Ice Hockey in FC (J) [!].nes,USA Ice Hockey in FC (J) [!].nes,nes,262160
+2112,ROM/1205/Star Wars - The Empire Strikes Back (E) [!].nes,Star Wars - The Empire Strikes Back (E) [!].nes,nes,524304
+2113,ROM/1205/Star Wars - The Empire Strikes Back (J) [!].nes,Star Wars - The Empire Strikes Back (J) [!].nes,nes,524304
+2114,ROM/1205/Star Wars - The Empire Strikes Back (U) [!].nes,Star Wars - The Empire Strikes Back (U) [!].nes,nes,524304
+2115,ROM/1205/Star Wars - The Empire Strikes Back (W) (AM).nes,Star Wars - The Empire Strikes Back (W) (AM).nes,nes,2097168
+2116,ROM/1206/Pyokotan no Daimeiro (J) [!].nes,Pyokotan no Daimeiro (J) [!].nes,nes,262160
+2117,ROM/1207/Casino Derby (J) [!].nes,Casino Derby (J) [!].nes,nes,131088
+2118,ROM/1208/Hoshi no Kirby (J) [!].nes,Hoshi no Kirby (J) [!].nes,nes,786448
+2119,ROM/1208/Kirby's Adventure (Can) [!].nes,Kirby's Adventure (Can) [!].nes,nes,786448
+2120,ROM/1208/Kirby's Adventure (E) [!].nes,Kirby's Adventure (E) [!].nes,nes,786448
+2121,ROM/1208/Kirby's Adventure (F) [!].nes,Kirby's Adventure (F) [!].nes,nes,786448
+2122,ROM/1208/Kirby's Adventure (G) [!].nes,Kirby's Adventure (G) [!].nes,nes,786448
+2123,ROM/1208/Kirby's Adventure (U) (PRG0) [!].nes,Kirby's Adventure (U) (PRG0) [!].nes,nes,786448
+2124,ROM/1208/Kirby's Adventure (U) (PRG1) [!].nes,Kirby's Adventure (U) (PRG1) [!].nes,nes,786448
+2125,ROM/1209/Aoki Ookami to Shiroki Mejika - Genchou Hishi (J) [!].nes,Aoki Ookami to Shiroki Mejika - Genchou Hishi (J) [!].nes,nes,786448
+2126,ROM/1210/Moero TwinBee (J) (PRG0).fds,Moero TwinBee (J) (PRG0).fds,fds,131016
+2127,ROM/1210/Moero TwinBee (J) (PRG1).fds,Moero TwinBee (J) (PRG1).fds,fds,131016
+2128,ROM/1210/Moero TwinBee (J).nes,Moero TwinBee (J).nes,nes,131088
+2129,ROM/1210/Stinger (U) [!].nes,Stinger (U) [!].nes,nes,131088
+2130,ROM/1211/Dodge Danpei 2 (J) [!].nes,Dodge Danpei 2 (J) [!].nes,nes,524304
+2131,ROM/1212/Ai Sensei no Oshiete - Watashi no Hoshi (J).nes,Ai Sensei no Oshiete - Watashi no Hoshi (J).nes,nes,393232
+2132,ROM/1213/Kaiketsu Yanchamaru 3 (J) [!].nes,Kaiketsu Yanchamaru 3 (J) [!].nes,nes,262160
+2133,ROM/1214/Datach - SD Gundam - Gundam Wars (J).nes,Datach - SD Gundam - Gundam Wars (J).nes,nes,262160
+2134,ROM/1215/Datach - Ultraman Club (J).nes,Datach - Ultraman Club (J).nes,nes,262160
+2135,ROM/1216/DuckTales 2 (E) [!].nes,DuckTales 2 (E) [!].nes,nes,131088
+2136,ROM/1216/DuckTales 2 (F) [!].nes,DuckTales 2 (F) [!].nes,nes,131088
+2137,ROM/1216/DuckTales 2 (G) [!].nes,DuckTales 2 (G) [!].nes,nes,131088
+2138,ROM/1216/DuckTales 2 (J).nes,DuckTales 2 (J).nes,nes,131088
+2139,ROM/1216/DuckTales 2 (U) [!].nes,DuckTales 2 (U) [!].nes,nes,131088
+2140,ROM/1217/Kunio-kun no Nekketsu Soccer League (J) [!].nes,Kunio-kun no Nekketsu Soccer League (J) [!].nes,nes,262160
+2141,ROM/1218/The Jetsons (E) [!].nes,The Jetsons (E) [!].nes,nes,393232
+2142,ROM/1218/The Jetsons (J).nes,The Jetsons (J).nes,nes,393232
+2143,ROM/1218/The Jetsons (U) [!].nes,The Jetsons (U) [!].nes,nes,393232
+2144,ROM/1219/The Gorilla Man (J).nes,The Gorilla Man (J).nes,nes,524304
+2145,ROM/1220/Joy Mech Fight (J) [!].nes,Joy Mech Fight (J) [!].nes,nes,524304
+2146,ROM/1221/Mighty Final Fight (E) [!].nes,Mighty Final Fight (E) [!].nes,nes,262160
+2147,ROM/1221/Mighty Final Fight (J) [!].nes,Mighty Final Fight (J) [!].nes,nes,262160
+2148,ROM/1221/Mighty Final Fight (U) [!].nes,Mighty Final Fight (U) [!].nes,nes,262160
+2149,ROM/1222/Pachio-kun 5 (J) [!].nes,Pachio-kun 5 (J) [!].nes,nes,393232
+2150,ROM/1223/J.League Fighting Soccer (J) [!].nes,J.League Fighting Soccer (J) [!].nes,nes,262160
+2151,ROM/1224/Ushio to Tora (J).nes,Ushio to Tora (J).nes,nes,393232
+2152,ROM/1225/Famimaga Disk Vol. 5 - Puyo Puyo (J).fds,Famimaga Disk Vol. 5 - Puyo Puyo (J).fds,fds,131016
+2153,ROM/1225/Puyo Puyo (J).nes,Puyo Puyo (J).nes,nes,131088
+2154,ROM/1226/Bonk's Adventure (U) [!].nes,Bonk's Adventure (U) [!].nes,nes,393232
+2155,ROM/1226/FC Genjin (J).nes,FC Genjin (J).nes,nes,393232
+2156,ROM/1227/Kouryuu Densetsu Villgust Gaiden (J).nes,Kouryuu Densetsu Villgust Gaiden (J).nes,nes,393232
+2157,ROM/1228/Dragon Ball Z Gaiden (J) [!].nes,Dragon Ball Z Gaiden (J) [!].nes,nes,524304
+2158,ROM/1229/Crayon Shin-chan - Ora to Poi Poi (J) [!].nes,Crayon Shin-chan - Ora to Poi Poi (J) [!].nes,nes,262160
+2159,ROM/1229/Datach - Crayon Shin-chan - Ora to Poi Poi (J).nes,Datach - Crayon Shin-chan - Ora to Poi Poi (J).nes,nes,262160
+2160,ROM/1230/Crayon Shin-chan - Ora to Poi Poi (J) [!].nes,Crayon Shin-chan - Ora to Poi Poi (J) [!].nes,nes,262160
+2161,ROM/1230/Datach - Crayon Shin-chan - Ora to Poi Poi (J).nes,Datach - Crayon Shin-chan - Ora to Poi Poi (J).nes,nes,262160
+2162,ROM/1231/Pachi-Slot Adventure 2 (J) [!].nes,Pachi-Slot Adventure 2 (J) [!].nes,nes,262160
+2163,ROM/1232/Tetris 2 (E) [!].nes,Tetris 2 (E) [!].nes,nes,262160
+2164,ROM/1232/Tetris 2 (U) [!].nes,Tetris 2 (U) [!].nes,nes,262160
+2165,ROM/1232/Tetris Flash (J) [!].nes,Tetris Flash (J) [!].nes,nes,262160
+2166,ROM/1233/Datach - Yuu Yuu Hakusho (J).nes,Datach - Yuu Yuu Hakusho (J).nes,nes,262160
+2167,ROM/1234/Daiku no Gen-san 2 (J) [!].nes,Daiku no Gen-san 2 (J) [!].nes,nes,524304
+2168,ROM/1235/Rokudenashi Blues (J) [!].nes,Rokudenashi Blues (J) [!].nes,nes,524304
+2169,ROM/1236/Megaman VI (U) [!].nes,Megaman VI (U) [!].nes,nes,524304
+2170,ROM/1236/Megaman VI (W) (MMLC).nes,Megaman VI (W) (MMLC).nes,nes,524304
+2171,ROM/1236/Rockman 6 - Shijou Saidai no Tatakai!! (J) [!].nes,Rockman 6 - Shijou Saidai no Tatakai!! (J) [!].nes,nes,524304
+2172,ROM/1237/Datach - Battle Rush (J).nes,Datach - Battle Rush (J).nes,nes,262160
+2173,ROM/1238/RPG Jinsei Game (J).nes,RPG Jinsei Game (J).nes,nes,393232
+2174,ROM/1239/Famista '94 (J) [!].nes,Famista '94 (J) [!].nes,nes,262160
+2175,ROM/1240/Keroppi to Keroriinu no Splash Bomb! (J) [!].nes,Keroppi to Keroriinu no Splash Bomb! (J) [!].nes,nes,163856
+2176,ROM/1241/Chip 'n Dale Rescue Rangers 2 (E).nes,Chip 'n Dale Rescue Rangers 2 (E).nes,nes,262160
+2177,ROM/1241/Chip 'n Dale Rescue Rangers 2 (U) [!].nes,Chip 'n Dale Rescue Rangers 2 (U) [!].nes,nes,262160
+2178,ROM/1241/Chip to Dale no Daisakusen 2 (J).nes,Chip to Dale no Daisakusen 2 (J).nes,nes,262160
+2179,ROM/1242/Nakayoshi to Issho (J).nes,Nakayoshi to Issho (J).nes,nes,393232
+2180,ROM/1243/Nekketsu! Street Basket (J).nes,Nekketsu! Street Basket (J).nes,nes,262160
+2181,ROM/1244/Igo Shinan '94 (J).nes,Igo Shinan '94 (J).nes,nes,163856
+2182,ROM/1245/Momotarou Densetsu Gaiden (J).nes,Momotarou Densetsu Gaiden (J).nes,nes,524304
+2183,ROM/1246/The Legend of Zelda (E) (PRG0) [!].nes,The Legend of Zelda (E) (PRG0) [!].nes,nes,131088
+2184,ROM/1246/The Legend of Zelda (E) (PRG1) [!].nes,The Legend of Zelda (E) (PRG1) [!].nes,nes,131088
+2185,ROM/1246/The Legend of Zelda (U) (PRG0) [!].nes,The Legend of Zelda (U) (PRG0) [!].nes,nes,131088
+2186,ROM/1246/The Legend of Zelda (U) (PRG1) [!].nes,The Legend of Zelda (U) (PRG1) [!].nes,nes,131088
+2187,ROM/1246/Zelda no Densetsu (J) (PRG0).fds,Zelda no Densetsu (J) (PRG0).fds,fds,131016
+2188,ROM/1246/Zelda no Densetsu (J) (RPG1).fds,Zelda no Densetsu (J) (RPG1).fds,fds,131016
+2189,ROM/1246/Zelda no Densetsu 1 (J) [!].nes,Zelda no Densetsu 1 (J) [!].nes,nes,131088
+2190,ROM/1247/Wario no Mori (J) [!].nes,Wario no Mori (J) [!].nes,nes,524304
+2191,ROM/1247/Wario's Woods (E) [!].nes,Wario's Woods (E) [!].nes,nes,524304
+2192,ROM/1247/Wario's Woods (U) [!].nes,Wario's Woods (U) [!].nes,nes,524304
+2193,ROM/1248/2-in-1 (Final Fantasy I & II) (J) [!].nes,2-in-1 (Final Fantasy I & II) (J) [!].nes,nes,524304
+2194,ROM/1249/Datach - J.League Super Top Players (J).nes,Datach - J.League Super Top Players (J).nes,nes,262160
+2195,ROM/1250/Pachi-Slot Adventure 3 (J) [!].nes,Pachi-Slot Adventure 3 (J) [!].nes,nes,262160
+2196,ROM/1251/J.League Winning Goal (J) [!].nes,J.League Winning Goal (J) [!].nes,nes,262160
+2197,ROM/1252/Takahashi Meijin no Boukenjima IV (J).nes,Takahashi Meijin no Boukenjima IV (J).nes,nes,393232

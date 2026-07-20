@@ -1,0 +1,356 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<title>智趣宝盒 - 成长中心</title>
+
+<style>
+
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    font-family:"Microsoft YaHei",sans-serif;
+}
+
+body{
+    width:1024px;
+    height:600px;
+    overflow:hidden;
+    background:#0F172A;
+    color:#fff;
+}
+
+.container{
+    width:1024px;
+    height:600px;
+    padding:16px;
+    display:flex;
+    flex-direction:column;
+    gap:12px;
+}
+
+/* 顶部栏 */
+
+.header{
+    height:60px;
+    background:#1E293B;
+    border-radius:16px;
+    display:flex;
+    align-items:center;
+    justify-content:space-between;
+    padding:0 20px;
+}
+
+.back-btn{
+    width:100px;
+    height:40px;
+    background:#334155;
+    border-radius:10px;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+}
+
+.title{
+    font-size:24px;
+    color:#60A5FA;
+    font-weight:bold;
+}
+
+.level-tag{
+    color:#10B981;
+}
+
+/* 等级卡片 */
+
+.level-card{
+    height:120px;
+    background:#1E293B;
+    border-radius:20px;
+    padding:20px;
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+}
+
+.level-left{
+    display:flex;
+    align-items:center;
+    gap:16px;
+}
+
+.level-icon{
+    width:72px;
+    height:72px;
+    border-radius:50%;
+    background:#2563EB;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    font-size:32px;
+}
+
+.level-info h2{
+    font-size:28px;
+    margin-bottom:6px;
+}
+
+.level-info p{
+    color:#94A3B8;
+}
+
+.level-right{
+    width:360px;
+}
+
+.exp-top{
+    display:flex;
+    justify-content:space-between;
+    margin-bottom:10px;
+}
+
+.progress-bg{
+    height:12px;
+    background:#334155;
+    border-radius:12px;
+}
+
+.progress-value{
+    width:68%;
+    height:12px;
+    border-radius:12px;
+    background:#10B981;
+}
+
+/* 数据区 */
+
+.stats-grid{
+    display:grid;
+    grid-template-columns:repeat(4,1fr);
+    gap:12px;
+}
+
+.stat-card{
+    height:95px;
+    background:#1E293B;
+    border-radius:16px;
+    display:flex;
+    flex-direction:column;
+    justify-content:center;
+    align-items:center;
+}
+
+.stat-value{
+    font-size:26px;
+    font-weight:bold;
+    color:#60A5FA;
+}
+
+.stat-label{
+    margin-top:8px;
+    color:#94A3B8;
+}
+
+/* 成就区 */
+
+.achievement-panel{
+    flex:1;
+    background:#1E293B;
+    border-radius:20px;
+    padding:16px;
+}
+
+.panel-title{
+    font-size:22px;
+    margin-bottom:14px;
+    color:#F8FAFC;
+}
+
+.achievement-list{
+    display:grid;
+    grid-template-columns:1fr 1fr;
+    gap:12px;
+}
+
+.badge{
+    height:80px;
+    border-radius:14px;
+    background:#334155;
+    display:flex;
+    align-items:center;
+    padding:14px;
+}
+
+.badge-icon{
+    font-size:32px;
+    margin-right:14px;
+}
+
+.badge-info h3{
+    margin-bottom:6px;
+}
+
+.badge-info p{
+    font-size:13px;
+    color:#94A3B8;
+}
+
+.unlocked{
+    border-left:6px solid #10B981;
+}
+
+.locked{
+    border-left:6px solid #64748B;
+    opacity:0.7;
+}
+
+</style>
+</head>
+
+<body>
+
+<div class="container">
+
+    <!-- 顶部栏 -->
+
+    <div class="header">
+
+        <div class="back-btn">
+            ← 返回
+        </div>
+
+        <div class="title">
+            🏆 成长中心
+        </div>
+
+        <div class="level-tag">
+            Lv.3 学习达人
+        </div>
+
+    </div>
+
+    <!-- 等级卡片 -->
+
+    <div class="level-card">
+
+        <div class="level-left">
+
+            <div class="level-icon">
+                🎓
+            </div>
+
+            <div class="level-info">
+                <h2>Lv.3 学习达人</h2>
+                <p>让学习像游戏一样有趣</p>
+            </div>
+
+        </div>
+
+        <div class="level-right">
+
+            <div class="exp-top">
+                <span>经验值</span>
+                <span>680 / 1000</span>
+            </div>
+
+            <div class="progress-bg">
+                <div class="progress-value"></div>
+            </div>
+
+        </div>
+
+    </div>
+
+    <!-- 数据统计 -->
+
+    <div class="stats-grid">
+
+        <div class="stat-card">
+            <div class="stat-value">5天</div>
+            <div class="stat-label">连续学习</div>
+        </div>
+
+        <div class="stat-card">
+            <div class="stat-value">38</div>
+            <div class="stat-label">完成题目</div>
+        </div>
+
+        <div class="stat-card">
+            <div class="stat-value">27</div>
+            <div class="stat-label">AI问答</div>
+        </div>
+
+        <div class="stat-card">
+            <div class="stat-value">12h</div>
+            <div class="stat-label">学习时长</div>
+        </div>
+
+    </div>
+
+    <!-- 成就墙 -->
+
+    <div class="achievement-panel">
+
+        <div class="panel-title">
+            已获得成就
+        </div>
+
+        <div class="achievement-list">
+
+            <div class="badge unlocked">
+                <div class="badge-icon">🥉</div>
+                <div class="badge-info">
+                    <h3>初出茅庐</h3>
+                    <p>完成第一次学习任务</p>
+                </div>
+            </div>
+
+            <div class="badge unlocked">
+                <div class="badge-icon">🥈</div>
+                <div class="badge-info">
+                    <h3>学习新星</h3>
+                    <p>累计学习10小时</p>
+                </div>
+            </div>
+
+            <div class="badge unlocked">
+                <div class="badge-icon">🏅</div>
+                <div class="badge-info">
+                    <h3>AI探索者</h3>
+                    <p>完成20次AI问答</p>
+                </div>
+            </div>
+
+            <div class="badge locked">
+                <div class="badge-icon">🔒</div>
+                <div class="badge-info">
+                    <h3>百题挑战</h3>
+                    <p>完成100道题目</p>
+                </div>
+            </div>
+
+            <div class="badge locked">
+                <div class="badge-icon">🔒</div>
+                <div class="badge-info">
+                    <h3>学习大师</h3>
+                    <p>达到Lv.10</p>
+                </div>
+            </div>
+
+            <div class="badge locked">
+                <div class="badge-icon">🔒</div>
+                <div class="badge-info">
+                    <h3>全能学霸</h3>
+                    <p>完成全部挑战任务</p>
+                </div>
+            </div>
+
+        </div>
+
+    </div>
+
+</div>
+
+</body>
+</html>

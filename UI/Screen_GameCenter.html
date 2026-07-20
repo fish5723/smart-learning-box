@@ -1,0 +1,440 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<title>智趣宝盒 - 趣味游戏</title>
+
+<style>
+
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    font-family:"Microsoft YaHei",sans-serif;
+}
+
+body{
+    width:1024px;
+    height:600px;
+    overflow:hidden;
+    background:#0F172A;
+    color:#fff;
+}
+
+.container{
+    width:1024px;
+    height:600px;
+    padding:16px;
+    display:flex;
+    flex-direction:column;
+    gap:12px;
+}
+
+/* 顶部 */
+
+.header{
+    height:60px;
+    background:#1E293B;
+    border-radius:16px;
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    padding:0 20px;
+}
+
+.back-btn{
+    width:100px;
+    height:40px;
+    background:#334155;
+    border-radius:10px;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+}
+
+.title{
+    font-size:24px;
+    color:#60A5FA;
+    font-weight:bold;
+}
+
+.level{
+    color:#10B981;
+}
+
+/* 欢迎卡 */
+
+.banner{
+    height:100px;
+    background:#1E293B;
+    border-radius:20px;
+    display:flex;
+    align-items:center;
+    justify-content:space-between;
+    padding:0 24px;
+}
+
+.banner-left{
+    display:flex;
+    align-items:center;
+    gap:16px;
+}
+
+.banner-icon{
+    width:60px;
+    height:60px;
+    border-radius:50%;
+    background:#7C3AED;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    font-size:30px;
+}
+
+.banner-text h2{
+    margin-bottom:6px;
+}
+
+.banner-text p{
+    color:#94A3B8;
+}
+
+.banner-score{
+    text-align:right;
+}
+
+.banner-score h2{
+    color:#FBBF24;
+}
+
+/* 游戏列表 */
+
+.game-grid{
+    flex:1;
+    display:grid;
+    grid-template-columns:1fr 1fr;
+    gap:14px;
+}
+
+/* 游戏卡片 */
+
+.game-card{
+    background:#1E293B;
+    border-radius:20px;
+    padding:20px;
+    display:flex;
+    flex-direction:column;
+    justify-content:space-between;
+}
+
+.game-top{
+    display:flex;
+    align-items:center;
+    gap:16px;
+}
+
+.game-icon{
+    width:72px;
+    height:72px;
+    border-radius:18px;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    font-size:36px;
+}
+
+.icon-2048{
+    background:#F59E0B;
+}
+
+.icon-math{
+    background:#2563EB;
+}
+
+.icon-word{
+    background:#10B981;
+}
+
+.icon-coming{
+    background:#64748B;
+}
+
+.game-name{
+    font-size:24px;
+    font-weight:bold;
+}
+
+.game-desc{
+    color:#94A3B8;
+    margin-top:4px;
+}
+
+.game-bottom{
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+}
+
+.reward{
+    color:#FBBF24;
+}
+
+.play-btn{
+    width:120px;
+    height:42px;
+    background:#2563EB;
+    border-radius:10px;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+}
+
+.lock-btn{
+    width:120px;
+    height:42px;
+    background:#475569;
+    border-radius:10px;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+}
+
+/* 底部 */
+
+.footer{
+    height:60px;
+    background:#1E293B;
+    border-radius:16px;
+    display:flex;
+    justify-content:space-around;
+    align-items:center;
+}
+
+.footer-item{
+    text-align:center;
+}
+
+.footer-value{
+    font-size:20px;
+    font-weight:bold;
+    color:#60A5FA;
+}
+
+.footer-label{
+    color:#94A3B8;
+    font-size:13px;
+}
+
+</style>
+</head>
+
+<body>
+
+<div class="container">
+
+    <div class="header">
+
+        <div class="back-btn">
+            ← 返回
+        </div>
+
+        <div class="title">
+            🎮 趣味游戏
+        </div>
+
+        <div class="level">
+            今日奖励已获得 30%
+        </div>
+
+    </div>
+
+    <div class="banner">
+
+        <div class="banner-left">
+
+            <div class="banner-icon">
+                🏆
+            </div>
+
+            <div class="banner-text">
+                <h2>游戏化学习中心</h2>
+                <p>边玩边学，获得积分与成长值</p>
+            </div>
+
+        </div>
+
+        <div class="banner-score">
+            <h2>1200积分</h2>
+            <p>当前拥有</p>
+        </div>
+
+    </div>
+
+    <div class="game-grid">
+
+        <div class="game-card">
+
+            <div class="game-top">
+
+                <div class="game-icon icon-2048">
+                    🔢
+                </div>
+
+                <div>
+                    <div class="game-name">
+                        数学2048
+                    </div>
+
+                    <div class="game-desc">
+                        锻炼逻辑思维与数字感知
+                    </div>
+                </div>
+
+            </div>
+
+            <div class="game-bottom">
+
+                <div class="reward">
+                    +20 积分
+                </div>
+
+                <div class="play-btn">
+                    开始挑战
+                </div>
+
+            </div>
+
+        </div>
+
+        <div class="game-card">
+
+            <div class="game-top">
+
+                <div class="game-icon icon-math">
+                    ➗
+                </div>
+
+                <div>
+                    <div class="game-name">
+                        数学答题赛
+                    </div>
+
+                    <div class="game-desc">
+                        限时计算挑战
+                    </div>
+                </div>
+
+            </div>
+
+            <div class="game-bottom">
+
+                <div class="reward">
+                    +30 积分
+                </div>
+
+                <div class="lock-btn">
+                    开发中
+                </div>
+
+            </div>
+
+        </div>
+
+        <div class="game-card">
+
+            <div class="game-top">
+
+                <div class="game-icon icon-word">
+                    📚
+                </div>
+
+                <div>
+                    <div class="game-name">
+                        单词王者
+                    </div>
+
+                    <div class="game-desc">
+                        英语单词记忆挑战
+                    </div>
+                </div>
+
+            </div>
+
+            <div class="game-bottom">
+
+                <div class="reward">
+                    +25 积分
+                </div>
+
+                <div class="lock-btn">
+                    开发中
+                </div>
+
+            </div>
+
+        </div>
+
+        <div class="game-card">
+
+            <div class="game-top">
+
+                <div class="game-icon icon-coming">
+                    ⭐
+                </div>
+
+                <div>
+                    <div class="game-name">
+                        更多游戏
+                    </div>
+
+                    <div class="game-desc">
+                        后续持续扩展
+                    </div>
+                </div>
+
+            </div>
+
+            <div class="game-bottom">
+
+                <div class="reward">
+                    敬请期待
+                </div>
+
+                <div class="lock-btn">
+                    未开放
+                </div>
+
+            </div>
+
+        </div>
+
+    </div>
+
+    <div class="footer">
+
+        <div class="footer-item">
+            <div class="footer-value">18</div>
+            <div class="footer-label">累计挑战</div>
+        </div>
+
+        <div class="footer-item">
+            <div class="footer-value">1200</div>
+            <div class="footer-label">游戏积分</div>
+        </div>
+
+        <div class="footer-item">
+            <div class="footer-value">5</div>
+            <div class="footer-label">最高连胜</div>
+        </div>
+
+        <div class="footer-item">
+            <div class="footer-value">Lv.3</div>
+            <div class="footer-label">游戏等级</div>
+        </div>
+
+    </div>
+
+</div>
+
+</body>
+</html>

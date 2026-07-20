@@ -1,0 +1,20 @@
+## Component dependencies (Component Manager)
+dependencies:
+  ## LVGL 9.x - must pair with LV_CONF_SKIP=y in sdkconfig.defaults
+  lvgl/lvgl: 9.4.0
+
+  ## ESP32-P4 Remote Wi-Fi via ESP32-C6 over SDIO
+  ## esp_hosted 2.9.6 — 经过版本回归验证: 2.12.9 会必现 SDIO 258, 2.9.6 无此问题
+  espressif/esp_wifi_remote: "0.14.2"
+  espressif/esp_hosted: "2.9.6"
+  espressif/eppp_link: "0.3.1"
+  espressif/esp_serial_slave_link: "1.1.0~1"
+
+  ## Official touch driver (replaces local components/esp_lcd_touch_gt911)
+  espressif/esp_lcd_touch_gt911: "^1.1.0"
+
+  ## Camera sensor driver (OV5647 SCCB + format config)
+  espressif/esp_cam_sensor: "^1.1.0"
+
+  ## LVGL adapter
+  espressif/esp_lvgl_adapter: '*'

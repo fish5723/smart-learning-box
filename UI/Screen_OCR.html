@@ -1,0 +1,367 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<title>智趣宝盒 - AI拍照解题</title>
+
+<style>
+
+*{
+margin:0;
+padding:0;
+box-sizing:border-box;
+font-family:"Microsoft YaHei";
+}
+
+body{
+width:1024px;
+height:600px;
+overflow:hidden;
+background:#0F172A;
+color:white;
+}
+
+.container{
+width:100%;
+height:100%;
+padding:16px;
+display:flex;
+flex-direction:column;
+gap:12px;
+}
+
+/* 顶部栏 */
+
+.header{
+height:60px;
+background:#1E293B;
+border-radius:16px;
+display:flex;
+justify-content:space-between;
+align-items:center;
+padding:0 20px;
+}
+
+.back{
+width:100px;
+height:40px;
+background:#334155;
+border-radius:10px;
+display:flex;
+justify-content:center;
+align-items:center;
+}
+
+.title{
+font-size:24px;
+font-weight:bold;
+color:#60A5FA;
+}
+
+.status{
+color:#10B981;
+}
+
+/* 主体 */
+
+.main{
+flex:1;
+display:flex;
+gap:12px;
+}
+
+/* 左侧 */
+
+.camera-panel{
+width:450px;
+background:#1E293B;
+border-radius:20px;
+padding:16px;
+display:flex;
+flex-direction:column;
+gap:12px;
+}
+
+.camera-title{
+font-size:18px;
+font-weight:bold;
+}
+
+.camera-view{
+flex:1;
+background:#334155;
+border-radius:16px;
+display:flex;
+justify-content:center;
+align-items:center;
+font-size:22px;
+color:#94A3B8;
+}
+
+.camera-btns{
+display:flex;
+justify-content:space-between;
+gap:10px;
+}
+
+.btn{
+flex:1;
+height:50px;
+border-radius:12px;
+display:flex;
+justify-content:center;
+align-items:center;
+font-weight:bold;
+}
+
+.capture{
+background:#2563EB;
+}
+
+.album{
+background:#475569;
+}
+
+/* 右侧 */
+
+.result-panel{
+flex:1;
+display:flex;
+flex-direction:column;
+gap:12px;
+}
+
+.card{
+background:#1E293B;
+border-radius:16px;
+padding:16px;
+}
+
+.card-title{
+font-size:18px;
+font-weight:bold;
+margin-bottom:10px;
+color:#60A5FA;
+}
+
+.question{
+font-size:20px;
+line-height:1.8;
+}
+
+.ai-explain{
+line-height:1.8;
+color:#CBD5E1;
+}
+
+.point-tag{
+display:inline-block;
+padding:6px 12px;
+background:#2563EB;
+border-radius:20px;
+margin-right:8px;
+margin-top:8px;
+}
+
+/* 底部任务 */
+
+.bottom-panel{
+height:80px;
+background:#1E293B;
+border-radius:16px;
+display:flex;
+justify-content:space-between;
+align-items:center;
+padding:0 20px;
+}
+
+.reward{
+font-size:22px;
+font-weight:bold;
+color:#10B981;
+}
+
+.ai-btn{
+width:180px;
+height:50px;
+background:#7C3AED;
+border-radius:12px;
+display:flex;
+justify-content:center;
+align-items:center;
+font-weight:bold;
+}
+
+</style>
+</head>
+
+<body>
+
+<div class="container">
+
+<!-- 顶部 -->
+
+<div class="header">
+
+<div class="back">
+← 返回
+</div>
+
+<div class="title">
+📷 AI拍照解题
+</div>
+
+<div class="status">
+● 摄像头已连接
+</div>
+
+</div>
+
+<!-- 主体 -->
+
+<div class="main">
+
+<!-- 左侧摄像头 -->
+
+<div class="camera-panel">
+
+<div class="camera-title">
+实时预览
+</div>
+
+<div class="camera-view">
+
+📚 摄像头预览区
+
+<br><br>
+
+OV5640 MIPI-CSI
+
+</div>
+
+<div class="camera-btns">
+
+<div class="btn capture">
+📸 拍照识别
+</div>
+
+<div class="btn album">
+🖼 导入图片
+</div>
+
+</div>
+
+</div>
+
+<!-- 右侧结果 -->
+
+<div class="result-panel">
+
+<div class="card">
+
+<div class="card-title">
+OCR识别结果
+</div>
+
+<div class="question">
+
+已识别题目：
+
+<br><br>
+
+x² + 2x + 1 = 0
+
+求 x 的值
+
+</div>
+
+</div>
+
+<div class="card">
+
+<div class="card-title">
+AI老师讲解
+</div>
+
+<div class="ai-explain">
+
+观察可发现：
+
+<br><br>
+
+x² + 2x + 1
+
+=
+
+(x + 1)²
+
+<br><br>
+
+因此：
+
+(x + 1)² = 0
+
+<br><br>
+
+解得：
+
+x = -1
+
+</div>
+
+</div>
+
+<div class="card">
+
+<div class="card-title">
+知识点
+</div>
+
+<span class="point-tag">
+完全平方公式
+</span>
+
+<span class="point-tag">
+一元二次方程
+</span>
+
+<span class="point-tag">
+因式分解
+</span>
+
+</div>
+
+</div>
+
+</div>
+
+<!-- 底部 -->
+
+<div class="bottom-panel">
+
+<div>
+
+🎯 今日任务：
+
+完成3次拍照解题
+
+</div>
+
+<div class="reward">
+
++10 学习积分
+
+</div>
+
+<div class="ai-btn">
+
+🤖 深入讲解
+
+</div>
+
+</div>
+
+</div>
+
+</body>
+</html>

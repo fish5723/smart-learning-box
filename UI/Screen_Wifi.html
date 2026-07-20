@@ -1,0 +1,379 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<title>Screen_Wifi</title>
+
+<style>
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    font-family:"Microsoft YaHei";
+}
+
+body{
+
+    background:#1F2937;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    height:100vh;
+}
+
+.screen{
+
+    width:1024px;
+    height:600px;
+    background:#111827;
+    border-radius:18px;
+    color:white;
+    overflow:hidden;
+}
+
+.header{
+
+    height:60px;
+    background:#1E293B;
+    display:flex;
+    align-items:center;
+    justify-content:space-between;
+    padding:0 25px;
+    border-bottom:1px solid #334155;
+}
+
+.title{
+
+    font-size:30px;
+    font-weight:bold;
+}
+
+.back{
+
+    width:110px;
+    height:42px;
+
+    background:#3B82F6;
+
+    border-radius:12px;
+
+    display:flex;
+    justify-content:center;
+    align-items:center;
+
+    font-size:18px;
+}
+
+.content{
+
+    padding:25px;
+
+}
+
+.status_card{
+
+    background:#1E293B;
+
+    border-radius:18px;
+
+    padding:20px;
+
+    margin-bottom:20px;
+
+}
+
+.status_title{
+
+    font-size:20px;
+
+    color:#94A3B8;
+
+}
+
+.status_value{
+
+    margin-top:12px;
+
+    font-size:32px;
+
+    color:#22C55E;
+
+}
+
+.info{
+
+    margin-top:10px;
+
+    color:#CBD5E1;
+
+}
+
+.list{
+
+    background:#1E293B;
+
+    border-radius:18px;
+
+    overflow:hidden;
+
+}
+
+.item{
+
+    height:72px;
+
+    display:flex;
+
+    justify-content:space-between;
+
+    align-items:center;
+
+    padding:0 25px;
+
+    border-bottom:1px solid #334155;
+
+    transition:.2s;
+
+}
+
+.item:hover{
+
+    background:#263244;
+
+}
+
+.left{
+
+    display:flex;
+
+    align-items:center;
+
+    gap:20px;
+
+}
+
+.ssid{
+
+    font-size:24px;
+
+}
+
+.signal{
+
+    color:#60A5FA;
+
+    font-size:18px;
+
+}
+
+.connect{
+
+    width:120px;
+
+    height:42px;
+
+    border-radius:12px;
+
+    background:#3B82F6;
+
+    display:flex;
+
+    justify-content:center;
+
+    align-items:center;
+
+}
+
+.bottom{
+
+    display:flex;
+
+    justify-content:space-between;
+
+    margin-top:25px;
+
+}
+
+.btn{
+
+    width:180px;
+
+    height:52px;
+
+    background:#374151;
+
+    border-radius:14px;
+
+    display:flex;
+
+    justify-content:center;
+
+    align-items:center;
+
+    font-size:20px;
+
+}
+
+.scan{
+
+    background:#2563EB;
+
+}
+
+</style>
+
+</head>
+
+<body>
+
+<div class="screen">
+
+    <div class="header">
+
+        <div class="back">
+            ← 返回
+        </div>
+
+        <div class="title">
+            WiFi 设置
+        </div>
+
+        <div>
+            📶
+        </div>
+
+    </div>
+
+    <div class="content">
+
+        <div class="status_card">
+
+            <div class="status_title">
+                当前网络
+            </div>
+
+            <div class="status_value">
+                已连接
+            </div>
+
+            <div class="info">
+                TP-LINK_5G
+            </div>
+
+            <div class="info">
+                IP：192.168.1.128
+            </div>
+
+        </div>
+
+        <div class="list">
+
+            <div class="item">
+
+                <div class="left">
+
+                    <div>📶</div>
+
+                    <div class="ssid">
+                        TP-LINK_5G
+                    </div>
+
+                    <div class="signal">
+                        信号：★★★★★
+                    </div>
+
+                </div>
+
+                <div class="connect">
+                    已连接
+                </div>
+
+            </div>
+
+            <div class="item">
+
+                <div class="left">
+
+                    <div>📶</div>
+
+                    <div class="ssid">
+                        ChinaNet
+                    </div>
+
+                    <div class="signal">
+                        信号：★★★★☆
+                    </div>
+
+                </div>
+
+                <div class="connect">
+                    连接
+                </div>
+
+            </div>
+
+            <div class="item">
+
+                <div class="left">
+
+                    <div>📶</div>
+
+                    <div class="ssid">
+                        Redmi_K50
+                    </div>
+
+                    <div class="signal">
+                        信号：★★★☆☆
+                    </div>
+
+                </div>
+
+                <div class="connect">
+                    连接
+                </div>
+
+            </div>
+
+            <div class="item">
+
+                <div class="left">
+
+                    <div>🔒</div>
+
+                    <div class="ssid">
+                        ESP32_TEST
+                    </div>
+
+                    <div class="signal">
+                        需要密码
+                    </div>
+
+                </div>
+
+                <div class="connect">
+                    连接
+                </div>
+
+            </div>
+
+        </div>
+
+        <div class="bottom">
+
+            <div class="btn scan">
+                🔄 重新扫描
+            </div>
+
+            <div class="btn">
+                忘记网络
+            </div>
+
+        </div>
+
+    </div>
+
+</div>
+
+</body>
+
+</html>

@@ -1,0 +1,15 @@
+# Build
+build/
+sdkconfig
+sdkconfig.old
+
+# IDE
+.vscode/
+
+# ESP-IDF Component Manager (re-download with `idf.py reconfigure`)
+managed_components/
+dependencies.lock
+
+# OS
+Thumbs.db
+.DS_Store

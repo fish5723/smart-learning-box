@@ -1,0 +1,7 @@
+# Name,   Type, SubType, Offset,  Size, Flags
+# ─── 标准分区表（16MB Flash） ───
+nvs,      data, nvs,     0x9000,  0x6000
+phy_init, data, phy,     0xf000,  0x1000
+factory,  app,  factory, 0x10000, 0xA00000
+slave_fw, data, undefined,0xA10000,0x200000
+storage,  data, fat,     0xC10000,0x3F0000

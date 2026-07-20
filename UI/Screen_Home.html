@@ -1,0 +1,361 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=1024, height=600">
+<title>智趣宝盒 - Home</title>
+
+<style>
+
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    font-family:"Microsoft YaHei",sans-serif;
+}
+
+body{
+    background:#0F172A;
+    width:1024px;
+    height:600px;
+    overflow:hidden;
+    color:white;
+}
+
+.container{
+    width:1024px;
+    height:600px;
+    padding:16px;
+    display:flex;
+    flex-direction:column;
+    gap:14px;
+}
+
+/* =======================
+   顶部状态栏
+======================= */
+
+.status-bar{
+    height:52px;
+    background:#1E293B;
+    border-radius:14px;
+    display:flex;
+    align-items:center;
+    justify-content:space-between;
+    padding:0 20px;
+}
+
+.logo{
+    font-size:24px;
+    font-weight:bold;
+    color:#60A5FA;
+}
+
+.status-left,
+.status-right{
+    display:flex;
+    align-items:center;
+    gap:12px;
+    font-size:15px;
+    color:#CBD5E1;
+}
+
+/* =======================
+   欢迎卡片
+======================= */
+
+.welcome-card{
+    height:120px;
+    background:#1E293B;
+    border-radius:20px;
+    padding:20px;
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+}
+
+.user-area{
+    display:flex;
+    align-items:center;
+    gap:18px;
+}
+
+.avatar{
+    width:72px;
+    height:72px;
+    border-radius:50%;
+    background:#2563EB;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    font-size:32px;
+}
+
+.user-info h2{
+    font-size:26px;
+    margin-bottom:6px;
+}
+
+.user-info p{
+    color:#94A3B8;
+    font-size:14px;
+}
+
+.study-data{
+    width:320px;
+}
+
+.study-data-top{
+    display:flex;
+    justify-content:space-between;
+    margin-bottom:10px;
+    color:#E2E8F0;
+}
+
+.progress-bg{
+    width:100%;
+    height:10px;
+    border-radius:10px;
+    background:#334155;
+}
+
+.progress-value{
+    width:68%;
+    height:10px;
+    border-radius:10px;
+    background:#10B981;
+}
+
+/* =======================
+   功能区域
+======================= */
+
+.function-grid{
+    flex:1;
+    display:grid;
+    grid-template-columns:1fr 1fr;
+    grid-template-rows:1fr 1fr;
+    gap:14px;
+}
+
+.function-card{
+    background:#1E293B;
+    border-radius:18px;
+    padding:18px;
+    display:flex;
+    flex-direction:column;
+    justify-content:center;
+    cursor:pointer;
+    transition:0.2s;
+}
+
+.function-card:hover{
+    transform:translateY(-2px);
+}
+
+.card-icon{
+    font-size:42px;
+    margin-bottom:12px;
+}
+
+.card-title{
+    font-size:24px;
+    font-weight:bold;
+    margin-bottom:6px;
+}
+
+.card-desc{
+    color:#94A3B8;
+    font-size:14px;
+}
+
+.ai{
+    border-left:6px solid #2563EB;
+}
+
+.ocr{
+    border-left:6px solid #0891B2;
+}
+
+.game{
+    border-left:6px solid #7C3AED;
+}
+
+.achievement{
+    border-left:6px solid #10B981;
+}
+
+/* =======================
+   底部统计
+======================= */
+
+.footer{
+    height:70px;
+    background:#1E293B;
+    border-radius:16px;
+    display:flex;
+    justify-content:space-around;
+    align-items:center;
+}
+
+.footer-item{
+    text-align:center;
+}
+
+.footer-value{
+    font-size:22px;
+    font-weight:bold;
+    color:#60A5FA;
+}
+
+.footer-label{
+    color:#94A3B8;
+    font-size:13px;
+}
+
+</style>
+</head>
+
+<body>
+
+<div class="container">
+
+    <!-- 顶部状态栏 -->
+    <div class="status-bar">
+
+        <div class="status-left">
+            📶 WiFi已连接
+        </div>
+
+        <div class="logo">
+            智趣宝盒
+        </div>
+
+        <div class="status-right">
+            🔋 92%
+            <span>20:30</span>
+        </div>
+
+    </div>
+
+    <!-- 欢迎卡片 -->
+    <div class="welcome-card">
+
+        <div class="user-area">
+
+            <div class="avatar">
+                🎓
+            </div>
+
+            <div class="user-info">
+                <h2>欢迎回来，小礼</h2>
+                <p>让学习像游戏一样有趣</p>
+            </div>
+
+        </div>
+
+        <div class="study-data">
+
+            <div class="study-data-top">
+                <span>Lv.3 学习达人</span>
+                <span>680 / 1000 EXP</span>
+            </div>
+
+            <div class="progress-bg">
+                <div class="progress-value"></div>
+            </div>
+
+        </div>
+
+    </div>
+
+    <!-- 功能入口 -->
+    <div class="function-grid">
+
+        <div class="function-card ai">
+
+            <div class="card-icon">🤖</div>
+
+            <div class="card-title">
+                AI老师
+            </div>
+
+            <div class="card-desc">
+                智能问答与学习辅导
+            </div>
+
+        </div>
+
+        <div class="function-card ocr">
+
+            <div class="card-icon">📷</div>
+
+            <div class="card-title">
+                拍照解题
+            </div>
+
+            <div class="card-desc">
+                OCR识别与AI讲解
+            </div>
+
+        </div>
+
+        <div class="function-card game">
+
+            <div class="card-icon">🎮</div>
+
+            <div class="card-title">
+                趣味游戏
+            </div>
+
+            <div class="card-desc">
+                数学2048挑战
+            </div>
+
+        </div>
+
+        <div class="function-card achievement">
+
+            <div class="card-icon">🏆</div>
+
+            <div class="card-title">
+                成长中心
+            </div>
+
+            <div class="card-desc">
+                积分与成就系统
+            </div>
+
+        </div>
+
+    </div>
+
+    <!-- 底部统计 -->
+    <div class="footer">
+
+        <div class="footer-item">
+            <div class="footer-value">5天</div>
+            <div class="footer-label">连续学习</div>
+        </div>
+
+        <div class="footer-item">
+            <div class="footer-value">38</div>
+            <div class="footer-label">完成题目</div>
+        </div>
+
+        <div class="footer-item">
+            <div class="footer-value">27</div>
+            <div class="footer-label">AI问答</div>
+        </div>
+
+        <div class="footer-item">
+            <div class="footer-value">80%</div>
+            <div class="footer-label">本周目标</div>
+        </div>
+
+    </div>
+
+</div>
+
+</body>
+</html>

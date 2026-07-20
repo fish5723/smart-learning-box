@@ -1,0 +1,281 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<title>Math Adventure 2048</title>
+
+<style>
+
+*{
+margin:0;
+padding:0;
+box-sizing:border-box;
+font-family:"Microsoft YaHei";
+}
+
+body{
+width:1024px;
+height:600px;
+overflow:hidden;
+background:#0F172A;
+color:white;
+}
+
+.container{
+width:100%;
+height:100%;
+padding:16px;
+display:flex;
+flex-direction:column;
+gap:12px;
+}
+
+.header{
+height:60px;
+background:#1E293B;
+border-radius:16px;
+display:flex;
+align-items:center;
+justify-content:space-between;
+padding:0 20px;
+}
+
+.back{
+width:100px;
+height:40px;
+background:#334155;
+border-radius:10px;
+display:flex;
+align-items:center;
+justify-content:center;
+}
+
+.title{
+font-size:24px;
+font-weight:bold;
+color:#FBBF24;
+}
+
+.main{
+flex:1;
+display:flex;
+gap:12px;
+}
+
+.sidebar{
+width:280px;
+display:flex;
+flex-direction:column;
+gap:12px;
+}
+
+.card{
+background:#1E293B;
+border-radius:16px;
+padding:16px;
+}
+
+.card-title{
+color:#94A3B8;
+margin-bottom:8px;
+}
+
+.level{
+font-size:22px;
+font-weight:bold;
+color:#60A5FA;
+}
+
+.ai-box{
+line-height:1.8;
+font-size:14px;
+color:#CBD5E1;
+}
+
+.board-panel{
+flex:1;
+background:#1E293B;
+border-radius:20px;
+display:flex;
+justify-content:center;
+align-items:center;
+}
+
+.board{
+width:420px;
+height:420px;
+background:#334155;
+border-radius:20px;
+padding:10px;
+
+display:grid;
+grid-template-columns:repeat(4,1fr);
+grid-template-rows:repeat(4,1fr);
+gap:10px;
+}
+
+.tile{
+border-radius:12px;
+display:flex;
+justify-content:center;
+align-items:center;
+font-size:28px;
+font-weight:bold;
+}
+
+.t2{background:#EEE4DA;color:#333;}
+.t4{background:#EDE0C8;color:#333;}
+.t8{background:#F2B179;}
+.t16{background:#F59563;}
+.t32{background:#F67C5F;}
+.empty{background:#475569;}
+
+.mission{
+height:80px;
+background:#1E293B;
+border-radius:16px;
+padding:16px;
+display:flex;
+align-items:center;
+justify-content:space-between;
+}
+
+.reward{
+color:#10B981;
+font-size:20px;
+font-weight:bold;
+}
+
+</style>
+</head>
+
+<body>
+
+<div class="container">
+
+<div class="header">
+
+<div class="back">
+← 返回
+</div>
+
+<div class="title">
+🧮 Math Adventure 2048
+</div>
+
+<div>
+Lv.3 数字探险家
+</div>
+
+</div>
+
+<div class="main">
+
+<div class="sidebar">
+
+<div class="card">
+
+<div class="card-title">
+当前关卡
+</div>
+
+<div class="level">
+🌲 数字森林
+</div>
+
+目标：合成64
+
+</div>
+
+<div class="card">
+
+<div class="card-title">
+当前得分
+</div>
+
+<div class="level">
+512
+</div>
+
+</div>
+
+<div class="card">
+
+<div class="card-title">
+AI老师
+</div>
+
+<div class="ai-box">
+
+你刚刚合成了数字16。
+
+知识点：
+
+16 = 4²
+
+平方数表示：
+
+一个数字乘以自己。
+
+例如：
+
+4 × 4 = 16
+
+</div>
+
+</div>
+
+</div>
+
+<div class="board-panel">
+
+<div class="board">
+
+<div class="tile t2">2</div>
+<div class="tile t4">4</div>
+<div class="tile t8">8</div>
+<div class="tile t16">16</div>
+
+<div class="tile t2">2</div>
+<div class="tile t4">4</div>
+<div class="tile empty"></div>
+<div class="tile empty"></div>
+
+<div class="tile t8">8</div>
+<div class="tile t16">16</div>
+<div class="tile t32">32</div>
+<div class="tile empty"></div>
+
+<div class="tile empty"></div>
+<div class="tile empty"></div>
+<div class="tile empty"></div>
+<div class="tile empty"></div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="mission">
+
+<div>
+
+🎯 学习任务：
+
+认识平方数与立方数
+
+</div>
+
+<div class="reward">
+
+完成奖励 +20积分
+
+</div>
+
+</div>
+
+</div>
+
+</body>
+</html>

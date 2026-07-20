@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<title>Dialog_WifiConnecting</title>
+
+<style>
+
+*{
+margin:0;
+padding:0;
+box-sizing:border-box;
+font-family:"Microsoft YaHei";
+}
+
+body{
+
+background:#111827;
+display:flex;
+justify-content:center;
+align-items:center;
+height:100vh;
+
+}
+
+.mask{
+
+position:absolute;
+width:100%;
+height:100%;
+background:rgba(0,0,0,.55);
+
+}
+
+.dialog{
+
+width:480px;
+height:360px;
+
+background:#1E293B;
+
+border-radius:22px;
+
+display:flex;
+flex-direction:column;
+justify-content:center;
+align-items:center;
+
+box-shadow:0 10px 30px rgba(0,0,0,.5);
+
+z-index:10;
+
+}
+
+.icon{
+
+font-size:72px;
+
+margin-bottom:18px;
+
+}
+
+.title{
+
+font-size:32px;
+
+color:white;
+
+margin-bottom:12px;
+
+}
+
+.ssid{
+
+font-size:22px;
+
+color:#60A5FA;
+
+margin-bottom:28px;
+
+}
+
+.spinner{
+
+width:70px;
+
+height:70px;
+
+border:6px solid #334155;
+
+border-top:6px solid #3B82F6;
+
+border-radius:50%;
+
+animation:spin 1s linear infinite;
+
+margin-bottom:26px;
+
+}
+
+.tip{
+
+font-size:20px;
+
+color:#CBD5E1;
+
+}
+
+@keyframes spin{
+
+100%{
+
+transform:rotate(360deg);
+
+}
+
+}
+
+</style>
+
+</head>
+
+<body>
+
+<div class="mask"></div>
+
+<div class="dialog">
+
+<div class="icon">
+📶
+</div>
+
+<div class="title">
+正在连接...
+</div>
+
+<div class="ssid">
+TP-LINK_5G
+</div>
+
+<div class="spinner">
+</div>
+
+<div class="tip">
+请稍候...
+</div>
+
+</div>
+
+</body>
+
+</html>

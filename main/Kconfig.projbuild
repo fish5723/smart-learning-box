@@ -1,0 +1,299 @@
+menu "智趣宝盒 — 硬件配置"
+
+    ## ─── LCD JD9165BA 配置 ───
+    config SMARTBOX_LCD_H_RES
+        int "LCD 水平分辨率"
+        default 1024
+
+    config SMARTBOX_LCD_V_RES
+        int "LCD 垂直分辨率"
+        default 600
+
+    config SMARTBOX_LCD_BACKLIGHT_GPIO
+        int "LCD 背光 GPIO"
+        default -1
+        help
+            背光控制引脚。设为 -1 表示不使用 GPIO 控制背光。
+            常用 PWM 背光请使用 LEDC 外设。
+
+    config SMARTBOX_LCD_RST_GPIO
+        int "LCD 复位 GPIO"
+        default 16
+        help
+            JD9165BA 复位引脚。设为 -1 表示软件复位。
+
+    config SMARTBOX_MIPI_DSI_LANE_NUM
+        int "MIPI DSI 数据通道数"
+        default 2
+        range 1 4
+        help
+            JD9165BA + BOE 7.0 面板使用 2-lane MIPI DSI。
+
+    config SMARTBOX_MIPI_DSI_LANE_BITRATE_MBPS
+        int "MIPI DSI 通道速率 (Mbps)"
+        default 614
+        help
+            JD9165BA + BOE 7.0 面板: DOTCLK=51.2MHz, MIPI_CLK=307MHz → lane bit rate=614Mbps.
+            与 wifi_scan 验证配置一致。
+
+    ## ─── MIPI DSI 防撕裂模式（对应 esp_lvgl_adapter tear-avoid） ───
+    choice
+        prompt "MIPI DSI 防撕裂模式 (Tear-Avoid)"
+        default SMARTBOX_LCD_TEAR_AVOID_DOUBLE_DIRECT
+        help
+            选择防撕裂模式，影响帧缓冲数量和内存占用。
+            DOUBLE_DIRECT 是 MIPI DSI 的默认推荐值。
+
+        config SMARTBOX_LCD_TEAR_AVOID_NONE
+            bool "NONE — 无防撕裂"
+            help
+                1 个帧缓冲 (~1.8 MB)。适用静态 UI，不支持旋转。
+
+        config SMARTBOX_LCD_TEAR_AVOID_DOUBLE_DIRECT
+            bool "DOUBLE_DIRECT — 双缓冲局部刷新 (推荐)"
+            help
+                2 个帧缓冲 (~3.5 MB)。适用小区域/局部 UI 更新 (按钮、文字)。
+
+        config SMARTBOX_LCD_TEAR_AVOID_DOUBLE_FULL
+            bool "DOUBLE_FULL — 双缓冲全屏刷新"
+            help
+                2 个帧缓冲 (~3.5 MB)。适用大区域刷新或动画场景。
+
+        config SMARTBOX_LCD_TEAR_AVOID_TRIPLE_PARTIAL
+            bool "TRIPLE_PARTIAL — 三缓冲局部 + 旋转"
+            help
+                3 个帧缓冲 (~5.3 MB)。适用 90°/270° 旋转 + 局部刷新。
+
+        config SMARTBOX_LCD_TEAR_AVOID_TRIPLE_FULL
+            bool "TRIPLE_FULL — 三缓冲全屏"
+            help
+                3 个帧缓冲 (~5.3 MB)。适用 90°/270° 旋转 + 全屏动画。
+    endchoice
+
+    ## ─── LCD 旋转角度 ───
+    choice
+        prompt "LCD 旋转角度"
+        default SMARTBOX_LCD_ROTATE_0
+        help
+            LCD 面板物理旋转角度。90°/270° 需要三缓冲防撕裂模式。
+
+        config SMARTBOX_LCD_ROTATE_0
+            bool "0° (横屏)"
+        config SMARTBOX_LCD_ROTATE_90
+            bool "90°"
+        config SMARTBOX_LCD_ROTATE_180
+            bool "180°"
+        config SMARTBOX_LCD_ROTATE_270
+            bool "270°"
+    endchoice
+
+    ## ─── DMA2D 加速 ───
+    config SMARTBOX_DMA2D_ENABLE
+        bool "启用 DMA2D 帧缓冲拷贝加速"
+        default y
+        help
+            使用 ESP32-P4 的 DMA2D 模块将 LVGL 绘制缓冲拷贝到 LCD 帧缓冲。
+
+    ## ─── 触摸屏 GT911 ───
+    config SMARTBOX_TOUCH_ENABLED
+        bool "启用触摸屏 (GT911)"
+        default y
+
+    config SMARTBOX_TOUCH_RST_GPIO
+        int "GT911 RST GPIO"
+        depends on SMARTBOX_TOUCH_ENABLED
+        default 22
+
+    config SMARTBOX_TOUCH_INT_GPIO
+        int "GT911 INT GPIO"
+        depends on SMARTBOX_TOUCH_ENABLED
+        default 21
+
+    config SMARTBOX_TOUCH_I2C_SDA
+        int "GT911 SDA GPIO (I2C)"
+        depends on SMARTBOX_TOUCH_ENABLED
+        default 7
+
+    config SMARTBOX_TOUCH_I2C_SCL
+        int "GT911 SCL GPIO (I2C)"
+        depends on SMARTBOX_TOUCH_ENABLED
+        default 8
+
+    config SMARTBOX_TOUCH_I2C_ADDR
+        hex "GT911 I2C 地址 (7-bit)"
+        depends on SMARTBOX_TOUCH_ENABLED
+        default 0x14
+        help
+            GT911 I2C 地址: 0x14 (INT=LOW 时, 7-bit).
+            与 wifi_scan 验证配置一致。
+
+    ## ─── 摄像头 ───
+    config SMARTBOX_CAMERA_ENABLED
+        bool "启用摄像头"
+        default y
+
+    choice
+        prompt "摄像头传感器型号"
+        depends on SMARTBOX_CAMERA_ENABLED
+        default SMARTBOX_CAMERA_OV5647
+
+        config SMARTBOX_CAMERA_OV5647
+            bool "OV5647 (MIPI CSI)"
+        config SMARTBOX_CAMERA_OV5640
+            bool "OV5640 (MIPI CSI)"
+    endchoice
+
+    ## ─── SD 卡 ───
+    config SMARTBOX_SDCARD_ENABLED
+        bool "启用 SD 卡 (SDMMC 4-bit)"
+        default y
+        help
+            32GB TF 卡，SDMMC 4-bit 模式 (Slot 0)，20MHz。
+            挂载点: /sdcard。
+
+    ## ─── Wi-Fi ───
+    config SMARTBOX_WIFI_ENABLED
+        bool "启用 Wi-Fi (esp_wifi_remote)"
+        default y
+        help
+            ESP32-P4 通过 SDIO 连接 ESP32-C6 实现 Wi-Fi 6。
+
+    config SMARTBOX_WIFI_AUTO_CONNECT
+        bool "WiFi 自动连接"
+        depends on SMARTBOX_WIFI_ENABLED
+        default n
+        help
+            启动时自动连接配置的 WiFi 网络。
+
+    config SMARTBOX_WIFI_SSID
+        string "WiFi SSID"
+        depends on SMARTBOX_WIFI_AUTO_CONNECT
+        default ""
+        help
+            要自动连接的 WiFi 网络名称。
+
+    config SMARTBOX_WIFI_PASSWORD
+        string "WiFi 密码"
+        depends on SMARTBOX_WIFI_AUTO_CONNECT
+        default ""
+        help
+            WiFi 网络密码。开放网络留空。
+
+    ## ─── 大模型 (LLM) ───
+    config SMARTBOX_LLM_API_KEY
+        string "LLM API Key (火山引擎豆包)"
+        default ""
+        help
+            火山引擎 API Key，用于调用 doubao-seed-1.6-vision 模型 (ai-gateway.vei.volces.com)。
+            视觉模型可单独配置 SMARTBOX_VISION_API_KEY，不填则复用此 Key。
+            获取方式: https://console.volcengine.com → API Keys
+
+    ## ─── 视觉模型 (Vision LLM) ───
+    config SMARTBOX_VISION_API_KEY
+        string "视觉模型 API Key (SiliconFlow / OpenAI 兼容)"
+        default ""
+        help
+            视觉语言模型 API Key。默认使用 SiliconFlow (硅基流动)。
+            如不填则回退使用 SMARTBOX_LLM_API_KEY。
+            获取方式: https://siliconflow.cn → 登录 → API 密钥
+
+    config SMARTBOX_VISION_BASE_URL
+        string "视觉模型 API Base URL"
+        default "https://api.siliconflow.cn/v1"
+        help
+            OpenAI 兼容的 API 端点。默认使用 SiliconFlow。
+            其他选项: https://dashscope.aliyuncs.com/compatible-mode/v1 (阿里百炼)
+
+    config SMARTBOX_VISION_MODEL
+        string "视觉模型名称"
+        default "Qwen/Qwen3-VL-8B-Instruct"
+        help
+            视觉语言模型。SiliconFlow 当前可用:
+              Qwen/Qwen3-VL-8B-Instruct  — Qwen3-VL, 推荐使用
+              Qwen/Qwen2.5-VL-7B-Instruct — Qwen2.5-VL, 快速轻量
+              Qwen/Qwen2-VL-72B-Instruct  — Qwen2-VL, 最强(如可用)
+
+    config SMARTBOX_VISION_HOST
+        string "视觉模型 API Host (TLS SNI)"
+        default "api.siliconflow.cn"
+        help
+            HTTPS 连接时用于 TLS SNI 的主机名。
+
+    ## ─── SD 卡功能 ───
+    config SMARTBOX_ANSWER_CACHE_ENABLED
+        bool "启用 AI 答题缓存"
+        depends on SMARTBOX_SDCARD_ENABLED
+        default y
+        help
+            对 OCR 识别结果做 MD5 哈希，相同题目跳过 Phase 2 API 调用直接返回缓存答案。
+            演示效果：同一道题拍两次 → 瞬间出结果。
+            缓存文件: /sdcard/cache/<md5>.md5
+
+    config SMARTBOX_WRONG_BOOK_ENABLED
+        bool "启用错题本"
+        depends on SMARTBOX_SDCARD_ENABLED
+        default y
+        help
+            拍照识别后标记错题，存入 SD 卡 (/sdcard/wrong_book/index.json)
+            供后续复习。支持添加、列表、删除、标记已复习。
+
+    config SMARTBOX_PHOTO_HISTORY_ENABLED
+        bool "启用拍照历史"
+        depends on SMARTBOX_SDCARD_ENABLED
+        default y
+        help
+            每次拍照解题自动保存 JPEG 照片和 OCR 结果到 SD 卡。
+            文件: /sdcard/photos/YYYYMMDD_HHMMSS.jpg + .txt
+
+    config SMARTBOX_CRASH_LOG_ENABLED
+        bool "启用崩溃日志"
+        depends on SMARTBOX_SDCARD_ENABLED
+        default y
+        help
+            系统异常复位时自动将复位原因、堆栈回溯、内存状态写入 SD 卡。
+            日志文件: /sdcard/logs/crash_YYYYMMDD_HHMMSS.txt
+
+    ## ─── 开发调试 ───
+    config SMARTBOX_TASK_WDT_ENABLED
+        bool "启用主循环任务看门狗喂狗"
+        default y
+        help
+            在 system_init 主逻辑循环中定期调用 esp_task_wdt_reset()，
+            防止长期运行中因 HTTP/其他同步操作触发 TASK_WDT 复位。
+
+    config SMARTBOX_DEMO_ENABLED
+        bool "启用 LVGL Stress Demo（调试用）"
+        default n
+        help
+            启用后运行 lv_demo_stress() 进行压力测试。
+            日常开发请关闭此选项以使用 Home 主页。
+
+    config SMARTBOX_SDCARD_TEST_MODE
+        bool "SD 卡独立测试模式（跳过所有 UI/网络模块）"
+        default n
+        help
+            启用后系统仅初始化 SD 卡并运行读写测试。
+            LCD、触摸、WiFi、LVGL 均不启动。
+            用于验证 SD 卡硬件连接和 FatFS 挂载。
+            正常使用请关闭此选项。
+
+    config SMARTBOX_AI_TEST_MODE
+        bool "AI 老师 SDIO 稳定性测试模式（headless）"
+        default n
+        help
+            启用后系统仅初始化 NVS + Storage + SD 卡 + WiFi + LLM，
+            然后运行一系列 AI 问答压力测试，专门检测 SDIO 状态混乱 (258) 问题。
+            LCD、触摸、LVGL 均不启动，测试结果通过串口输出。
+
+            测试内容:
+            - 基础网络诊断 (WiFi/DNS/时间/API Key)
+            - 单次短问答
+            - 长响应 SSE 流压力测试
+            - 连续 3 轮快速问答
+            - SD 卡并发 I/O + AI 查询
+            - 多学科上下文问答
+            - 输入防御测试
+
+            正常使用请关闭此选项。
+
+endmenu

@@ -1,0 +1,315 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=1024,height=600">
+<title>智趣宝盒 - AI老师</title>
+
+<style>
+
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    font-family:"Microsoft YaHei",sans-serif;
+}
+
+body{
+    width:1024px;
+    height:600px;
+    overflow:hidden;
+    background:#0F172A;
+    color:white;
+}
+
+/* ======================
+   主容器
+====================== */
+
+.container{
+    width:1024px;
+    height:600px;
+    padding:16px;
+    display:flex;
+    flex-direction:column;
+    gap:12px;
+}
+
+/* ======================
+   顶部导航
+====================== */
+
+.header{
+    height:60px;
+    background:#1E293B;
+    border-radius:16px;
+    display:flex;
+    align-items:center;
+    justify-content:space-between;
+    padding:0 20px;
+}
+
+.back-btn{
+    width:100px;
+    height:40px;
+    border-radius:10px;
+    background:#334155;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    cursor:pointer;
+}
+
+.title{
+    font-size:24px;
+    font-weight:bold;
+    color:#60A5FA;
+}
+
+.online{
+    color:#10B981;
+}
+
+/* ======================
+   学科快捷入口
+====================== */
+
+.subject-panel{
+    height:70px;
+    background:#1E293B;
+    border-radius:16px;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    gap:14px;
+}
+
+.subject-btn{
+    width:120px;
+    height:42px;
+    border-radius:12px;
+    background:#334155;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    cursor:pointer;
+    font-size:15px;
+}
+
+.subject-btn.active{
+    background:#2563EB;
+}
+
+/* ======================
+   聊天区
+====================== */
+
+.chat-panel{
+    flex:1;
+    background:#1E293B;
+    border-radius:18px;
+    padding:20px;
+    overflow:hidden;
+    display:flex;
+    flex-direction:column;
+    gap:18px;
+}
+
+/* AI消息 */
+
+.ai-message{
+    display:flex;
+    align-items:flex-start;
+    gap:12px;
+}
+
+.ai-avatar{
+    width:42px;
+    height:42px;
+    border-radius:50%;
+    background:#2563EB;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    flex-shrink:0;
+}
+
+.ai-bubble{
+    max-width:70%;
+    background:#334155;
+    padding:14px;
+    border-radius:16px;
+    line-height:1.6;
+}
+
+/* 用户消息 */
+
+.user-message{
+    display:flex;
+    justify-content:flex-end;
+}
+
+.user-bubble{
+    max-width:70%;
+    background:#2563EB;
+    padding:14px;
+    border-radius:16px;
+    line-height:1.6;
+}
+
+/* ======================
+   输入区
+====================== */
+
+.input-panel{
+    height:80px;
+    background:#1E293B;
+    border-radius:16px;
+    display:flex;
+    align-items:center;
+    gap:12px;
+    padding:0 16px;
+}
+
+.input-box{
+    flex:1;
+    height:50px;
+    border-radius:12px;
+    background:#334155;
+    display:flex;
+    align-items:center;
+    padding-left:16px;
+    color:#94A3B8;
+}
+
+.send-btn{
+    width:120px;
+    height:50px;
+    border-radius:12px;
+    background:#2563EB;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    font-weight:bold;
+    cursor:pointer;
+}
+
+</style>
+
+</head>
+
+<body>
+
+<div class="container">
+
+    <!-- 顶部导航 -->
+
+    <div class="header">
+
+        <div class="back-btn">
+            ← 返回
+        </div>
+
+        <div class="title">
+            🤖 AI老师
+        </div>
+
+        <div class="online">
+            ● 在线
+        </div>
+
+    </div>
+
+    <!-- 学科按钮 -->
+
+    <div class="subject-panel">
+
+        <div class="subject-btn active">
+            数学
+        </div>
+
+        <div class="subject-btn">
+            英语
+        </div>
+
+        <div class="subject-btn">
+            语文
+        </div>
+
+        <div class="subject-btn">
+            物理
+        </div>
+
+        <div class="subject-btn">
+            化学
+        </div>
+
+    </div>
+
+    <!-- 聊天区域 -->
+
+    <div class="chat-panel">
+
+        <div class="ai-message">
+
+            <div class="ai-avatar">
+                🤖
+            </div>
+
+            <div class="ai-bubble">
+                你好，我是智趣宝盒AI老师。<br>
+                有什么不会的问题都可以问我哦！
+            </div>
+
+        </div>
+
+        <div class="user-message">
+
+            <div class="user-bubble">
+                3 × 7 等于多少？
+            </div>
+
+        </div>
+
+        <div class="ai-message">
+
+            <div class="ai-avatar">
+                🤖
+            </div>
+
+            <div class="ai-bubble">
+                3 × 7 = 21。<br><br>
+                因为乘法表示相同数字连续相加：<br>
+                3 + 3 + 3 + 3 + 3 + 3 + 3 = 21
+            </div>
+
+        </div>
+
+        <div class="user-message">
+
+            <div class="user-bubble">
+                为什么乘法比加法快？
+            </div>
+
+        </div>
+
+    </div>
+
+    <!-- 输入区域 -->
+
+    <div class="input-panel">
+
+        <div class="input-box">
+            输入你的问题...
+        </div>
+
+        <div class="send-btn">
+            发送
+        </div>
+
+    </div>
+
+</div>
+
+</body>
+</html>
