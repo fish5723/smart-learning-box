@@ -61,9 +61,9 @@ This project was developed for the **National College IoT Design Competition**.
 | Co-processor | ESP32-C6 (WiFi 6 / BLE 5, SDIO) |
 | Display | 7" IPS 1024×600, MIPI-DSI, JD9165 driver |
 | Touch | GT911 Capacitive Touch |
-| Camera | OV5640, MIPI-CSI, 2592×1944 |
-| Audio | MEMS mic + speaker (I2S/ES8311) |
-| Storage | 16GB TF card (FatFS) + 16MB NOR Flash |
+| Camera | OV5647, MIPI-CSI, 2592×1944 |
+| Audio | MEMS mic + speaker (I2S/ES8311)（未实现） |
+| Storage | 32GB TF card (FatFS) + 16MB NOR Flash |
 
 ### 🚀 Quick Start
 
@@ -152,8 +152,8 @@ MIT License
 | 协处理器 | ESP32-C6 (WiFi 6 / BLE 5, SDIO 通信) |
 | 显示屏 | 7" IPS 1024×600, MIPI-DSI, JD9165 驱动 |
 | 触摸 | GT911 电容触摸 |
-| 摄像头 | OV5640, MIPI-CSI, 2592×1944 |
-| 音频 | MEMS 麦克风 + 外接喇叭 (I2S/ES8311) |
+| 摄像头 | OV5647, MIPI-CSI, 2592×1944 |
+| 音频 | MEMS 麦克风 + 外接喇叭 (I2S/ES8311)（未实现） |
 | 存储 | 16GB TF 卡 (FatFS) + 16MB NOR Flash |
 
 ### 🚀 快速开始
