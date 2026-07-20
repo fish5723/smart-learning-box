@@ -1,0 +1,128 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 620" width="900" height="620">
+  <defs>
+    <linearGradient id="bg2" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#0F172A"/>
+      <stop offset="100%" style="stop-color:#1E293B"/>
+    </linearGradient>
+    <linearGradient id="flowBlue" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#3B82F6"/>
+      <stop offset="100%" style="stop-color:#2563EB"/>
+    </linearGradient>
+    <linearGradient id="flowGreen" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#10B981"/>
+      <stop offset="100%" style="stop-color:#059669"/>
+    </linearGradient>
+    <linearGradient id="flowPurple" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#8B5CF6"/>
+      <stop offset="100%" style="stop-color:#7C3AED"/>
+    </linearGradient>
+    <marker id="arrowBlue" markerWidth="10" markerHeight="7" refX="10" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#3B82F6"/>
+    </marker>
+    <marker id="arrowGreen" markerWidth="10" markerHeight="7" refX="10" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#10B981"/>
+    </marker>
+    <marker id="arrowPurple" markerWidth="10" markerHeight="7" refX="10" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#8B5CF6"/>
+    </marker>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="2" result="coloredBlur"/>
+      <feMerge><feMergeNode in="coloredBlur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect width="900" height="620" rx="20" fill="url(#bg2)"/>
+
+  <!-- Title -->
+  <text x="450" y="40" font-family="system-ui,sans-serif" font-size="20" font-weight="bold" fill="#FFFFFF" text-anchor="middle">AI / OCR 数据流（Data Flow）</text>
+  <rect x="350" y="55" width="200" height="3" rx="1.5" fill="#3B82F6"/>
+
+  <!-- ===== Step 1: Capture ===== -->
+  <rect x="60" y="90" width="160" height="60" rx="12" fill="#1E293B" stroke="#3B82F6" stroke-width="2"/>
+  <text x="140" y="115" font-family="system-ui,sans-serif" font-size="14" font-weight="bold" fill="#60A5FA" text-anchor="middle">📸 拍照 / 导入</text>
+  <text x="140" y="135" font-family="system-ui,sans-serif" font-size="11" fill="#94A3B8" text-anchor="middle">OV5640 / 相册 JPEG</text>
+
+  <!-- Arrow 1 -->
+  <line x1="220" y1="120" x2="290" y2="120" stroke="#3B82F6" stroke-width="2" marker-end="url(#arrowBlue)" stroke-dasharray="4,3"/>
+  <text x="255" y="112" font-family="system-ui,sans-serif" font-size="10" fill="#3B82F6" text-anchor="middle">JPEG</text>
+
+  <!-- Step 2: Vision Core (state machine) -->
+  <rect x="300" y="85" width="200" height="70" rx="12" fill="#1E293B" stroke="#8B5CF6" stroke-width="2"/>
+  <text x="400" y="108" font-family="system-ui,sans-serif" font-size="14" font-weight="bold" fill="#A78BFA" text-anchor="middle">Vision Core 状态机</text>
+  <text x="400" y="126" font-family="system-ui,sans-serif" font-size="10" fill="#94A3B8" text-anchor="middle">PREPARE → CAPTURE → UPLOAD</text>
+  <text x="400" y="140" font-family="system-ui,sans-serif" font-size="10" fill="#94A3B8" text-anchor="middle">→ PROCESS → DISPLAY → CLEANUP</text>
+
+  <!-- Arrow 2 -->
+  <line x1="500" y1="120" x2="570" y2="120" stroke="#8B5CF6" stroke-width="2" marker-end="url(#arrowPurple)" stroke-dasharray="4,3"/>
+  <text x="535" y="112" font-family="system-ui,sans-serif" font-size="10" fill="#8B5CF6" text-anchor="middle">POST</text>
+
+  <!-- Step 3: Qwen3-VL -->
+  <rect x="580" y="85" width="160" height="70" rx="12" fill="#1E293B" stroke="#10B981" stroke-width="2"/>
+  <text x="660" y="108" font-family="system-ui,sans-serif" font-size="14" font-weight="bold" fill="#34D399" text-anchor="middle">🖼 Qwen3-VL</text>
+  <text x="660" y="126" font-family="system-ui,sans-serif" font-size="11" fill="#94A3B8" text-anchor="middle">视觉识别 API</text>
+  <text x="660" y="140" font-family="system-ui,sans-serif" font-size="10" fill="#6EE7B7" text-anchor="middle">识别文字</text>
+
+  <!-- Branch label -->
+  <text x="450" y="195" font-family="system-ui,sans-serif" font-size="11" fill="#64748B" text-anchor="middle">OCR 流水线（两步串联）</text>
+  <line x1="370" y1="200" x2="530" y2="200" stroke="#334155" stroke-width="1"/>
+
+  <!-- Large Step box (OCR) -->
+  <rect x="60" y="215" width="780" height="200" rx="16" fill="#1E293B" stroke="#334155" stroke-width="1" opacity="0.5"/>
+
+  <!-- OCR Step 1 box -->
+  <rect x="90" y="235" width="200" height="60" rx="10" fill="#0F172A" stroke="#3B82F6" stroke-width="1.5"/>
+  <text x="190" y="258" font-family="system-ui,sans-serif" font-size="13" font-weight="bold" fill="#60A5FA" text-anchor="middle">Step 1: 文字识别</text>
+  <text x="190" y="278" font-family="system-ui,sans-serif" font-size="11" fill="#94A3B8" text-anchor="middle">Qwen3-VL → 提取题目文本</text>
+
+  <line x1="290" y1="265" x2="370" y2="265" stroke="#3B82F6" stroke-width="2" marker-end="url(#arrowBlue)"/>
+
+  <!-- OCR Step 2 box -->
+  <rect x="380" y="235" width="200" height="60" rx="10" fill="#0F172A" stroke="#F59E0B" stroke-width="1.5"/>
+  <text x="480" y="258" font-family="system-ui,sans-serif" font-size="13" font-weight="bold" fill="#FBBF24" text-anchor="middle">Step 2: 解题推理</text>
+  <text x="480" y="278" font-family="system-ui,sans-serif" font-size="11" fill="#94A3B8" text-anchor="middle">豆包大模型 → 解析答案</text>
+
+  <line x1="580" y1="265" x2="660" y2="265" stroke="#F59E0B" stroke-width="2" marker-end="url(#arrowBlue)"/>
+
+  <!-- Result -->
+  <rect x="670" y="235" width="140" height="60" rx="10" fill="#0F172A" stroke="#10B981" stroke-width="1.5"/>
+  <text x="740" y="258" font-family="system-ui,sans-serif" font-size="13" font-weight="bold" fill="#34D399" text-anchor="middle">✅ 结果返回</text>
+  <text x="740" y="278" font-family="system-ui,sans-serif" font-size="11" fill="#94A3B8" text-anchor="middle">答案 + 讲解</text>
+
+  <!-- Cache section -->
+  <rect x="90" y="315" width="180" height="50" rx="8" fill="#0F172A" stroke="#64748B" stroke-width="1" stroke-dasharray="4,3"/>
+  <text x="180" y="335" font-family="system-ui,sans-serif" font-size="12" fill="#94A3B8" text-anchor="middle">💾 答案缓存</text>
+  <text x="180" y="352" font-family="system-ui,sans-serif" font-size="10" fill="#64748B" text-anchor="middle">MD5 哈希 → 相同题目秒出</text>
+
+  <rect x="310" y="315" width="180" height="50" rx="8" fill="#0F172A" stroke="#64748B" stroke-width="1" stroke-dasharray="4,3"/>
+  <text x="400" y="335" font-family="system-ui,sans-serif" font-size="12" fill="#94A3B8" text-anchor="middle">📝 错题本</text>
+  <text x="400" y="352" font-family="system-ui,sans-serif" font-size="10" fill="#64748B" text-anchor="middle">自动归档 → 复习闭环</text>
+
+  <line x1="180" y1="315" x2="180" y2="298" stroke="#64748B" stroke-width="1" stroke-dasharray="3,2"/>
+  <line x1="400" y1="315" x2="400" y2="298" stroke="#64748B" stroke-width="1" stroke-dasharray="3,2"/>
+
+  <!-- ===== AI 对话流水线 ===== -->
+  <rect x="60" y="440" width="780" height="160" rx="16" fill="#1E293B" stroke="#334155" stroke-width="1" opacity="0.5"/>
+
+  <text x="450" y="420" font-family="system-ui,sans-serif" font-size="11" fill="#64748B" text-anchor="middle">AI 对话流水线</text>
+  <line x1="370" y1="425" x2="530" y2="425" stroke="#334155" stroke-width="1"/>
+
+  <rect x="90" y="460" width="160" height="50" rx="10" fill="#0F172A" stroke="#3B82F6" stroke-width="1.5"/>
+  <text x="170" y="483" font-family="system-ui,sans-serif" font-size="13" font-weight="bold" fill="#60A5FA" text-anchor="middle">用户输入</text>
+  <text x="170" y="498" font-family="system-ui,sans-serif" font-size="10" fill="#94A3B8" text-anchor="middle">文本 / 语音</text>
+
+  <line x1="250" y1="485" x2="320" y2="485" stroke="#3B82F6" stroke-width="2" marker-end="url(#arrowBlue)"/>
+
+  <rect x="330" y="460" width="180" height="50" rx="10" fill="#0F172A" stroke="#8B5CF6" stroke-width="1.5"/>
+  <text x="420" y="483" font-family="system-ui,sans-serif" font-size="13" font-weight="bold" fill="#A78BFA" text-anchor="middle">豆包大模型</text>
+  <text x="420" y="498" font-family="system-ui,sans-serif" font-size="10" fill="#94A3B8" text-anchor="middle">SSE 流式响应</text>
+
+  <line x1="510" y1="485" x2="580" y2="485" stroke="#8B5CF6" stroke-width="2" marker-end="url(#arrowPurple)"/>
+
+  <rect x="590" y="460" width="160" height="50" rx="10" fill="#0F172A" stroke="#10B981" stroke-width="1.5"/>
+  <text x="670" y="483" font-family="system-ui,sans-serif" font-size="13" font-weight="bold" fill="#34D399" text-anchor="middle">AI 回答展示</text>
+  <text x="670" y="498" font-family="system-ui,sans-serif" font-size="10" fill="#94A3B8" text-anchor="middle">LVGL 聊天 UI</text>
+
+  <!-- SSE detail -->
+  <rect x="90" y="530" width="720" height="50" rx="8" fill="#0F172A" stroke="#64748B" stroke-width="1" stroke-dasharray="4,3"/>
+  <text x="450" y="550" font-family="system-ui,sans-serif" font-size="12" fill="#94A3B8" text-anchor="middle">HTTPS / JSON / SSE 流式解析器 → ai_llm_parser → 逐片段渲染 LVGL 文本</text>
+  <text x="450" y="567" font-family="system-ui,sans-serif" font-size="10" fill="#64748B" text-anchor="middle">内存管理: 动态缓冲 + 分片释放，适配 P4 32MB PSRAM</text>
+</svg>
